@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "location": {
+      "value": "eastus"
+    },
+    "containerAppEnvironmentName": {
+      "value": "real-estate-env"
+    },
+    "containerAppName": {
+      "value": "real-estate-app"
+    },
+    "containerImage": {
+      "value": "yourregistry.azurecr.io/real-estate-app:latest"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+name: real-estate-price-predictor
+metadata:
+  template: real-estate-price-predictor@0.0.1-beta
+services:
+  app:
+    project: ./
+    host: containerapp
+    language: python

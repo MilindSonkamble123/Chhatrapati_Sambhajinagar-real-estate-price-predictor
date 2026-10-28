@@ -1,0 +1,1001 @@
+Property_ID,Listing_ID,Locality,Property_Type,BHK,Bathrooms,Builtup_Area_sqft,Floor,Property_Age_Years,Furnishing,Sale_Status,Amenities_Level,Construction_Type,Parking,Gated_Community,School_Distance_km,Hospital_Distance_km,Airport_Distance_km,Railway_Distance_km,Bus_Stand_Distance_km,Main_Road_Distance_km,Pollution_AQI_Approx,Price_Per_Sqft_INR,Price_INR,Total_Rooms_Approx,Area_per_BHK_sqft
+1,CSN-10001,CIDCO N-3,Apartment,4,3,1414,8,1,Semi-Furnished,Resale,Standard,RCC+Brick,0,0,0.77,3.18,7.55,4.96,1.72,1.73,106.8,4929.28,6970000,7,353.5
+2,CSN-10002,Kranti Chowk,Independent House,3,4,1008,0,3,Semi-Furnished,Resale,Standard,RCC+Brick,0,0,3.54,2.78,7.22,4.15,3.8,1.42,105.8,5605.16,5650000,7,336.0
+3,CSN-10003,Harsool Road,Apartment,2,2,921,8,2,Unfurnished,Under Construction,None,RCC+AAC Block,0,1,2.92,4.04,10.13,3.4,3.35,1.27,105.2,3952.23,3640000,4,460.5
+4,CSN-10004,CIDCO N-6,Row House,3,3,1140,0,16,Semi-Furnished,Under Construction,None,RCC+Brick,0,0,1.5,2.61,12.98,2.92,4.45,0.19,106.7,4517.54,5150000,6,380.0
+5,CSN-10005,Garkheda,Apartment,2,1,905,10,20,Semi-Furnished,Resale,Basic,RCC,0,0,1.19,3.7,8.93,6.66,2.36,1.3,107.9,4718.23,4270000,3,452.5
+6,CSN-10006,Paithan Road,Apartment,2,3,1085,6,18,Semi-Furnished,Resale,Basic,RCC+AAC Block,0,0,2.69,3.93,8.2,3.98,2.88,0.19,98.9,3391.71,3680000,5,542.5
+7,CSN-10007,Nakshatrawadi,Independent House,3,3,2547,0,16,Unfurnished,Ready to Move,Premium,RCC+Brick,0,0,1.15,2.53,11.02,0.85,3.65,1.34,99.1,3215.55,8190000,6,849.0
+8,CSN-10008,Deolai,Row House,3,4,1510,0,1,Fully Furnished,Under Construction,Basic,RCC+Brick,0,0,2.44,4.9,11.01,5.86,5.19,0.49,103.1,3887.42,5870000,7,503.3
+9,CSN-10009,CIDCO N-5,Villa,3,2,3125,0,1,Semi-Furnished,Ready to Move,None,RCC+Brick,1,0,5.41,3.58,5.53,0.5,3.4,0.71,103.5,4496.0,14050000,5,1041.7
+10,CSN-10010,Kanchanwadi,Villa,1,1,2598,0,14,Semi-Furnished,Under Construction,Basic,RCC+AAC Block,1,0,2.51,5.48,8.89,7.36,2.25,0.49,100.8,3652.81,9490000,2,2598.0
+11,CSN-10011,CIDCO N-7,Apartment,3,4,1403,3,19,Unfurnished,Under Construction,Basic,RCC,1,0,2.69,2.36,4.82,1.93,3.26,2.15,100.4,4754.1,6670000,7,467.7
+12,CSN-10012,Shahnoorwadi,Apartment,3,2,957,3,7,Fully Furnished,Resale,Basic,RCC+AAC Block,0,0,0.7,5.31,13.67,4.57,2.43,2.08,91.9,4796.24,4590000,5,319.0
+13,CSN-10013,Railway Station Area,Apartment,2,3,638,8,0,Semi-Furnished,Ready to Move,Standard,RCC+AAC Block,0,0,2.15,1.82,4.84,2.89,2.5,1.75,92.0,5172.41,3300000,5,319.0
+14,CSN-10014,CIDCO N-4,Row House,4,4,1363,0,10,Fully Furnished,Ready to Move,Premium,RCC+AAC Block,0,1,1.95,3.34,9.03,2.4,3.14,1.34,120.9,5223.77,7120000,8,340.8
+15,CSN-10015,Kanchanwadi,Apartment,1,2,731,3,17,Unfurnished,Ready to Move,None,RCC+AAC Block,1,0,2.02,1.51,6.91,2.9,2.86,0.15,99.0,4213.41,3080000,3,731.0
+16,CSN-10016,Nakshatrawadi,Apartment,3,4,945,2,3,Unfurnished,Ready to Move,None,RCC+AAC Block,0,0,1.93,4.09,9.8,4.1,2.8,0.38,106.5,3587.3,3390000,7,315.0
+17,CSN-10017,CIDCO N-2,Apartment,2,3,1250,8,10,Fully Furnished,Ready to Move,None,RCC+Brick,0,1,2.55,2.86,14.78,8.78,3.58,0.74,98.5,5008.0,6260000,5,625.0
+18,CSN-10018,Town Centre,Builder Floor,5,5,986,6,16,Semi-Furnished,Ready to Move,Basic,RCC,0,0,1.88,2.86,7.74,5.37,5.21,0.1,107.8,5608.52,5530000,10,197.2
+19,CSN-10019,CIDCO N-5,Apartment,2,2,948,8,7,Semi-Furnished,Under Construction,Standard,RCC,0,0,1.04,2.53,12.4,6.4,5.6,1.91,103.5,4862.87,4610000,4,474.0
+20,CSN-10020,Kanchanwadi,Apartment,3,3,697,7,4,Fully Furnished,Ready to Move,Premium,RCC+Brick,1,1,2.28,4.64,10.75,9.37,4.1,0.26,108.2,3859.4,2690000,6,232.3
+21,CSN-10021,Jalna Road,Plot,0,0,3082,0,12,Semi-Furnished,Under Construction,None,RCC+Brick,1,0,1.46,3.44,11.97,6.46,0.3,1.38,103.6,3663.21,11290000,0,
+22,CSN-10022,Paithan Road,Apartment,3,4,760,5,15,Fully Furnished,Ready to Move,None,RCC+AAC Block,0,0,3.1,4.5,9.2,5.56,3.41,0.68,105.6,3736.84,2840000,7,253.3
+23,CSN-10023,CIDCO N-4,Villa,4,5,2713,0,7,Semi-Furnished,Under Construction,Standard,RCC,0,0,2.21,4.86,11.07,7.02,3.83,2.6,95.6,4364.17,11840000,9,678.2
+24,CSN-10024,Itkheda,Independent House,2,2,2546,0,9,Unfurnished,Ready to Move,Standard,RCC+AAC Block,0,0,2.68,3.73,9.33,1.61,0.3,1.23,100.5,4281.23,10900000,4,1273.0
+25,CSN-10025,Satara Parisar,Builder Floor,1,1,744,2,5,Fully Furnished,Resale,Premium,RCC,1,0,2.42,4.15,7.32,6.25,2.6,1.13,110.2,3561.83,2650000,2,744.0
+26,CSN-10026,Itkheda,Builder Floor,3,4,1491,8,17,Unfurnished,Resale,Standard,RCC+AAC Block,0,0,2.12,4.9,8.78,2.99,2.11,0.31,102.2,4064.39,6060000,7,497.0
+27,CSN-10027,CIDCO N-3,Apartment,4,4,1270,8,9,Unfurnished,Resale,Standard,RCC,0,0,1.53,2.25,5.29,3.43,3.64,1.09,106.9,4858.27,6170000,8,317.5
+28,CSN-10028,CIDCO N-8,Plot,0,0,2842,0,9,Semi-Furnished,Under Construction,Standard,RCC+AAC Block,0,0,2.58,5.73,14.73,5.17,3.24,1.85,94.9,3669.95,10430000,0,
+29,CSN-10029,Shahnoorwadi,Row House,2,2,1816,0,0,Unfurnished,Resale,Basic,RCC+Brick,0,0,4.33,4.55,5.61,5.83,2.39,1.03,106.2,5170.7,9390000,4,908.0
+30,CSN-10030,Mukundwadi,Villa,3,4,2049,0,11,Fully Furnished,Ready to Move,Basic,RCC+Brick,0,0,2.14,2.76,6.16,6.03,1.72,1.6,109.6,4299.66,8810000,7,683.0
+31,CSN-10031,Garkheda,Independent House,1,1,1642,0,17,Semi-Furnished,Ready to Move,Premium,RCC+AAC Block,1,0,3.7,4.25,6.34,1.39,0.3,0.87,122.6,4792.94,7870000,2,1642.0
+32,CSN-10032,Town Centre,Apartment,2,2,1033,6,15,Fully Furnished,Under Construction,Basic,RCC,1,0,1.44,4.26,13.39,2.67,1.67,2.0,98.7,5634.08,5820000,4,516.5
+33,CSN-10033,Waluj,Apartment,2,3,925,10,5,Fully Furnished,Under Construction,Standard,RCC+Brick,0,1,0.48,3.89,6.88,7.75,0.3,0.73,94.6,3308.11,3060000,5,462.5
+34,CSN-10034,Satara Parisar,Apartment,3,4,714,4,18,Semi-Furnished,Under Construction,Premium,RCC+Brick,0,0,2.81,3.41,14.61,4.79,2.54,0.75,99.0,3767.51,2690000,7,238.0
+35,CSN-10035,Harsool Road,Row House,2,2,1813,0,0,Unfurnished,Under Construction,Standard,RCC+AAC Block,0,0,2.02,2.09,10.15,5.45,0.83,1.16,106.0,3612.8,6550000,4,906.5
+36,CSN-10036,Harsool Road,Independent House,4,4,1775,0,15,Unfurnished,Resale,None,RCC,1,0,1.88,1.5,10.64,9.79,1.24,0.7,108.2,4095.77,7270000,8,443.8
+37,CSN-10037,Shahanurwadi,Apartment,1,2,759,9,10,Unfurnished,Resale,Basic,RCC+AAC Block,0,0,3.09,3.34,3.18,6.24,2.13,1.96,95.8,4295.13,3260000,3,759.0
+38,CSN-10038,Railway Station Area,Apartment,3,3,707,8,16,Fully Furnished,Under Construction,Basic,RCC+AAC Block,0,0,1.31,1.2,10.64,5.58,2.08,2.07,96.6,4964.64,3510000,6,235.7
+39,CSN-10039,Itkheda,Row House,2,3,1790,0,8,Semi-Furnished,Resale,Basic,RCC+Brick,1,1,5.0,2.43,2.69,4.25,2.57,1.09,96.8,4340.78,7770000,5,895.0
+40,CSN-10040,Deolai,Apartment,2,2,966,1,2,Fully Furnished,Under Construction,None,RCC+Brick,0,0,0.8,0.58,8.99,4.06,5.77,1.1,116.2,3695.65,3570000,4,483.0
+41,CSN-10041,CIDCO N-1,Apartment,2,3,1189,11,20,Semi-Furnished,Under Construction,Standard,RCC,0,0,1.82,2.89,3.38,1.12,3.72,0.89,87.6,4894.87,5820000,5,594.5
+42,CSN-10042,CIDCO N-9,Apartment,4,4,711,0,5,Fully Furnished,Ready to Move,None,RCC+Brick,1,0,2.02,4.14,10.38,8.0,2.22,0.94,102.0,4908.58,3490000,8,177.8
+43,CSN-10043,Shahanurwadi,Apartment,1,1,1049,8,20,Unfurnished,Resale,None,RCC+AAC Block,0,0,0.2,1.65,5.75,4.52,4.67,1.05,97.5,4261.2,4470000,2,1049.0
+44,CSN-10044,Itkheda,Apartment,2,1,725,3,0,Fully Furnished,Ready to Move,Basic,RCC+Brick,0,0,2.19,2.71,4.85,1.25,4.03,0.99,97.9,4303.45,3120000,3,362.5
+45,CSN-10045,CIDCO N-8,Apartment,2,1,785,5,19,Semi-Furnished,Ready to Move,None,RCC+AAC Block,0,0,2.69,3.08,10.15,4.55,3.42,1.29,109.0,4598.73,3610000,3,392.5
+46,CSN-10046,Satara Parisar,Row House,4,4,1368,0,0,Fully Furnished,Resale,None,RCC+Brick,1,0,4.18,3.72,7.38,2.86,3.02,1.02,97.8,4941.52,6760000,8,342.0
+47,CSN-10047,Chikalthana,Row House,2,2,1689,0,10,Unfurnished,Resale,Basic,RCC,0,0,2.9,3.48,3.15,5.2,2.17,0.43,119.6,4268.8,7210000,4,844.5
+48,CSN-10048,Kranti Chowk,Apartment,3,3,716,9,3,Fully Furnished,Ready to Move,Standard,RCC,0,0,2.14,2.89,13.89,7.15,3.02,1.35,103.6,5418.99,3880000,6,238.7
+49,CSN-10049,CIDCO N-9,Apartment,3,2,1422,2,17,Semi-Furnished,Resale,Standard,RCC,1,0,3.37,4.44,8.62,2.97,1.37,1.41,105.6,4683.54,6660000,5,474.0
+50,CSN-10050,Nakshatrawadi,Villa,1,1,1463,0,16,Fully Furnished,Ready to Move,Premium,RCC+AAC Block,1,0,1.65,2.12,9.43,4.04,3.37,1.36,95.2,3246.75,4750000,2,1463.0
+51,CSN-10051,Garkheda,Independent House,4,4,1698,0,13,Semi-Furnished,Under Construction,None,RCC,1,0,3.54,0.3,9.69,8.75,1.31,0.97,99.9,4970.55,8440000,8,424.5
+52,CSN-10052,CIDCO N-7,Plot,0,0,3356,0,15,Semi-Furnished,Under Construction,None,RCC,0,0,2.1,3.18,9.6,12.63,4.28,0.78,112.9,3581.64,12020000,0,
+53,CSN-10053,Paithan Road,Apartment,3,2,770,4,0,Unfurnished,Under Construction,Basic,RCC,0,0,1.12,0.98,8.32,5.2,1.96,1.7,92.1,3948.05,3040000,5,256.7
+54,CSN-10054,CIDCO N-3,Row House,3,2,1857,0,18,Unfurnished,Under Construction,None,RCC+AAC Block,0,0,1.96,2.86,8.42,5.54,4.42,0.53,99.1,4254.17,7900000,5,619.0
+55,CSN-10055,CIDCO N-10,Independent House,3,3,1584,0,11,Unfurnished,Resale,None,RCC+AAC Block,0,1,2.24,2.56,11.65,3.38,1.71,1.49,91.8,4577.02,7250000,6,528.0
+56,CSN-10056,Shahnoorwadi,Builder Floor,1,1,776,3,8,Fully Furnished,Ready to Move,Basic,RCC,0,1,1.37,3.56,10.17,3.51,4.48,1.89,110.6,4845.36,3760000,2,776.0
+57,CSN-10057,CIDCO N-3,Independent House,3,3,2409,0,5,Semi-Furnished,Under Construction,Standard,RCC+AAC Block,0,0,2.66,2.67,8.73,5.01,3.67,1.9,112.0,4782.07,11520000,6,803.0
+58,CSN-10058,CIDCO N-7,Apartment,4,4,711,10,6,Semi-Furnished,Resale,Premium,RCC+AAC Block,0,0,2.52,2.5,9.51,0.5,3.57,0.1,97.4,5302.39,3770000,8,177.8
+59,CSN-10059,Garkheda,Independent House,3,3,991,0,15,Semi-Furnished,Under Construction,Premium,RCC,0,0,3.98,3.18,5.49,4.74,2.95,0.38,106.3,4823.41,4780000,6,330.3
+60,CSN-10060,Waluj,Builder Floor,2,2,1062,8,8,Semi-Furnished,Ready to Move,Premium,RCC+Brick,1,0,1.75,1.02,9.83,6.11,0.7,1.34,108.5,3455.74,3670000,4,531.0
+61,CSN-10061,CIDCO N-9,Villa,3,3,3185,0,3,Fully Furnished,Ready to Move,Standard,RCC+Brick,0,0,4.17,4.84,8.17,5.85,4.15,1.27,104.6,4828.89,15380000,6,1061.7
+62,CSN-10062,Garkheda,Apartment,1,1,749,1,14,Semi-Furnished,Resale,Basic,RCC+AAC Block,0,0,2.62,1.27,12.83,3.8,0.52,0.57,100.0,4846.46,3630000,2,749.0
+63,CSN-10063,CIDCO N-5,Builder Floor,2,2,1658,6,11,Fully Furnished,Under Construction,Basic,RCC+AAC Block,0,0,0.2,3.05,8.49,7.51,4.78,1.32,99.9,4505.43,7470000,4,829.0
+64,CSN-10064,Kranti Chowk,Plot,0,0,1782,0,6,Fully Furnished,Resale,None,RCC+AAC Block,1,1,3.27,3.98,8.81,3.17,1.71,0.88,109.4,3883.28,6920000,0,
+65,CSN-10065,CIDCO N-4,Apartment,2,2,932,7,12,Unfurnished,Under Construction,Basic,RCC+AAC Block,1,0,2.33,3.62,8.04,8.49,2.32,1.88,96.1,4560.09,4250000,4,466.0
+66,CSN-10066,Itkheda,Apartment,2,2,1117,11,9,Unfurnished,Ready to Move,Basic,RCC+AAC Block,0,0,2.45,4.85,16.93,3.59,5.15,1.35,102.2,4270.37,4770000,4,558.5
+67,CSN-10067,Deolai,Apartment,2,1,1154,6,10,Unfurnished,Under Construction,None,RCC+Brick,0,0,3.07,3.25,6.53,7.94,5.37,1.5,109.3,4098.79,4730000,3,577.0
+68,CSN-10068,Nakshatrawadi,Independent House,4,5,1500,0,19,Semi-Furnished,Ready to Move,None,RCC,0,0,3.12,5.08,7.68,2.23,2.64,1.26,104.2,3740.0,5610000,9,375.0
+69,CSN-10069,Chikalthana,Apartment,2,1,1165,1,16,Semi-Furnished,Under Construction,Basic,RCC+Brick,0,1,4.15,2.86,7.77,0.5,1.66,1.04,100.0,4171.67,4860000,3,582.5
+70,CSN-10070,Nakshatrawadi,Villa,3,3,2685,0,9,Unfurnished,Under Construction,Standard,RCC+AAC Block,0,0,0.2,2.24,8.54,6.66,3.71,0.97,112.3,3746.74,10060000,6,895.0
+71,CSN-10071,CIDCO N-6,Apartment,4,5,1118,11,20,Semi-Furnished,Resale,Basic,RCC,0,0,0.64,1.34,7.41,4.39,0.74,0.61,100.9,5152.06,5760000,9,279.5
+72,CSN-10072,Osmanpura,Apartment,2,1,936,9,5,Semi-Furnished,Ready to Move,None,RCC,1,0,1.36,3.21,9.6,6.0,1.02,1.71,95.8,5790.6,5420000,3,468.0
+73,CSN-10073,Paithan Road,Builder Floor,3,4,830,5,17,Unfurnished,Under Construction,Standard,RCC,0,1,3.03,5.71,14.38,2.05,1.61,2.09,92.1,3506.02,2910000,7,276.7
+74,CSN-10074,CIDCO N-6,Apartment,1,1,746,4,11,Semi-Furnished,Ready to Move,None,RCC+AAC Block,1,1,3.18,2.32,7.94,3.29,0.3,0.37,95.5,3847.18,2870000,2,746.0
+75,CSN-10075,Itkheda,Plot,0,0,2435,0,4,Semi-Furnished,Resale,Basic,RCC+AAC Block,0,0,3.0,2.19,10.18,6.36,2.18,0.53,99.1,3334.7,8120000,0,
+76,CSN-10076,Jalna Road,Apartment,1,1,981,0,18,Semi-Furnished,Resale,Standard,RCC+Brick,0,0,1.62,4.46,8.7,4.01,0.3,1.1,93.6,4648.32,4560000,2,981.0
+77,CSN-10077,Beed Bypass,Apartment,2,1,674,6,7,Unfurnished,Ready to Move,Standard,RCC,0,1,3.3,3.14,10.89,3.93,2.93,1.13,98.5,4362.02,2940000,3,337.0
+78,CSN-10078,Itkheda,Apartment,4,3,1548,11,12,Unfurnished,Under Construction,Premium,RCC+AAC Block,1,0,3.98,3.51,7.85,7.86,0.3,0.1,115.1,4289.41,6640000,7,387.0
+79,CSN-10079,CIDCO N-10,Villa,2,2,2609,0,3,Semi-Furnished,Under Construction,None,RCC,1,0,0.2,3.36,11.04,1.22,2.01,0.51,100.7,4484.48,11700000,4,1304.5
+80,CSN-10080,CIDCO N-8,Plot,0,0,2562,0,19,Semi-Furnished,Ready to Move,None,RCC+AAC Block,0,0,0.2,2.51,4.96,6.93,1.99,1.44,106.7,3786.1,9700000,0,
+81,CSN-10081,Mukundwadi,Apartment,3,3,757,9,7,Unfurnished,Ready to Move,Basic,RCC,1,0,3.26,3.41,3.73,4.7,4.11,0.1,102.0,4517.83,3420000,6,252.3
+82,CSN-10082,Kanchanwadi,Row House,4,4,1778,0,13,Semi-Furnished,Resale,Basic,RCC,1,1,2.67,3.61,6.92,2.52,6.46,1.4,97.9,4336.33,7710000,8,444.5
+83,CSN-10083,Town Centre,Apartment,4,4,816,1,19,Semi-Furnished,Ready to Move,None,RCC+AAC Block,0,1,1.64,2.43,7.74,4.09,4.37,0.16,115.2,5208.33,4250000,8,204.0
+84,CSN-10084,CIDCO N-4,Independent House,5,5,2103,0,13,Fully Furnished,Under Construction,Basic,RCC+AAC Block,0,0,2.17,3.51,10.17,5.43,3.44,2.08,108.2,4084.64,8590000,10,420.6
+85,CSN-10085,Osmanpura,Apartment,1,1,868,8,16,Fully Furnished,Resale,Premium,RCC,0,0,3.83,2.24,9.89,0.51,5.79,1.56,100.9,5368.66,4660000,2,868.0
+86,CSN-10086,CIDCO N-8,Apartment,2,3,723,4,11,Semi-Furnished,Under Construction,None,RCC+Brick,1,0,2.19,3.72,7.24,10.35,0.65,1.96,109.8,4329.18,3130000,5,361.5
+87,CSN-10087,Beed Bypass,Independent House,3,3,1619,0,3,Fully Furnished,Ready to Move,Standard,RCC+Brick,0,0,2.4,1.72,10.97,7.21,3.98,1.65,99.9,4156.89,6730000,6,539.7
+88,CSN-10088,Railway Station Area,Plot,0,0,2141,0,10,Semi-Furnished,Under Construction,Premium,RCC,0,1,1.47,3.5,4.33,8.45,2.78,1.37,119.4,4091.55,8760000,0,
+89,CSN-10089,Waluj,Row House,3,3,1798,0,8,Semi-Furnished,Resale,Basic,RCC+Brick,1,0,4.73,3.13,13.86,5.86,4.44,0.77,100.2,3587.32,6450000,6,599.3
+90,CSN-10090,Mukundwadi,Independent House,2,1,1266,0,8,Semi-Furnished,Ready to Move,Standard,RCC,1,0,0.2,2.73,8.01,10.03,0.81,0.97,117.1,4233.81,5360000,3,633.0
+91,CSN-10091,Kranti Chowk,Apartment,2,1,1126,9,10,Unfurnished,Ready to Move,Premium,RCC,1,0,1.52,2.97,6.63,2.43,2.47,0.54,109.6,4849.02,5460000,3,563.0
+92,CSN-10092,Beed Bypass,Apartment,2,2,775,4,9,Unfurnished,Under Construction,Premium,RCC,0,0,2.15,5.8,8.9,5.16,3.82,1.74,87.3,3819.35,2960000,4,387.5
+93,CSN-10093,Town Centre,Builder Floor,5,5,1145,5,12,Fully Furnished,Resale,Standard,RCC+Brick,0,0,1.73,4.51,12.1,4.59,0.3,1.57,106.0,5746.72,6580000,10,229.0
+94,CSN-10094,Harsul,Independent House,4,4,2209,0,20,Semi-Furnished,Ready to Move,None,RCC,0,0,1.91,4.18,9.21,4.75,5.05,1.06,92.2,3481.21,7690000,8,552.2
+95,CSN-10095,Satara Parisar,Apartment,4,4,1573,8,0,Fully Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,3.05,4.13,8.06,4.06,3.21,0.71,98.4,4208.52,6620000,8,393.2
+96,CSN-10096,Harsool Road,Apartment,3,3,1003,9,12,Fully Furnished,Resale,Premium,RCC,0,0,0.6,1.23,8.59,7.47,0.3,1.41,111.3,3668.99,3680000,6,334.3
+97,CSN-10097,CIDCO N-5,Apartment,2,2,864,4,11,Fully Furnished,Resale,None,RCC+AAC Block,0,0,0.65,2.76,6.31,5.91,3.68,1.39,104.7,4745.37,4100000,4,432.0
+98,CSN-10098,CIDCO N-4,Apartment,3,2,824,3,4,Fully Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,1.96,2.46,9.36,4.39,2.94,1.25,99.0,4963.59,4090000,5,274.7
+99,CSN-10099,CIDCO N-3,Row House,3,2,1020,0,3,Fully Furnished,Under Construction,None,RCC,1,0,3.45,0.3,13.27,5.9,4.62,0.47,101.8,4813.73,4910000,5,340.0
+100,CSN-10100,Paithan Road,Apartment,4,4,880,11,11,Fully Furnished,Resale,Premium,RCC+AAC Block,1,0,0.2,3.91,4.02,5.13,2.82,1.9,99.2,3795.45,3340000,8,220.0
+101,CSN-10101,CIDCO N-8,Villa,2,2,2006,0,16,Semi-Furnished,Under Construction,Standard,RCC+AAC Block,0,1,3.03,3.18,15.66,2.36,2.85,2.28,106.9,4292.12,8610000,4,1003.0
+102,CSN-10102,Satara Parisar,Plot,0,0,1963,0,16,Unfurnished,Ready to Move,Standard,RCC+Brick,0,0,1.95,0.74,11.47,5.87,1.91,1.03,94.3,2934.28,5760000,0,
+103,CSN-10103,Waluj,Builder Floor,1,2,1533,4,8,Unfurnished,Under Construction,None,RCC+Brick,1,0,0.47,1.07,6.9,2.0,3.62,0.92,122.0,2948.47,4520000,3,1533.0
+104,CSN-10104,Railway Station Area,Independent House,3,2,1074,0,9,Unfurnished,Resale,Standard,RCC+AAC Block,0,0,2.49,4.43,8.01,3.61,0.3,1.58,101.3,4785.85,5140000,5,358.0
+105,CSN-10105,CIDCO N-9,Apartment,2,1,763,0,7,Semi-Furnished,Under Construction,Premium,RCC+AAC Block,0,0,3.44,3.14,5.68,3.73,3.11,1.22,103.3,4429.88,3380000,3,381.5
+106,CSN-10106,CIDCO N-6,Apartment,3,3,1030,3,16,Fully Furnished,Ready to Move,Basic,RCC+AAC Block,1,0,3.83,3.71,4.56,6.61,1.84,0.85,107.9,4349.51,4480000,6,343.3
+107,CSN-10107,Harsool Road,Apartment,3,3,1108,7,5,Semi-Furnished,Ready to Move,Premium,RCC,0,0,1.07,3.1,4.97,3.13,2.05,0.57,99.8,3808.66,4220000,6,369.3
+108,CSN-10108,Paithan Road,Independent House,3,4,1303,0,0,Semi-Furnished,Under Construction,Standard,RCC+AAC Block,1,0,4.08,4.57,9.39,1.77,3.32,0.53,117.6,4128.93,5380000,7,434.3
+109,CSN-10109,Waluj,Apartment,5,4,1288,7,9,Unfurnished,Ready to Move,Premium,RCC+AAC Block,0,0,0.38,2.99,9.32,4.28,0.3,1.0,102.7,3618.01,4660000,9,257.6
+110,CSN-10110,CIDCO N-6,Row House,2,1,1154,0,15,Fully Furnished,Ready to Move,Standard,RCC+Brick,1,1,2.72,3.0,8.62,7.31,0.3,0.1,111.4,4367.42,5040000,3,577.0
+111,CSN-10111,CIDCO N-4,Row House,4,5,1403,0,8,Unfurnished,Resale,Basic,RCC,0,0,2.91,1.77,10.52,7.07,5.34,0.67,105.0,5039.2,7070000,9,350.8
+112,CSN-10112,CIDCO N-10,Villa,3,3,2142,0,8,Fully Furnished,Under Construction,None,RCC,0,0,1.21,2.18,8.53,7.11,0.75,0.41,93.7,4533.15,9710000,6,714.0
+113,CSN-10113,CIDCO N-8,Apartment,1,2,911,0,0,Semi-Furnished,Resale,None,RCC,0,1,2.01,4.46,9.68,1.65,3.98,0.55,117.1,4840.83,4410000,3,911.0
+114,CSN-10114,Garkheda,Apartment,2,1,976,7,16,Unfurnished,Under Construction,Basic,RCC+AAC Block,0,0,0.89,1.51,3.01,6.75,5.71,2.06,88.3,5163.93,5040000,3,488.0
+115,CSN-10115,Chikalthana,Row House,3,4,1526,0,10,Fully Furnished,Ready to Move,None,RCC,1,0,3.33,1.9,5.09,0.5,2.6,0.85,94.9,4187.42,6390000,7,508.7
+116,CSN-10116,Kanchanwadi,Builder Floor,1,2,968,6,19,Unfurnished,Resale,Standard,RCC+Brick,0,0,2.36,2.34,9.81,3.13,3.76,1.53,81.9,4018.6,3890000,3,968.0
+117,CSN-10117,Shahnoorwadi,Independent House,1,1,2094,0,15,Fully Furnished,Under Construction,Standard,RCC+AAC Block,1,0,3.44,2.92,4.92,3.6,1.47,1.72,106.5,4164.28,8720000,2,2094.0
+118,CSN-10118,Railway Station Area,Apartment,4,4,1492,2,16,Unfurnished,Ready to Move,Basic,RCC+Brick,1,0,0.8,3.13,4.82,0.5,2.43,0.12,104.1,4792.23,7150000,8,373.0
+119,CSN-10119,Mukundwadi,Independent House,3,4,1469,0,6,Semi-Furnished,Ready to Move,None,RCC+Brick,0,0,0.88,2.6,6.74,5.39,2.04,1.04,103.2,4145.68,6090000,7,489.7
+120,CSN-10120,CIDCO N-9,Apartment,3,2,877,5,5,Semi-Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,0.73,4.08,2.82,5.52,5.36,1.49,103.7,4446.98,3900000,5,292.3
+121,CSN-10121,Mukundwadi,Villa,2,2,2937,0,8,Unfurnished,Resale,Premium,RCC+AAC Block,0,0,2.63,3.76,9.19,7.32,3.13,1.44,105.0,4157.3,12210000,4,1468.5
+122,CSN-10122,Railway Station Area,Apartment,2,1,974,11,1,Fully Furnished,Ready to Move,Premium,RCC+Brick,0,0,0.98,4.66,10.38,1.97,5.67,1.6,102.0,5544.15,5400000,3,487.0
+123,CSN-10123,CIDCO N-1,Villa,5,5,3074,0,20,Semi-Furnished,Resale,Basic,RCC,0,0,0.73,0.94,10.2,0.5,3.31,0.91,114.6,4804.81,14770000,10,614.8
+124,CSN-10124,CIDCO N-1,Independent House,2,2,1761,0,14,Unfurnished,Resale,Basic,RCC+Brick,0,0,3.21,3.92,14.25,3.17,0.93,0.6,111.6,4843.84,8530000,4,880.5
+125,CSN-10125,Chikalthana,Apartment,3,3,765,1,7,Fully Furnished,Under Construction,Premium,RCC,0,0,1.66,0.47,6.69,2.38,0.83,2.23,100.7,4196.08,3210000,6,255.0
+126,CSN-10126,CIDCO N-3,Apartment,1,2,1044,1,19,Semi-Furnished,Ready to Move,None,RCC,1,1,1.91,3.08,4.64,4.92,3.08,0.1,103.1,4367.82,4560000,3,1044.0
+127,CSN-10127,Garkheda,Villa,3,3,3071,0,19,Fully Furnished,Under Construction,None,RCC+AAC Block,1,0,2.41,3.88,8.9,6.97,3.14,1.67,107.7,4728.1,14520000,6,1023.7
+128,CSN-10128,Harsool Road,Row House,1,1,1552,0,16,Fully Furnished,Under Construction,Premium,RCC+Brick,1,0,3.74,1.53,6.11,5.51,3.59,1.5,108.9,3511.6,5450000,2,1552.0
+129,CSN-10129,Harsul,Apartment,2,1,1193,6,15,Fully Furnished,Resale,None,RCC+AAC Block,1,1,2.27,2.96,9.08,10.3,2.21,1.45,110.2,3495.39,4170000,3,596.5
+130,CSN-10130,CIDCO N-5,Villa,2,3,1655,0,4,Semi-Furnished,Ready to Move,None,RCC+Brick,0,0,2.1,2.53,16.61,5.95,1.92,0.78,99.5,4743.2,7850000,5,827.5
+131,CSN-10131,Mukundwadi,Apartment,4,3,947,3,18,Unfurnished,Resale,None,RCC+AAC Block,1,1,1.31,3.95,6.27,3.75,1.58,1.98,104.5,4361.14,4130000,7,236.8
+132,CSN-10132,CIDCO N-4,Apartment,2,2,1060,8,9,Unfurnished,Under Construction,None,RCC+AAC Block,1,1,2.57,3.07,9.94,6.22,3.9,0.98,120.0,4584.91,4860000,4,530.0
+133,CSN-10133,Railway Station Area,Apartment,2,2,1221,10,7,Unfurnished,Ready to Move,Basic,RCC+AAC Block,1,0,1.18,1.6,8.61,5.42,0.3,1.09,104.6,4914.0,6000000,4,610.5
+134,CSN-10134,Chikalthana,Row House,5,4,1164,0,10,Unfurnished,Ready to Move,Standard,RCC+AAC Block,0,0,2.68,3.86,7.2,6.9,4.47,1.98,112.6,4012.03,4670000,9,232.8
+135,CSN-10135,Harsul,Row House,3,4,1762,0,9,Fully Furnished,Resale,Basic,RCC+AAC Block,0,0,0.99,3.33,8.95,6.39,6.28,1.37,106.6,3444.95,6070000,7,587.3
+136,CSN-10136,Deolai,Builder Floor,3,3,737,3,4,Fully Furnished,Resale,Standard,RCC+AAC Block,1,0,1.31,1.05,11.33,6.18,2.07,0.25,103.5,4029.85,2970000,6,245.7
+137,CSN-10137,Railway Station Area,Villa,2,3,1566,0,6,Unfurnished,Ready to Move,Basic,RCC,1,0,2.47,4.52,10.15,0.5,1.82,1.28,102.2,5134.1,8040000,5,783.0
+138,CSN-10138,Satara Parisar,Apartment,1,1,1040,4,0,Unfurnished,Resale,Basic,RCC,0,0,2.34,0.3,4.67,9.53,2.18,0.1,118.1,4048.08,4210000,2,1040.0
+139,CSN-10139,CIDCO N-7,Apartment,3,3,1338,0,13,Unfurnished,Ready to Move,Premium,RCC,1,0,3.46,4.68,7.22,7.8,4.39,2.74,91.0,4805.68,6430000,6,446.0
+140,CSN-10140,Waluj,Apartment,3,2,1092,5,18,Fully Furnished,Ready to Move,Premium,RCC+Brick,0,0,3.62,3.37,10.98,5.67,5.05,1.23,107.3,3406.59,3720000,5,364.0
+141,CSN-10141,CIDCO N-8,Apartment,2,3,921,3,16,Semi-Furnished,Ready to Move,None,RCC,1,1,2.77,0.3,12.91,5.41,4.5,0.66,95.8,4571.12,4210000,5,460.5
+142,CSN-10142,CIDCO N-9,Independent House,1,1,976,0,17,Fully Furnished,Under Construction,Standard,RCC,1,1,0.2,2.74,10.94,2.67,2.74,0.78,116.6,4282.79,4180000,2,976.0
+143,CSN-10143,Paithan Road,Independent House,2,2,1795,0,11,Semi-Furnished,Ready to Move,Premium,RCC+Brick,0,1,3.53,5.2,13.21,2.6,2.47,1.49,120.3,3988.86,7160000,4,897.5
+144,CSN-10144,Nakshatrawadi,Apartment,3,2,765,1,17,Semi-Furnished,Ready to Move,Premium,RCC+AAC Block,1,0,0.2,3.71,6.4,5.1,2.87,1.04,110.4,3150.33,2410000,5,255.0
+145,CSN-10145,CIDCO N-6,Apartment,3,3,1181,11,7,Semi-Furnished,Under Construction,Standard,RCC+AAC Block,0,1,0.37,3.43,5.84,2.22,2.34,1.09,100.0,4817.95,5690000,6,393.7
+146,CSN-10146,Paithan Road,Villa,3,2,2524,0,16,Unfurnished,Under Construction,Standard,RCC+AAC Block,0,0,1.81,0.3,6.89,2.84,5.36,0.18,99.0,4017.43,10140000,5,841.3
+147,CSN-10147,Jalna Road,Builder Floor,3,3,1038,3,10,Unfurnished,Ready to Move,Premium,RCC+AAC Block,1,1,2.31,4.59,14.82,3.62,2.97,2.29,87.9,5077.07,5270000,6,346.0
+148,CSN-10148,Osmanpura,Apartment,3,3,1363,2,20,Unfurnished,Under Construction,Standard,RCC+AAC Block,1,0,2.06,3.1,10.21,2.67,4.11,1.69,119.8,5187.09,7070000,6,454.3
+149,CSN-10149,Railway Station Area,Apartment,4,4,1309,0,19,Semi-Furnished,Resale,Standard,RCC+AAC Block,0,0,3.3,2.15,2.97,0.5,1.11,0.41,106.9,4644.77,6080000,8,327.2
+150,CSN-10150,CIDCO N-7,Apartment,3,2,894,5,19,Fully Furnished,Resale,Standard,RCC,0,0,2.84,1.73,8.61,0.5,3.32,1.66,99.8,5268.46,4710000,5,298.0
+151,CSN-10151,Paithan Road,Villa,3,3,1400,0,9,Fully Furnished,Resale,Basic,RCC,0,0,2.2,4.14,6.39,6.84,1.86,1.85,116.2,3800.0,5320000,6,466.7
+152,CSN-10152,CIDCO N-8,Apartment,1,1,718,7,17,Semi-Furnished,Ready to Move,Standard,RCC+Brick,1,1,3.87,3.5,11.22,4.26,2.1,2.22,100.4,4554.32,3270000,2,718.0
+153,CSN-10153,Osmanpura,Row House,3,4,1422,0,16,Unfurnished,Ready to Move,None,RCC,0,1,2.8,2.7,3.1,9.54,4.02,1.16,101.6,5794.66,8240000,7,474.0
+154,CSN-10154,Beed Bypass,Builder Floor,3,3,1556,9,2,Fully Furnished,Under Construction,None,RCC,0,0,0.42,3.86,10.39,6.15,3.61,1.01,110.5,4344.47,6760000,6,518.7
+155,CSN-10155,CIDCO N-5,Row House,2,3,1167,0,18,Semi-Furnished,Resale,Premium,RCC+AAC Block,0,1,0.2,3.54,7.36,0.5,4.26,2.06,110.1,4310.2,5030000,5,583.5
+156,CSN-10156,Town Centre,Apartment,3,2,1109,4,7,Semi-Furnished,Ready to Move,None,RCC+AAC Block,0,0,4.7,3.9,12.92,5.44,2.89,1.43,97.1,5238.95,5810000,5,369.7
+157,CSN-10157,Kanchanwadi,Villa,4,4,2767,0,5,Fully Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,3.75,3.43,10.37,3.0,6.24,1.48,107.6,3845.32,10640000,8,691.8
+158,CSN-10158,Town Centre,Apartment,2,2,828,8,17,Semi-Furnished,Under Construction,Basic,RCC,0,0,3.5,1.74,5.52,4.53,4.24,0.4,96.3,5434.78,4500000,4,414.0
+159,CSN-10159,Osmanpura,Villa,3,3,2811,0,17,Fully Furnished,Resale,None,RCC,0,1,1.45,2.04,13.11,5.51,2.17,1.11,113.9,5823.55,16370000,6,937.0
+160,CSN-10160,Osmanpura,Builder Floor,5,4,1050,10,10,Semi-Furnished,Resale,None,RCC+Brick,1,0,3.53,2.54,7.86,6.59,2.12,1.55,101.6,5552.38,5830000,9,210.0
+161,CSN-10161,Garkheda,Row House,5,4,1028,0,1,Unfurnished,Resale,Premium,RCC,0,0,2.38,4.8,6.02,4.95,2.12,1.36,96.5,5554.47,5710000,9,205.6
+162,CSN-10162,Garkheda,Independent House,3,2,1423,0,2,Unfurnished,Under Construction,Basic,RCC+AAC Block,0,0,1.9,2.97,6.53,6.66,5.15,0.92,108.8,5207.31,7410000,5,474.3
+163,CSN-10163,CIDCO N-10,Apartment,3,3,1320,4,18,Semi-Furnished,Resale,Basic,RCC+AAC Block,1,0,0.57,3.2,3.23,4.42,4.93,0.1,100.5,4075.76,5380000,6,440.0
+164,CSN-10164,Mukundwadi,Villa,3,4,2613,0,15,Unfurnished,Ready to Move,Premium,RCC,0,1,0.98,4.17,12.06,5.51,2.74,1.44,82.8,4293.92,11220000,7,871.0
+165,CSN-10165,Kranti Chowk,Apartment,3,3,1097,1,10,Unfurnished,Under Construction,Premium,RCC+Brick,1,0,3.34,1.48,9.03,8.1,0.4,1.31,99.4,5250.68,5760000,6,365.7
+166,CSN-10166,Osmanpura,Independent House,5,4,2273,0,17,Semi-Furnished,Ready to Move,Basic,RCC,0,0,2.17,2.44,5.67,4.44,6.69,2.04,93.9,5961.28,13550000,9,454.6
+167,CSN-10167,Paithan Road,Apartment,1,1,680,10,4,Fully Furnished,Resale,Standard,RCC,1,1,2.63,2.45,3.64,5.27,4.62,0.48,112.1,3794.12,2580000,2,680.0
+168,CSN-10168,Town Centre,Apartment,2,2,1095,9,17,Semi-Furnished,Under Construction,Standard,RCC,1,0,4.13,4.16,10.81,7.32,3.87,1.05,103.6,5041.1,5520000,4,547.5
+169,CSN-10169,Chikalthana,Apartment,2,3,906,7,7,Unfurnished,Resale,Basic,RCC+Brick,0,0,2.62,3.13,8.53,4.86,2.13,0.93,115.7,3929.36,3560000,5,453.0
+170,CSN-10170,CIDCO N-1,Apartment,3,3,1022,3,4,Unfurnished,Ready to Move,Basic,RCC,0,0,1.91,4.36,11.12,2.64,1.72,1.27,115.8,4471.62,4570000,6,340.7
+171,CSN-10171,CIDCO N-4,Apartment,3,2,881,0,11,Fully Furnished,Ready to Move,None,RCC,1,0,0.59,4.09,10.76,7.02,0.69,1.38,107.8,4392.74,3870000,5,293.7
+172,CSN-10172,Shahanurwadi,Plot,0,0,2713,0,8,Fully Furnished,Resale,Standard,RCC,0,1,3.27,1.61,9.98,4.74,3.83,1.34,111.7,3549.58,9630000,0,
+173,CSN-10173,Harsool Road,Villa,3,3,2970,0,3,Semi-Furnished,Ready to Move,Premium,RCC,0,0,3.06,4.37,8.03,8.43,5.05,1.35,97.5,4218.86,12530000,6,990.0
+174,CSN-10174,CIDCO N-6,Independent House,3,3,1902,0,9,Fully Furnished,Resale,None,RCC+Brick,1,0,0.82,3.71,13.09,5.16,3.86,0.1,104.8,4337.54,8250000,6,634.0
+175,CSN-10175,CIDCO N-1,Independent House,2,2,2028,0,5,Fully Furnished,Under Construction,None,RCC+Brick,0,0,3.18,4.05,11.92,5.0,3.46,1.51,103.5,4812.62,9760000,4,1014.0
+176,CSN-10176,CIDCO N-10,Builder Floor,3,4,910,11,13,Unfurnished,Under Construction,Basic,RCC,1,0,3.28,3.11,5.91,6.94,2.16,0.36,115.4,4219.78,3840000,7,303.3
+177,CSN-10177,Shahnoorwadi,Row House,3,3,1710,0,4,Fully Furnished,Resale,None,RCC,1,1,0.2,3.5,14.33,8.78,5.75,0.59,113.4,4812.87,8230000,6,570.0
+178,CSN-10178,Satara Parisar,Apartment,3,3,1337,0,11,Semi-Furnished,Under Construction,Premium,RCC+Brick,0,0,1.38,4.22,12.03,7.54,1.87,0.1,97.1,4487.66,6000000,6,445.7
+179,CSN-10179,Jalna Road,Independent House,2,2,1439,0,18,Semi-Furnished,Under Construction,None,RCC+Brick,0,0,3.96,3.59,10.68,7.81,1.25,1.65,99.7,3877.69,5580000,4,719.5
+180,CSN-10180,Osmanpura,Independent House,3,3,1353,0,13,Fully Furnished,Under Construction,Standard,RCC+AAC Block,1,1,1.39,3.04,3.7,8.38,1.98,2.42,97.7,5868.44,7940000,6,451.0
+181,CSN-10181,Osmanpura,Apartment,3,3,832,2,20,Semi-Furnished,Ready to Move,None,RCC+AAC Block,0,0,1.53,6.22,8.23,8.71,2.71,1.36,94.0,5264.42,4380000,6,277.3
+182,CSN-10182,CIDCO N-7,Apartment,2,2,733,3,18,Semi-Furnished,Ready to Move,Premium,RCC,0,0,1.36,1.31,15.49,6.97,2.5,1.95,105.1,5170.53,3790000,4,366.5
+183,CSN-10183,Town Centre,Row House,2,1,1100,0,4,Semi-Furnished,Resale,None,RCC+AAC Block,1,1,1.81,2.41,8.86,7.37,2.15,0.82,113.3,5490.91,6040000,3,550.0
+184,CSN-10184,CIDCO N-4,Apartment,1,1,818,4,6,Fully Furnished,Under Construction,Basic,RCC,1,0,1.6,4.03,4.43,2.98,3.41,1.14,108.3,4205.38,3440000,2,818.0
+185,CSN-10185,Itkheda,Independent House,3,3,1333,0,0,Semi-Furnished,Ready to Move,None,RCC+AAC Block,0,0,1.22,2.31,9.1,4.1,3.73,1.51,108.7,4741.19,6320000,6,444.3
+186,CSN-10186,CIDCO N-6,Independent House,4,3,1111,0,8,Unfurnished,Ready to Move,Standard,RCC,1,0,1.46,2.56,12.04,5.48,6.71,1.3,101.5,4752.48,5280000,7,277.8
+187,CSN-10187,CIDCO N-9,Row House,3,3,1718,0,1,Fully Furnished,Resale,None,RCC+AAC Block,0,1,1.26,2.99,3.32,1.98,4.57,0.92,97.6,4738.07,8140000,6,572.7
+188,CSN-10188,Town Centre,Plot,0,0,880,0,15,Unfurnished,Resale,Standard,RCC+AAC Block,0,0,3.56,2.07,11.31,3.12,5.74,0.52,116.7,3863.64,3400000,0,
+189,CSN-10189,CIDCO N-4,Apartment,1,1,1014,6,0,Semi-Furnished,Ready to Move,Basic,RCC,0,0,2.34,1.19,6.06,5.56,4.82,2.17,104.6,4704.14,4770000,2,1014.0
+190,CSN-10190,Waluj,Row House,2,2,1584,0,5,Unfurnished,Ready to Move,None,RCC,0,0,2.47,3.78,8.37,5.99,1.91,1.42,107.6,3301.77,5230000,4,792.0
+191,CSN-10191,CIDCO N-2,Apartment,3,3,1417,11,16,Unfurnished,Ready to Move,None,RCC+AAC Block,0,0,5.53,2.68,9.27,4.05,3.56,1.7,100.7,5151.73,7300000,6,472.3
+192,CSN-10192,Kanchanwadi,Row House,3,2,1026,0,9,Semi-Furnished,Resale,Premium,RCC+Brick,1,0,1.91,0.96,6.41,4.88,3.82,1.53,107.1,3908.38,4010000,5,342.0
+193,CSN-10193,CIDCO N-4,Villa,2,3,1606,0,5,Fully Furnished,Resale,Basic,RCC,0,0,3.05,0.53,11.09,5.43,3.94,1.43,96.0,4315.07,6930000,5,803.0
+194,CSN-10194,Chikalthana,Independent House,1,2,924,0,10,Fully Furnished,Resale,Standard,RCC+AAC Block,1,0,0.64,1.85,8.76,2.17,2.83,1.84,91.7,3852.81,3560000,3,924.0
+195,CSN-10195,Shahnoorwadi,Apartment,1,1,851,7,13,Semi-Furnished,Under Construction,Standard,RCC+AAC Block,0,0,2.55,4.43,6.85,5.1,2.91,1.62,94.7,4947.12,4210000,2,851.0
+196,CSN-10196,CIDCO N-8,Plot,0,0,2307,0,20,Semi-Furnished,Under Construction,Standard,RCC,1,1,0.2,3.36,6.72,2.81,2.91,1.57,92.0,3385.35,7810000,0,
+197,CSN-10197,CIDCO N-3,Villa,3,3,2185,0,6,Semi-Furnished,Under Construction,None,RCC+AAC Block,0,1,0.93,4.56,5.94,5.62,3.39,1.49,104.9,4494.28,9820000,6,728.3
+198,CSN-10198,Kranti Chowk,Apartment,4,4,1170,3,10,Fully Furnished,Resale,Basic,RCC,0,0,1.49,5.3,5.87,4.19,3.16,0.54,109.6,5914.53,6920000,8,292.5
+199,CSN-10199,Beed Bypass,Independent House,3,4,2042,0,18,Semi-Furnished,Under Construction,Standard,RCC,0,0,1.79,0.32,5.1,7.31,0.3,0.74,103.5,4520.08,9230000,7,680.7
+200,CSN-10200,Itkheda,Row House,3,3,981,0,6,Semi-Furnished,Under Construction,Standard,RCC+Brick,0,1,1.07,2.7,9.33,3.81,3.83,0.85,110.1,4393.48,4310000,6,327.0
+201,CSN-10201,Mukundwadi,Plot,0,0,2201,0,2,Fully Furnished,Resale,None,RCC+Brick,1,0,2.77,3.68,10.61,2.58,2.33,0.9,110.1,3280.33,7220000,0,
+202,CSN-10202,Itkheda,Independent House,4,4,2346,0,1,Semi-Furnished,Under Construction,Basic,RCC,0,0,1.86,3.23,10.84,7.18,3.43,1.55,102.7,4343.56,10190000,8,586.5
+203,CSN-10203,Paithan Road,Apartment,3,3,1177,0,11,Unfurnished,Under Construction,Basic,RCC,0,0,1.01,0.72,7.46,6.83,5.53,1.67,91.4,3831.78,4510000,6,392.3
+204,CSN-10204,Kranti Chowk,Builder Floor,4,3,1572,6,15,Fully Furnished,Ready to Move,None,RCC,0,1,0.2,2.13,6.93,2.55,3.25,1.17,88.4,5496.18,8640000,7,393.0
+205,CSN-10205,CIDCO N-5,Row House,3,3,1203,0,5,Fully Furnished,Ready to Move,None,RCC,0,1,0.58,2.18,8.48,3.54,3.94,1.03,98.1,4538.65,5460000,6,401.0
+206,CSN-10206,Paithan Road,Apartment,2,3,1090,1,15,Semi-Furnished,Resale,Basic,RCC+AAC Block,1,1,1.64,1.5,3.32,3.09,1.43,1.55,106.5,3495.41,3810000,5,545.0
+207,CSN-10207,Kanchanwadi,Villa,2,1,2012,0,14,Semi-Furnished,Resale,None,RCC+AAC Block,1,0,0.83,3.99,13.51,6.18,2.94,0.1,95.3,3951.29,7950000,3,1006.0
+208,CSN-10208,Shahnoorwadi,Apartment,3,3,1327,0,8,Unfurnished,Resale,None,RCC+AAC Block,1,1,3.37,1.63,16.94,5.9,3.57,1.52,115.6,5146.95,6830000,6,442.3
+209,CSN-10209,Town Centre,Apartment,3,3,1139,9,17,Fully Furnished,Under Construction,Basic,RCC,0,0,4.32,5.78,8.64,5.15,2.44,1.86,98.4,5179.98,5900000,6,379.7
+210,CSN-10210,CIDCO N-1,Independent House,3,2,1179,0,12,Semi-Furnished,Under Construction,Basic,RCC+AAC Block,0,1,2.46,1.68,7.82,6.85,3.15,0.35,99.0,4554.71,5370000,5,393.0
+211,CSN-10211,Harsool Road,Builder Floor,3,3,945,1,7,Unfurnished,Resale,None,RCC,1,1,2.81,1.17,10.33,0.5,2.67,1.88,100.7,3703.7,3500000,6,315.0
+212,CSN-10212,Harsool Road,Villa,4,3,1804,0,6,Unfurnished,Ready to Move,None,RCC+AAC Block,1,0,1.94,1.3,5.63,4.32,3.36,2.06,99.4,4140.8,7470000,7,451.0
+213,CSN-10213,Jalna Road,Builder Floor,3,2,1408,4,20,Semi-Furnished,Resale,Standard,RCC+AAC Block,1,0,2.0,3.63,10.14,2.51,3.77,0.36,103.8,4836.65,6810000,5,469.3
+214,CSN-10214,Itkheda,Apartment,3,3,890,2,20,Unfurnished,Resale,Premium,RCC+Brick,0,0,2.24,2.56,3.74,2.79,5.35,1.43,93.6,3775.28,3360000,6,296.7
+215,CSN-10215,Garkheda,Apartment,5,4,917,7,10,Unfurnished,Ready to Move,Premium,RCC+AAC Block,0,0,3.15,1.86,9.03,5.84,2.77,1.44,100.9,5212.65,4780000,9,183.4
+216,CSN-10216,Waluj,Apartment,4,4,1246,2,1,Unfurnished,Under Construction,Basic,RCC,1,0,1.92,2.7,9.73,6.39,1.76,1.63,102.6,3418.94,4260000,8,311.5
+217,CSN-10217,Railway Station Area,Apartment,2,3,762,3,16,Unfurnished,Under Construction,Basic,RCC,0,0,2.6,2.9,6.67,0.5,3.51,1.31,107.3,4435.7,3380000,5,381.0
+218,CSN-10218,CIDCO N-4,Apartment,3,2,1113,3,15,Fully Furnished,Under Construction,Standard,RCC+Brick,0,0,1.6,2.93,12.54,9.32,3.67,0.97,122.6,4420.49,4920000,5,371.0
+219,CSN-10219,Jalna Road,Plot,0,0,1848,0,7,Semi-Furnished,Under Construction,None,RCC,1,0,3.09,0.69,12.9,6.89,2.94,1.59,96.7,3555.19,6570000,0,
+220,CSN-10220,Shahnoorwadi,Villa,3,2,2369,0,1,Fully Furnished,Resale,Premium,RCC+AAC Block,1,1,1.91,3.46,6.62,2.88,4.58,1.16,118.3,5061.21,11990000,5,789.7
+221,CSN-10221,Kanchanwadi,Apartment,3,3,1389,6,11,Unfurnished,Resale,Basic,RCC+Brick,0,0,1.91,4.87,9.21,1.77,0.67,2.2,98.4,3916.49,5440000,6,463.0
+222,CSN-10222,Deolai,Apartment,3,4,1420,9,20,Fully Furnished,Ready to Move,Standard,RCC,0,0,2.99,3.87,9.54,4.44,5.87,0.66,106.8,3795.77,5390000,7,473.3
+223,CSN-10223,Nakshatrawadi,Independent House,3,3,1666,0,7,Unfurnished,Under Construction,Premium,RCC+AAC Block,0,0,2.74,3.74,10.2,0.5,0.96,2.38,90.7,3763.51,6270000,6,555.3
+224,CSN-10224,Mukundwadi,Row House,4,4,1238,0,20,Semi-Furnished,Resale,Basic,RCC+AAC Block,0,0,0.87,3.6,16.38,8.24,4.08,1.15,90.7,3925.69,4860000,8,309.5
+225,CSN-10225,Itkheda,Plot,0,0,3761,0,19,Semi-Furnished,Under Construction,Premium,RCC+Brick,0,0,1.38,1.91,10.07,4.44,2.73,1.56,101.2,3078.97,11580000,0,
+226,CSN-10226,Shahnoorwadi,Apartment,2,1,949,3,3,Unfurnished,Resale,Basic,RCC,0,0,2.51,3.06,10.59,7.24,4.37,1.14,114.0,4963.12,4710000,3,474.5
+227,CSN-10227,Osmanpura,Independent House,4,4,1975,0,16,Semi-Furnished,Under Construction,Basic,RCC+Brick,0,0,1.71,2.32,13.13,3.38,2.29,0.25,103.5,5068.35,10010000,8,493.8
+228,CSN-10228,CIDCO N-9,Apartment,3,4,893,0,20,Unfurnished,Ready to Move,Standard,RCC+Brick,0,0,2.0,4.06,7.82,3.81,2.7,0.44,110.6,3874.58,3460000,7,297.7
+229,CSN-10229,Harsul,Row House,2,3,1260,0,7,Semi-Furnished,Ready to Move,Standard,RCC,0,0,3.03,2.38,4.47,6.01,3.82,1.85,94.2,3460.32,4360000,5,630.0
+230,CSN-10230,CIDCO N-8,Apartment,2,1,732,9,2,Fully Furnished,Resale,Basic,RCC,0,1,1.84,3.06,13.84,3.82,2.28,2.13,96.7,4945.36,3620000,3,366.0
+231,CSN-10231,Harsool Road,Independent House,4,4,1616,0,5,Semi-Furnished,Ready to Move,Basic,RCC,1,0,1.38,2.69,9.4,7.36,0.3,0.7,107.6,3886.14,6280000,8,404.0
+232,CSN-10232,CIDCO N-8,Apartment,3,3,1078,9,2,Semi-Furnished,Under Construction,Premium,RCC+Brick,0,0,2.4,5.18,7.6,7.3,4.85,1.16,102.7,4749.54,5120000,6,359.3
+233,CSN-10233,Waluj,Builder Floor,2,1,878,11,5,Fully Furnished,Ready to Move,Standard,RCC+Brick,0,0,3.77,3.39,10.23,4.67,2.52,1.1,94.8,3451.03,3030000,3,439.0
+234,CSN-10234,CIDCO N-9,Villa,1,1,2568,0,7,Unfurnished,Ready to Move,Basic,RCC+Brick,1,0,1.38,1.1,7.45,5.22,0.3,0.51,107.5,4217.29,10830000,2,2568.0
+235,CSN-10235,Railway Station Area,Apartment,3,4,825,1,20,Unfurnished,Ready to Move,Basic,RCC,1,0,2.55,3.79,8.55,2.54,2.26,0.47,98.7,4981.82,4110000,7,275.0
+236,CSN-10236,CIDCO N-5,Villa,2,2,2441,0,1,Unfurnished,Under Construction,None,RCC,0,0,1.37,3.08,5.56,4.01,2.61,0.76,97.7,4211.39,10280000,4,1220.5
+237,CSN-10237,CIDCO N-2,Plot,0,0,3968,0,11,Semi-Furnished,Under Construction,Standard,RCC,1,0,2.91,3.93,3.93,4.45,0.57,2.67,85.5,3465.22,13750000,0,
+238,CSN-10238,Garkheda,Villa,2,3,1518,0,10,Semi-Furnished,Ready to Move,Premium,RCC+Brick,0,0,1.85,2.09,9.16,5.95,3.48,1.01,97.2,5230.57,7940000,5,759.0
+239,CSN-10239,Kranti Chowk,Apartment,2,2,769,10,8,Unfurnished,Under Construction,Premium,RCC,0,0,3.41,3.56,9.13,7.88,3.7,1.24,114.2,5227.57,4020000,4,384.5
+240,CSN-10240,Kanchanwadi,Apartment,4,4,1480,5,18,Unfurnished,Resale,None,RCC+Brick,0,1,2.16,1.98,15.65,4.84,2.39,1.22,89.9,3905.41,5780000,8,370.0
+241,CSN-10241,CIDCO N-10,Apartment,4,4,1483,4,2,Fully Furnished,Resale,Premium,RCC,0,0,1.11,1.54,6.65,2.52,0.65,1.33,105.0,5131.49,7610000,8,370.8
+242,CSN-10242,Satara Parisar,Apartment,1,1,795,4,17,Fully Furnished,Resale,Basic,RCC+Brick,0,0,0.7,1.87,6.63,2.3,3.66,1.92,94.1,3937.11,3130000,2,795.0
+243,CSN-10243,Itkheda,Apartment,3,3,807,10,12,Semi-Furnished,Under Construction,Basic,RCC,1,0,2.48,4.25,9.32,10.37,5.14,1.02,102.7,4324.66,3490000,6,269.0
+244,CSN-10244,Railway Station Area,Independent House,4,4,2110,0,10,Unfurnished,Under Construction,Basic,RCC+AAC Block,1,1,3.26,2.55,8.52,5.47,3.54,0.39,97.3,4943.13,10430000,8,527.5
+245,CSN-10245,Railway Station Area,Apartment,5,5,1392,0,3,Semi-Furnished,Ready to Move,Standard,RCC,1,1,1.4,3.23,15.1,4.96,1.96,1.1,105.2,5380.75,7490000,10,278.4
+246,CSN-10246,Harsul,Apartment,3,3,1282,0,0,Semi-Furnished,Ready to Move,None,RCC+Brick,0,0,2.09,3.56,6.88,6.37,3.56,1.72,106.4,3907.96,5010000,6,427.3
+247,CSN-10247,Town Centre,Apartment,3,4,1161,6,5,Semi-Furnished,Ready to Move,Premium,RCC,1,0,2.1,0.3,7.84,4.62,2.76,2.05,91.2,5348.84,6210000,7,387.0
+248,CSN-10248,CIDCO N-9,Row House,5,5,1830,0,13,Unfurnished,Ready to Move,Premium,RCC+Brick,0,0,3.33,2.97,6.05,0.88,2.34,1.65,117.7,4622.95,8460000,10,366.0
+249,CSN-10249,Harsool Road,Independent House,2,2,1839,0,20,Unfurnished,Resale,Premium,RCC,0,0,2.39,1.91,14.05,4.16,4.16,0.1,118.4,3757.48,6910000,4,919.5
+250,CSN-10250,CIDCO N-6,Apartment,3,3,853,0,7,Unfurnished,Resale,Basic,RCC+Brick,0,1,1.42,1.97,6.56,6.76,1.5,1.41,108.2,4607.27,3930000,6,284.3
+251,CSN-10251,CIDCO N-5,Row House,2,2,1861,0,11,Semi-Furnished,Under Construction,Standard,RCC+AAC Block,1,0,1.04,2.15,12.65,5.48,1.49,1.38,102.1,5212.25,9700000,4,930.5
+252,CSN-10252,Beed Bypass,Independent House,2,3,1764,0,9,Unfurnished,Resale,None,RCC+Brick,1,0,3.8,3.53,5.98,3.36,2.16,1.42,112.3,4370.75,7710000,5,882.0
+253,CSN-10253,Beed Bypass,Plot,0,0,2134,0,5,Fully Furnished,Resale,None,RCC,0,0,0.95,1.57,8.22,6.21,4.59,1.56,102.7,3163.07,6750000,0,
+254,CSN-10254,Railway Station Area,Apartment,3,4,1329,0,20,Unfurnished,Ready to Move,Basic,RCC,0,0,4.79,2.96,9.65,5.96,2.45,0.76,121.0,5033.86,6690000,7,443.0
+255,CSN-10255,Mukundwadi,Apartment,2,3,1140,7,3,Unfurnished,Under Construction,Premium,RCC+AAC Block,0,0,1.31,0.3,10.12,10.09,5.08,1.05,104.8,4464.91,5090000,5,570.0
+256,CSN-10256,Kranti Chowk,Apartment,3,3,1284,0,5,Fully Furnished,Ready to Move,Premium,RCC+Brick,0,0,3.53,3.67,13.66,4.07,5.43,1.53,125.3,4984.42,6400000,6,428.0
+257,CSN-10257,Osmanpura,Builder Floor,1,1,1532,11,13,Unfurnished,Ready to Move,Standard,RCC+Brick,0,0,3.75,4.72,10.3,5.49,3.34,1.15,108.7,5241.51,8030000,2,1532.0
+258,CSN-10258,Garkheda,Independent House,4,4,2514,0,15,Fully Furnished,Resale,Basic,RCC+Brick,0,0,1.51,5.05,7.7,3.96,3.72,0.1,104.0,5445.51,13690000,8,628.5
+259,CSN-10259,Nakshatrawadi,Row House,5,5,1894,0,15,Fully Furnished,Under Construction,None,RCC,1,0,3.15,2.06,7.07,3.08,3.51,1.89,99.2,3421.33,6480000,10,378.8
+260,CSN-10260,Deolai,Apartment,3,3,1360,3,16,Unfurnished,Resale,Basic,RCC+Brick,0,0,3.75,0.3,10.89,3.89,2.38,2.22,93.9,3750.0,5100000,6,453.3
+261,CSN-10261,Chikalthana,Apartment,3,4,1008,1,7,Semi-Furnished,Resale,Premium,RCC,0,0,1.47,5.35,7.94,3.94,4.64,0.77,102.0,4107.14,4140000,7,336.0
+262,CSN-10262,Deolai,Apartment,2,3,1097,9,19,Unfurnished,Under Construction,Standard,RCC,0,0,2.47,2.96,8.34,6.47,2.19,0.63,128.0,3500.46,3840000,5,548.5
+263,CSN-10263,CIDCO N-9,Apartment,4,3,737,9,16,Unfurnished,Resale,Standard,RCC+AAC Block,0,0,4.22,1.33,13.09,7.45,3.87,0.69,107.6,4369.06,3220000,7,184.2
+264,CSN-10264,Itkheda,Villa,3,2,2086,0,15,Fully Furnished,Resale,Premium,RCC+AAC Block,0,0,0.2,3.57,10.06,4.52,1.28,1.25,93.5,3974.11,8290000,5,695.3
+265,CSN-10265,Shahnoorwadi,Plot,0,0,3554,0,3,Fully Furnished,Under Construction,None,RCC+Brick,0,0,1.79,2.17,1.94,7.32,3.67,1.09,103.6,4018.01,14280000,0,
+266,CSN-10266,Shahanurwadi,Plot,0,0,3434,0,18,Semi-Furnished,Resale,Standard,RCC+AAC Block,1,0,1.68,1.15,14.33,5.75,3.71,0.78,111.1,3331.39,11440000,0,
+267,CSN-10267,Harsul,Apartment,2,2,1257,0,10,Fully Furnished,Resale,None,RCC+Brick,0,0,2.48,3.09,7.11,2.57,1.1,1.17,100.9,3444.71,4330000,4,628.5
+268,CSN-10268,Nakshatrawadi,Villa,4,4,3154,0,2,Fully Furnished,Resale,Basic,RCC+AAC Block,0,0,2.05,4.04,6.24,4.6,1.7,1.94,102.5,3839.57,12110000,8,788.5
+269,CSN-10269,Harsool Road,Apartment,3,3,1194,9,14,Unfurnished,Ready to Move,Basic,RCC+AAC Block,0,0,1.99,0.91,8.34,1.03,3.79,1.43,116.2,3827.47,4570000,6,398.0
+270,CSN-10270,Mukundwadi,Plot,0,0,1607,0,2,Fully Furnished,Under Construction,Standard,RCC+Brick,1,1,2.31,1.49,9.77,5.05,5.1,1.2,98.6,3298.07,5300000,0,
+271,CSN-10271,CIDCO N-1,Apartment,2,1,1181,1,17,Semi-Furnished,Under Construction,Premium,RCC+AAC Block,1,0,2.14,4.52,6.65,7.37,3.81,1.19,101.8,5325.99,6290000,3,590.5
+272,CSN-10272,CIDCO N-6,Villa,1,1,2624,0,14,Fully Furnished,Ready to Move,Premium,RCC+Brick,1,0,1.63,4.06,9.67,5.52,2.94,1.46,104.3,4317.84,11330000,2,2624.0
+273,CSN-10273,Shahnoorwadi,Plot,0,0,1397,0,4,Unfurnished,Resale,Premium,RCC+AAC Block,0,1,1.13,3.45,4.38,3.85,0.3,1.34,99.8,3543.31,4950000,0,
+274,CSN-10274,CIDCO N-7,Builder Floor,2,2,727,8,14,Unfurnished,Resale,Premium,RCC+Brick,0,1,1.91,2.76,12.32,3.2,3.14,1.77,106.8,4690.51,3410000,4,363.5
+275,CSN-10275,CIDCO N-4,Apartment,2,2,742,4,5,Semi-Furnished,Under Construction,None,RCC,0,0,0.89,2.67,9.07,3.31,5.15,1.75,103.3,5134.77,3810000,4,371.0
+276,CSN-10276,CIDCO N-1,Apartment,5,4,1476,2,19,Unfurnished,Resale,Standard,RCC+Brick,0,1,0.2,1.65,10.19,5.05,0.3,1.95,101.2,4789.97,7070000,9,295.2
+277,CSN-10277,CIDCO N-5,Apartment,1,1,804,1,12,Fully Furnished,Under Construction,None,RCC+AAC Block,1,1,0.82,3.9,6.3,5.76,2.66,1.5,103.3,3532.34,2840000,2,804.0
+278,CSN-10278,CIDCO N-3,Apartment,3,4,931,9,15,Semi-Furnished,Under Construction,Basic,RCC+Brick,0,0,2.54,3.61,11.63,5.87,1.65,0.1,106.2,4736.84,4410000,7,310.3
+279,CSN-10279,Itkheda,Villa,3,4,2260,0,20,Semi-Furnished,Resale,Basic,RCC+Brick,0,0,0.32,2.36,11.05,8.71,3.36,1.02,110.2,4261.06,9630000,7,753.3
+280,CSN-10280,Shahnoorwadi,Villa,2,2,2462,0,8,Semi-Furnished,Ready to Move,Basic,RCC+Brick,0,0,2.41,1.52,12.39,2.26,2.35,1.26,117.6,4687.25,11540000,4,1231.0
+281,CSN-10281,Town Centre,Builder Floor,3,2,1443,2,14,Unfurnished,Under Construction,Standard,RCC+Brick,0,0,2.27,4.18,14.02,5.93,2.19,1.67,96.8,5079.7,7330000,5,481.0
+282,CSN-10282,Kranti Chowk,Villa,2,3,1750,0,10,Fully Furnished,Under Construction,None,RCC+Brick,0,0,1.68,2.15,13.06,3.53,4.32,1.19,103.8,4971.43,8700000,5,875.0
+283,CSN-10283,CIDCO N-3,Apartment,3,3,1108,7,0,Semi-Furnished,Ready to Move,Standard,RCC+AAC Block,1,0,2.11,1.79,8.71,3.51,1.58,0.23,106.4,4963.9,5500000,6,369.3
+284,CSN-10284,Osmanpura,Builder Floor,2,2,1665,8,14,Semi-Furnished,Under Construction,Standard,RCC+AAC Block,1,0,1.71,3.78,8.95,5.66,4.98,1.43,108.4,5069.07,8440000,4,832.5
+285,CSN-10285,CIDCO N-5,Apartment,3,4,830,9,9,Semi-Furnished,Under Construction,None,RCC,0,0,1.99,2.17,11.82,5.7,3.4,0.75,105.4,4602.41,3820000,7,276.7
+286,CSN-10286,Harsool Road,Villa,3,3,2373,0,9,Semi-Furnished,Ready to Move,Basic,RCC,1,0,2.83,3.59,7.45,3.06,3.83,1.46,98.8,4020.23,9540000,6,791.0
+287,CSN-10287,Itkheda,Independent House,1,2,1584,0,0,Unfurnished,Under Construction,Basic,RCC,1,0,1.2,2.93,7.43,5.59,4.69,1.01,97.6,4299.24,6810000,3,1584.0
+288,CSN-10288,Osmanpura,Independent House,2,1,2143,0,18,Fully Furnished,Resale,Standard,RCC+AAC Block,0,0,3.09,2.93,7.69,4.73,2.84,1.15,102.9,5361.64,11490000,3,1071.5
+289,CSN-10289,CIDCO N-4,Apartment,3,2,939,6,9,Fully Furnished,Resale,Standard,RCC+AAC Block,0,1,1.53,3.24,11.06,2.63,2.18,1.31,123.5,4707.14,4420000,5,313.0
+290,CSN-10290,Satara Parisar,Independent House,1,2,1083,0,14,Semi-Furnished,Resale,Standard,RCC+AAC Block,0,0,0.2,2.52,10.46,4.43,4.07,0.69,97.4,3896.58,4220000,3,1083.0
+291,CSN-10291,Kranti Chowk,Builder Floor,3,3,838,6,20,Unfurnished,Resale,Basic,RCC+AAC Block,0,1,4.38,3.81,3.32,0.5,4.1,1.14,112.3,4844.87,4060000,6,279.3
+292,CSN-10292,CIDCO N-4,Apartment,2,2,886,3,15,Semi-Furnished,Resale,Basic,RCC,0,0,3.27,2.35,4.51,9.74,2.09,0.86,105.2,4503.39,3990000,4,443.0
+293,CSN-10293,Paithan Road,Independent House,3,2,1518,0,11,Fully Furnished,Under Construction,Standard,RCC+Brick,1,0,1.68,2.06,12.91,3.59,4.14,0.81,102.8,3794.47,5760000,5,506.0
+294,CSN-10294,CIDCO N-7,Plot,0,0,3796,0,4,Unfurnished,Ready to Move,Basic,RCC,0,0,1.39,0.3,5.45,7.88,3.61,1.31,96.4,3543.2,13450000,0,
+295,CSN-10295,Jalna Road,Row House,3,2,882,0,16,Unfurnished,Resale,None,RCC+Brick,0,0,4.44,0.53,7.8,7.91,0.8,0.81,102.2,4580.5,4040000,5,294.0
+296,CSN-10296,CIDCO N-10,Apartment,3,4,1096,2,3,Unfurnished,Resale,Basic,RCC+Brick,0,0,2.31,1.34,9.04,1.76,1.2,0.58,104.0,4799.27,5260000,7,365.3
+297,CSN-10297,Satara Parisar,Independent House,2,2,2495,0,0,Fully Furnished,Ready to Move,None,RCC,0,0,1.82,3.32,13.28,4.59,4.77,1.54,92.1,3995.99,9970000,4,1247.5
+298,CSN-10298,Waluj,Apartment,4,4,1256,10,7,Fully Furnished,Resale,None,RCC,0,0,2.23,3.26,14.82,7.98,4.18,0.62,103.3,3566.88,4480000,8,314.0
+299,CSN-10299,CIDCO N-8,Builder Floor,2,3,858,10,11,Fully Furnished,Ready to Move,Standard,RCC+AAC Block,0,0,3.27,2.53,10.98,5.45,1.03,0.35,116.1,4813.52,4130000,5,429.0
+300,CSN-10300,Waluj,Apartment,3,2,1100,3,11,Unfurnished,Under Construction,Premium,RCC+Brick,0,0,2.48,0.66,10.6,2.71,3.56,0.89,103.7,3300.0,3630000,5,366.7
+301,CSN-10301,CIDCO N-8,Apartment,2,3,947,5,4,Semi-Furnished,Under Construction,Basic,RCC,1,0,0.2,4.57,14.7,5.19,0.3,1.57,95.8,4551.21,4310000,5,473.5
+302,CSN-10302,Mukundwadi,Apartment,4,5,1423,3,17,Fully Furnished,Resale,None,RCC+Brick,0,0,2.0,1.02,11.47,0.5,2.33,0.83,106.9,4356.99,6200000,9,355.8
+303,CSN-10303,Kranti Chowk,Independent House,2,1,1944,0,18,Unfurnished,Ready to Move,Standard,RCC+AAC Block,0,0,2.5,2.31,10.98,1.26,2.9,0.86,101.0,5185.19,10080000,3,972.0
+304,CSN-10304,Paithan Road,Row House,2,2,961,0,9,Semi-Furnished,Ready to Move,Basic,RCC+Brick,1,0,2.67,3.33,3.73,1.04,3.64,0.71,108.6,3923.0,3770000,4,480.5
+305,CSN-10305,Mukundwadi,Apartment,2,2,664,10,7,Fully Furnished,Ready to Move,None,RCC+Brick,0,0,3.17,1.91,11.78,4.04,1.43,0.94,86.9,4216.87,2800000,4,332.0
+306,CSN-10306,Shahanurwadi,Apartment,1,1,696,3,8,Semi-Furnished,Under Construction,Basic,RCC+AAC Block,0,0,2.98,1.92,3.55,2.3,3.01,0.71,109.1,3994.25,2780000,2,696.0
+307,CSN-10307,Shahanurwadi,Row House,4,3,1602,0,19,Unfurnished,Ready to Move,Standard,RCC+Brick,1,0,3.4,1.98,8.59,4.96,2.59,0.97,105.7,4594.26,7360000,7,400.5
+308,CSN-10308,CIDCO N-2,Villa,4,4,1964,0,12,Unfurnished,Under Construction,Premium,RCC,0,0,1.46,4.71,7.07,4.88,5.87,1.03,113.5,4842.16,9510000,8,491.0
+309,CSN-10309,CIDCO N-9,Apartment,1,1,814,0,20,Unfurnished,Under Construction,Standard,RCC,0,0,3.64,1.63,6.3,1.55,6.05,1.38,106.4,3796.07,3090000,2,814.0
+310,CSN-10310,Waluj,Villa,1,1,1584,0,9,Semi-Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,3.35,2.81,8.61,3.04,4.34,0.97,103.3,3415.4,5410000,2,1584.0
+311,CSN-10311,Deolai,Apartment,2,1,1031,3,11,Unfurnished,Ready to Move,Basic,RCC+Brick,0,1,2.92,3.24,4.23,4.21,2.88,0.89,115.9,3899.13,4020000,3,515.5
+312,CSN-10312,CIDCO N-2,Independent House,4,4,2594,0,12,Fully Furnished,Ready to Move,Premium,RCC+AAC Block,1,0,1.84,3.58,9.88,3.6,3.7,1.09,84.5,4807.25,12470000,8,648.5
+313,CSN-10313,Waluj,Builder Floor,4,4,1654,10,17,Unfurnished,Under Construction,Premium,RCC,0,1,2.25,4.9,10.48,2.9,2.03,1.5,98.1,3065.3,5070000,8,413.5
+314,CSN-10314,Satara Parisar,Apartment,3,3,1097,3,15,Fully Furnished,Under Construction,None,RCC+Brick,1,0,4.65,4.02,8.22,3.96,1.57,2.44,96.5,4576.12,5020000,6,365.7
+315,CSN-10315,CIDCO N-5,Row House,5,5,862,0,12,Unfurnished,Ready to Move,Basic,RCC+AAC Block,0,0,2.45,3.86,8.5,5.26,1.43,1.26,107.3,4744.78,4090000,10,172.4
+316,CSN-10316,CIDCO N-10,Builder Floor,1,1,1013,6,3,Semi-Furnished,Ready to Move,Premium,RCC,0,1,1.17,1.34,3.55,4.44,0.8,0.6,104.2,4027.64,4080000,2,1013.0
+317,CSN-10317,Itkheda,Apartment,2,3,1069,7,0,Semi-Furnished,Under Construction,Standard,RCC+Brick,1,1,2.86,4.3,2.57,8.25,3.59,1.81,103.7,4321.8,4620000,5,534.5
+318,CSN-10318,Shahanurwadi,Row House,2,2,1534,0,7,Unfurnished,Resale,None,RCC,0,1,1.94,1.76,9.51,3.23,2.72,1.71,96.6,4817.47,7390000,4,767.0
+319,CSN-10319,Kanchanwadi,Row House,3,3,881,0,10,Unfurnished,Ready to Move,Premium,RCC+Brick,0,0,3.77,5.39,12.93,6.88,1.12,1.49,93.8,3745.74,3300000,6,293.7
+320,CSN-10320,CIDCO N-3,Plot,0,0,2145,0,8,Semi-Furnished,Resale,Basic,RCC,0,0,0.54,0.3,10.72,3.19,4.31,1.87,96.3,3701.63,7940000,0,
+321,CSN-10321,CIDCO N-4,Independent House,2,1,1839,0,3,Unfurnished,Ready to Move,Premium,RCC+Brick,0,0,3.2,3.42,9.64,2.73,1.85,1.76,113.6,4785.21,8800000,3,919.5
+322,CSN-10322,CIDCO N-5,Villa,3,4,1450,0,0,Unfurnished,Under Construction,Basic,RCC+AAC Block,0,1,2.64,1.93,6.07,7.37,4.79,2.11,112.1,4668.97,6770000,7,483.3
+323,CSN-10323,Waluj,Plot,0,0,1373,0,1,Unfurnished,Under Construction,Basic,RCC,0,0,3.38,4.06,12.49,0.5,3.38,1.62,91.2,2651.13,3640000,0,
+324,CSN-10324,CIDCO N-1,Apartment,4,3,1270,2,11,Semi-Furnished,Ready to Move,Premium,RCC+Brick,0,0,2.53,5.36,11.81,2.46,4.19,1.74,103.5,5354.33,6800000,7,317.5
+325,CSN-10325,CIDCO N-5,Row House,1,2,1484,0,19,Fully Furnished,Under Construction,None,RCC+AAC Block,1,1,2.75,2.96,6.81,5.71,4.49,0.7,106.4,4319.41,6410000,3,1484.0
+326,CSN-10326,Kanchanwadi,Apartment,3,4,780,3,10,Fully Furnished,Ready to Move,Standard,RCC+Brick,0,0,4.39,2.23,13.94,5.01,5.67,1.65,103.9,4038.46,3150000,7,260.0
+327,CSN-10327,Garkheda,Apartment,2,3,1181,4,10,Semi-Furnished,Ready to Move,Basic,RCC,0,0,3.55,2.07,6.49,5.91,5.29,1.89,91.8,4995.77,5900000,5,590.5
+328,CSN-10328,CIDCO N-9,Apartment,3,4,862,3,1,Semi-Furnished,Ready to Move,None,RCC+Brick,0,0,2.68,4.65,3.21,7.85,2.53,1.64,92.5,4698.38,4050000,7,287.3
+329,CSN-10329,CIDCO N-3,Villa,3,3,3131,0,9,Semi-Furnished,Under Construction,None,RCC,1,0,3.22,4.91,3.57,6.47,4.44,1.04,96.3,4944.11,15480000,6,1043.7
+330,CSN-10330,Shahanurwadi,Apartment,3,4,895,3,3,Semi-Furnished,Ready to Move,None,RCC+AAC Block,0,1,0.54,3.44,5.24,7.45,1.59,0.8,101.9,4759.78,4260000,7,298.3
+331,CSN-10331,CIDCO N-1,Apartment,2,2,697,7,20,Fully Furnished,Ready to Move,Basic,RCC+Brick,0,0,2.16,4.81,8.98,4.52,1.69,2.25,91.5,4505.02,3140000,4,348.5
+332,CSN-10332,Waluj,Independent House,3,4,1877,0,0,Semi-Furnished,Resale,Standard,RCC+Brick,0,0,2.05,1.63,9.96,6.94,5.22,1.42,109.4,3516.25,6600000,7,625.7
+333,CSN-10333,Waluj,Apartment,3,3,1130,0,12,Semi-Furnished,Under Construction,Basic,RCC,0,0,2.94,2.25,8.55,8.4,4.21,1.68,115.0,3265.49,3690000,6,376.7
+334,CSN-10334,Town Centre,Row House,3,4,860,0,12,Unfurnished,Ready to Move,Standard,RCC+Brick,0,0,2.85,4.01,6.19,3.82,0.3,0.55,102.1,5430.23,4670000,7,286.7
+335,CSN-10335,CIDCO N-2,Independent House,3,3,989,0,7,Unfurnished,Under Construction,Basic,RCC,0,1,3.63,0.84,6.64,4.02,2.4,1.24,113.8,5015.17,4960000,6,329.7
+336,CSN-10336,Paithan Road,Apartment,3,3,1285,5,15,Fully Furnished,Under Construction,Standard,RCC+AAC Block,0,0,1.95,2.95,6.34,6.46,2.93,1.3,106.0,3533.07,4540000,6,428.3
+337,CSN-10337,CIDCO N-7,Builder Floor,2,2,1191,6,20,Semi-Furnished,Ready to Move,Premium,RCC+AAC Block,1,0,4.04,5.4,11.46,5.81,1.49,1.63,100.7,4785.89,5700000,4,595.5
+338,CSN-10338,CIDCO N-3,Villa,4,4,1590,0,3,Unfurnished,Under Construction,Standard,RCC,1,1,4.94,3.63,4.53,3.14,3.76,2.0,91.5,4911.95,7810000,8,397.5
+339,CSN-10339,Shahnoorwadi,Apartment,3,3,1088,10,16,Fully Furnished,Ready to Move,None,RCC,1,1,1.27,4.44,9.66,6.18,5.25,0.57,103.3,4871.32,5300000,6,362.7
+340,CSN-10340,CIDCO N-3,Builder Floor,3,4,1696,4,6,Unfurnished,Ready to Move,Premium,RCC,1,0,2.55,2.74,6.35,5.69,2.5,2.21,108.3,4864.39,8250000,7,565.3
+341,CSN-10341,Osmanpura,Independent House,4,4,1515,0,14,Unfurnished,Ready to Move,Basic,RCC+Brick,0,0,1.44,2.04,12.85,6.85,2.41,1.14,103.6,5643.56,8550000,8,378.8
+342,CSN-10342,Shahnoorwadi,Apartment,1,1,707,10,5,Unfurnished,Resale,Premium,RCC,0,0,3.27,0.51,10.52,9.6,0.3,2.11,80.0,5106.08,3610000,2,707.0
+343,CSN-10343,Garkheda,Independent House,3,3,963,0,7,Unfurnished,Resale,Premium,RCC+AAC Block,1,0,4.12,4.58,2.54,1.36,1.73,0.24,109.1,5285.57,5090000,6,321.0
+344,CSN-10344,Beed Bypass,Apartment,1,1,1029,1,16,Semi-Furnished,Under Construction,Standard,RCC+AAC Block,1,0,2.62,3.34,7.71,5.69,4.5,1.14,106.5,3896.99,4010000,2,1029.0
+345,CSN-10345,Deolai,Independent House,3,3,2223,0,1,Unfurnished,Resale,Basic,RCC+AAC Block,0,0,0.39,3.54,9.19,7.04,2.2,2.34,95.7,3922.63,8720000,6,741.0
+346,CSN-10346,Waluj,Independent House,2,2,1169,0,7,Fully Furnished,Resale,Basic,RCC,0,0,3.78,3.92,15.1,5.6,2.4,0.83,92.9,3396.07,3970000,4,584.5
+347,CSN-10347,CIDCO N-6,Apartment,3,4,785,1,9,Fully Furnished,Under Construction,Premium,RCC+AAC Block,0,0,3.15,0.3,9.65,11.17,0.74,1.06,104.7,4496.82,3530000,7,261.7
+348,CSN-10348,Jalna Road,Apartment,3,3,1109,3,0,Fully Furnished,Under Construction,None,RCC+Brick,0,0,1.6,4.61,4.49,0.5,3.05,2.02,100.2,4851.22,5380000,6,369.7
+349,CSN-10349,CIDCO N-5,Row House,2,3,871,0,14,Fully Furnished,Resale,Premium,RCC,1,0,2.92,3.73,11.11,0.63,0.75,0.76,105.3,4408.73,3840000,5,435.5
+350,CSN-10350,CIDCO N-10,Independent House,1,2,1780,0,14,Unfurnished,Ready to Move,Premium,RCC+Brick,0,0,4.85,3.79,6.71,9.63,2.48,1.28,100.2,4561.8,8120000,3,1780.0
+351,CSN-10351,Shahanurwadi,Apartment,5,5,1345,6,2,Unfurnished,Ready to Move,Standard,RCC+AAC Block,0,0,2.39,4.83,6.7,4.33,0.69,0.49,103.9,5003.72,6730000,10,269.0
+352,CSN-10352,CIDCO N-10,Independent House,3,2,1994,0,18,Fully Furnished,Resale,None,RCC+AAC Block,0,0,3.44,1.61,9.68,10.45,3.31,0.73,109.2,4182.55,8340000,5,664.7
+353,CSN-10353,Osmanpura,Apartment,2,2,1144,0,3,Fully Furnished,Under Construction,None,RCC,0,0,4.28,3.65,10.22,7.12,4.16,0.95,107.1,5498.25,6290000,4,572.0
+354,CSN-10354,Harsul,Apartment,3,4,681,3,3,Semi-Furnished,Resale,None,RCC+AAC Block,0,1,4.98,2.45,6.88,2.34,3.31,1.32,97.7,3729.81,2540000,7,227.0
+355,CSN-10355,Garkheda,Apartment,3,2,935,6,19,Semi-Furnished,Ready to Move,Basic,RCC+AAC Block,1,1,3.78,4.03,11.39,8.47,3.85,1.18,111.2,5219.25,4880000,5,311.7
+356,CSN-10356,Harsool Road,Apartment,3,2,1110,9,19,Unfurnished,Resale,Basic,RCC+AAC Block,1,0,3.53,1.55,9.95,3.54,0.53,1.03,114.1,3684.68,4090000,5,370.0
+357,CSN-10357,CIDCO N-6,Apartment,1,1,896,1,20,Fully Furnished,Ready to Move,Standard,RCC,1,0,3.61,4.62,11.9,4.13,2.92,1.16,109.7,4542.41,4070000,2,896.0
+358,CSN-10358,Shahnoorwadi,Apartment,2,3,862,0,5,Fully Furnished,Resale,Premium,RCC+Brick,0,0,2.23,2.7,10.23,9.02,3.65,1.47,103.0,4825.99,4160000,5,431.0
+359,CSN-10359,Jalna Road,Apartment,3,2,743,5,15,Fully Furnished,Under Construction,Premium,RCC+Brick,0,0,3.7,5.27,9.11,6.38,2.77,1.52,104.6,4656.8,3460000,5,247.7
+360,CSN-10360,Kanchanwadi,Builder Floor,3,2,999,2,16,Semi-Furnished,Under Construction,Premium,RCC,1,0,2.09,4.25,10.27,5.41,3.79,0.78,104.4,3953.95,3950000,5,333.0
+361,CSN-10361,CIDCO N-6,Villa,1,1,1459,0,19,Fully Furnished,Ready to Move,Premium,RCC+AAC Block,0,0,0.2,4.71,3.03,7.02,1.67,1.83,123.3,3625.77,5290000,2,1459.0
+362,CSN-10362,Osmanpura,Row House,2,2,1412,0,11,Semi-Furnished,Ready to Move,Standard,RCC+Brick,0,1,0.61,4.74,7.27,1.63,5.39,1.16,117.6,5722.38,8080000,4,706.0
+363,CSN-10363,Chikalthana,Independent House,2,1,1599,0,14,Fully Furnished,Resale,Standard,RCC,0,0,2.2,2.45,6.81,3.67,0.9,0.75,116.7,3802.38,6080000,3,799.5
+364,CSN-10364,CIDCO N-4,Independent House,2,3,1368,0,6,Unfurnished,Under Construction,Standard,RCC+Brick,1,0,3.21,3.34,7.56,2.68,0.8,1.33,114.6,4656.43,6370000,5,684.0
+365,CSN-10365,Nakshatrawadi,Independent House,3,3,2461,0,6,Semi-Furnished,Ready to Move,Standard,RCC+AAC Block,0,1,1.99,3.58,3.58,6.69,4.15,1.23,97.8,3437.63,8460000,6,820.3
+366,CSN-10366,Garkheda,Row House,3,4,1622,0,9,Semi-Furnished,Under Construction,Premium,RCC+Brick,0,0,2.87,1.13,10.0,5.21,2.03,1.71,86.0,5326.76,8640000,7,540.7
+367,CSN-10367,Harsool Road,Independent House,3,2,1797,0,14,Fully Furnished,Resale,None,RCC,1,0,4.55,2.91,4.47,1.77,4.16,1.16,110.3,3567.06,6410000,5,599.0
+368,CSN-10368,Shahnoorwadi,Apartment,5,5,804,5,10,Semi-Furnished,Under Construction,Standard,RCC+Brick,0,0,2.91,2.25,5.34,4.44,4.65,0.89,99.5,5248.76,4220000,10,160.8
+369,CSN-10369,Osmanpura,Apartment,3,2,937,4,14,Semi-Furnished,Ready to Move,Basic,RCC+Brick,1,0,1.01,1.13,10.89,5.7,3.12,0.1,123.9,5133.4,4810000,5,312.3
+370,CSN-10370,Beed Bypass,Independent House,2,1,1645,0,7,Unfurnished,Ready to Move,Standard,RCC,1,1,3.06,4.0,13.94,3.35,3.33,0.43,105.5,4066.87,6690000,3,822.5
+371,CSN-10371,Garkheda,Apartment,4,4,1270,2,3,Semi-Furnished,Ready to Move,Standard,RCC,1,0,4.12,3.43,9.02,4.37,6.67,1.98,95.0,5370.08,6820000,8,317.5
+372,CSN-10372,Osmanpura,Apartment,3,2,1315,0,9,Unfurnished,Resale,Basic,RCC,1,0,4.4,4.4,11.33,4.37,2.57,0.33,113.8,5703.42,7500000,5,438.3
+373,CSN-10373,Nakshatrawadi,Apartment,4,5,1064,6,4,Unfurnished,Resale,Basic,RCC+AAC Block,0,0,1.04,0.3,8.09,8.47,5.51,1.41,116.7,3674.81,3910000,9,266.0
+374,CSN-10374,Beed Bypass,Apartment,3,3,1413,6,17,Unfurnished,Resale,Premium,RCC,0,0,1.32,1.35,7.89,9.23,6.14,0.2,106.5,3892.43,5500000,6,471.0
+375,CSN-10375,CIDCO N-2,Independent House,3,3,1803,0,13,Unfurnished,Ready to Move,None,RCC+Brick,1,0,2.13,5.92,12.48,0.57,2.53,0.48,119.6,4719.91,8510000,6,601.0
+376,CSN-10376,Beed Bypass,Apartment,3,3,1338,3,7,Semi-Furnished,Resale,Premium,RCC+Brick,0,0,1.78,4.41,4.15,5.55,3.1,2.23,97.2,4282.51,5730000,6,446.0
+377,CSN-10377,Deolai,Independent House,4,4,1074,0,16,Fully Furnished,Resale,Premium,RCC+Brick,0,0,2.81,1.95,8.91,8.58,1.75,1.29,102.2,3947.86,4240000,8,268.5
+378,CSN-10378,Osmanpura,Independent House,4,3,1840,0,5,Fully Furnished,Ready to Move,Premium,RCC+Brick,1,0,3.29,3.29,10.78,4.31,2.99,0.8,112.3,5570.65,10250000,7,460.0
+379,CSN-10379,Shahanurwadi,Builder Floor,2,3,800,11,2,Unfurnished,Ready to Move,Standard,RCC+Brick,0,0,2.06,3.01,11.09,4.76,5.71,1.11,102.8,4625.0,3700000,5,400.0
+380,CSN-10380,Kanchanwadi,Apartment,3,3,786,1,4,Fully Furnished,Resale,None,RCC,0,1,1.26,2.31,13.94,5.58,2.6,1.63,108.9,3994.91,3140000,6,262.0
+381,CSN-10381,Beed Bypass,Independent House,2,2,1955,0,11,Semi-Furnished,Under Construction,Basic,RCC,1,0,1.85,2.09,8.65,2.25,3.64,1.88,100.1,4102.3,8020000,4,977.5
+382,CSN-10382,Shahanurwadi,Villa,2,3,2099,0,18,Semi-Furnished,Ready to Move,Standard,RCC+Brick,0,0,0.2,3.79,16.22,6.49,1.27,1.37,94.2,4735.59,9940000,5,1049.5
+383,CSN-10383,Nakshatrawadi,Villa,2,3,1876,0,14,Unfurnished,Under Construction,Basic,RCC+AAC Block,0,0,0.2,1.25,8.84,7.35,2.16,2.14,94.3,3406.18,6390000,5,938.0
+384,CSN-10384,Satara Parisar,Builder Floor,2,3,1651,7,1,Fully Furnished,Resale,Premium,RCC+AAC Block,1,1,2.82,4.71,8.73,6.32,5.64,2.37,97.7,4088.43,6750000,5,825.5
+385,CSN-10385,Town Centre,Row House,1,2,1117,0,5,Unfurnished,Ready to Move,Standard,RCC+AAC Block,0,0,1.72,4.42,9.22,8.45,3.25,1.05,92.3,4852.28,5420000,3,1117.0
+386,CSN-10386,Town Centre,Builder Floor,3,4,858,10,0,Unfurnished,Under Construction,Standard,RCC+AAC Block,0,0,1.12,4.66,9.56,4.44,3.96,1.21,106.7,5372.96,4610000,7,286.0
+387,CSN-10387,Shahanurwadi,Plot,0,0,1877,0,0,Unfurnished,Resale,Premium,RCC,0,0,1.28,4.51,14.04,4.38,3.05,0.89,103.1,4017.05,7540000,0,
+388,CSN-10388,Beed Bypass,Row House,3,3,979,0,19,Fully Furnished,Resale,Basic,RCC,0,1,0.25,3.96,9.47,4.86,2.41,0.66,111.8,3810.01,3730000,6,326.3
+389,CSN-10389,Harsul,Apartment,2,3,717,5,8,Unfurnished,Resale,Standard,RCC+AAC Block,0,1,2.19,5.68,7.74,7.8,1.1,0.58,112.1,3765.69,2700000,5,358.5
+390,CSN-10390,Mukundwadi,Independent House,3,3,2427,0,13,Unfurnished,Ready to Move,Basic,RCC+Brick,0,0,1.49,5.46,8.72,2.59,2.53,0.24,101.7,4519.98,10970000,6,809.0
+391,CSN-10391,CIDCO N-1,Builder Floor,3,3,1665,3,14,Fully Furnished,Ready to Move,Basic,RCC,1,0,3.26,1.41,12.23,4.37,1.64,1.32,102.0,5291.29,8810000,6,555.0
+392,CSN-10392,Satara Parisar,Apartment,1,1,1014,0,6,Unfurnished,Ready to Move,Standard,RCC+AAC Block,0,0,2.1,3.05,13.66,8.89,2.99,0.93,115.6,4142.01,4200000,2,1014.0
+393,CSN-10393,CIDCO N-1,Apartment,4,4,1099,7,20,Semi-Furnished,Ready to Move,Premium,RCC+AAC Block,1,0,3.62,4.36,7.67,6.81,3.12,0.46,112.4,4868.06,5350000,8,274.8
+394,CSN-10394,Shahanurwadi,Independent House,2,2,940,0,15,Semi-Furnished,Under Construction,Standard,RCC,0,0,0.2,2.24,7.76,4.48,2.01,1.0,117.1,4553.19,4280000,4,470.0
+395,CSN-10395,Mukundwadi,Plot,0,0,1526,0,8,Unfurnished,Ready to Move,Premium,RCC+AAC Block,0,0,1.0,2.94,8.85,0.5,2.94,1.72,104.6,3650.07,5570000,0,
+396,CSN-10396,Shahanurwadi,Apartment,3,3,1062,1,0,Unfurnished,Under Construction,None,RCC+AAC Block,1,0,2.64,2.09,6.44,5.99,2.79,0.1,99.3,4538.61,4820000,6,354.0
+397,CSN-10397,Beed Bypass,Apartment,1,2,822,10,4,Semi-Furnished,Resale,None,RCC,0,0,3.21,3.53,12.31,0.5,2.56,1.02,113.0,4452.55,3660000,3,822.0
+398,CSN-10398,Beed Bypass,Villa,3,2,1700,0,9,Unfurnished,Under Construction,Basic,RCC+AAC Block,0,0,3.36,2.39,8.38,4.93,5.53,0.1,102.8,4270.59,7260000,5,566.7
+399,CSN-10399,Osmanpura,Apartment,2,1,648,3,8,Unfurnished,Ready to Move,None,RCC+AAC Block,1,0,2.19,0.56,9.88,3.92,4.89,1.55,110.4,5154.32,3340000,3,324.0
+400,CSN-10400,Jalna Road,Row House,2,3,1170,0,1,Unfurnished,Resale,Standard,RCC+AAC Block,0,0,2.84,0.54,3.69,6.18,0.3,0.93,106.5,4888.89,5720000,5,585.0
+401,CSN-10401,Garkheda,Builder Floor,2,3,1488,2,18,Unfurnished,Under Construction,None,RCC+Brick,0,0,3.54,2.15,6.93,4.44,2.78,0.6,115.9,5040.32,7500000,5,744.0
+402,CSN-10402,Town Centre,Villa,2,2,3158,0,17,Semi-Furnished,Ready to Move,Basic,RCC+Brick,1,1,0.2,1.49,8.32,5.15,5.53,1.55,102.8,5161.49,16300000,4,1579.0
+403,CSN-10403,Deolai,Apartment,2,2,677,7,15,Semi-Furnished,Resale,Basic,RCC,1,0,2.76,2.65,6.9,3.43,3.51,0.99,101.9,3500.74,2370000,4,338.5
+404,CSN-10404,Kranti Chowk,Plot,0,0,3517,0,16,Unfurnished,Ready to Move,None,RCC+AAC Block,0,1,1.94,2.21,5.37,3.58,3.03,0.73,107.0,3744.67,13170000,0,
+405,CSN-10405,CIDCO N-10,Apartment,3,3,1047,6,7,Fully Furnished,Ready to Move,Basic,RCC,0,1,3.38,0.47,14.4,10.87,0.3,1.14,99.3,4450.81,4660000,6,349.0
+406,CSN-10406,Kranti Chowk,Independent House,5,5,2422,0,2,Semi-Furnished,Under Construction,Basic,RCC,0,0,1.49,2.81,7.31,6.32,5.66,1.55,91.6,5392.24,13060000,10,484.4
+407,CSN-10407,CIDCO N-5,Apartment,2,1,768,3,2,Fully Furnished,Under Construction,Standard,RCC+Brick,0,0,0.84,3.87,7.01,2.39,2.57,0.92,103.1,4765.62,3660000,3,384.0
+408,CSN-10408,Jalna Road,Apartment,3,3,1395,10,0,Fully Furnished,Resale,Basic,RCC+AAC Block,0,0,3.85,4.67,7.29,5.44,1.83,0.61,99.0,4831.54,6740000,6,465.0
+409,CSN-10409,Satara Parisar,Apartment,1,1,961,2,4,Unfurnished,Ready to Move,Basic,RCC+Brick,1,1,3.42,2.7,13.99,0.86,4.38,1.14,102.0,3735.69,3590000,2,961.0
+410,CSN-10410,Kanchanwadi,Plot,0,0,2140,0,15,Unfurnished,Resale,Standard,RCC+Brick,0,0,3.82,1.91,12.94,6.26,3.49,1.02,109.5,3004.67,6430000,0,
+411,CSN-10411,CIDCO N-7,Apartment,4,3,863,3,2,Semi-Furnished,Ready to Move,Premium,RCC,1,0,4.11,5.17,11.15,4.07,2.55,2.03,97.4,5063.73,4370000,7,215.8
+412,CSN-10412,Mukundwadi,Row House,2,3,1425,0,16,Fully Furnished,Ready to Move,Basic,RCC,0,0,3.39,1.92,8.22,2.04,5.34,1.89,100.3,3803.51,5420000,5,712.5
+413,CSN-10413,CIDCO N-9,Builder Floor,2,2,1000,9,3,Semi-Furnished,Resale,Premium,RCC,0,1,2.59,1.99,8.7,9.61,2.48,1.43,91.9,4940.0,4940000,4,500.0
+414,CSN-10414,Chikalthana,Apartment,3,4,672,7,14,Fully Furnished,Resale,None,RCC,1,0,1.77,3.49,7.11,5.12,1.39,1.35,103.6,3869.05,2600000,7,224.0
+415,CSN-10415,CIDCO N-8,Independent House,4,4,2374,0,15,Fully Furnished,Resale,None,RCC,0,0,3.49,0.3,1.5,4.04,0.93,1.06,106.1,4949.45,11750000,8,593.5
+416,CSN-10416,Chikalthana,Plot,0,0,942,0,8,Fully Furnished,Resale,Basic,RCC+AAC Block,0,0,1.33,4.04,8.32,4.21,3.95,1.02,86.3,2611.46,2460000,0,
+417,CSN-10417,Waluj,Row House,2,3,1548,0,12,Unfurnished,Resale,None,RCC+AAC Block,0,0,2.21,1.59,13.45,10.37,3.72,1.19,95.0,3662.79,5670000,5,774.0
+418,CSN-10418,Shahnoorwadi,Apartment,5,4,839,11,20,Unfurnished,Under Construction,Basic,RCC+AAC Block,0,0,3.47,2.72,8.09,2.09,4.14,0.67,103.2,4982.12,4180000,9,167.8
+419,CSN-10419,CIDCO N-10,Apartment,1,1,789,3,1,Semi-Furnished,Ready to Move,Basic,RCC+Brick,1,0,2.16,4.39,5.35,4.1,0.93,1.76,100.5,4182.51,3300000,2,789.0
+420,CSN-10420,Kanchanwadi,Plot,0,0,1451,0,5,Fully Furnished,Ready to Move,None,RCC+AAC Block,0,0,2.71,1.83,10.78,2.54,3.06,1.23,120.1,3197.79,4640000,0,
+421,CSN-10421,CIDCO N-10,Independent House,3,2,2448,0,14,Fully Furnished,Ready to Move,Basic,RCC,0,0,0.77,4.97,4.23,4.52,4.57,1.18,97.2,4080.88,9990000,5,816.0
+422,CSN-10422,CIDCO N-5,Apartment,4,4,1017,7,11,Semi-Furnished,Ready to Move,Basic,RCC+AAC Block,1,0,1.4,2.23,7.92,4.78,1.75,0.1,105.6,4670.6,4750000,8,254.2
+423,CSN-10423,Harsool Road,Apartment,2,2,1258,10,17,Unfurnished,Resale,Premium,RCC,0,0,2.98,2.71,8.38,4.19,3.93,0.77,104.8,3100.16,3900000,4,629.0
+424,CSN-10424,CIDCO N-8,Apartment,4,3,1406,8,11,Unfurnished,Resale,Basic,RCC+AAC Block,1,0,2.43,5.0,4.99,4.31,5.17,0.1,113.4,4893.31,6880000,7,351.5
+425,CSN-10425,CIDCO N-4,Row House,2,2,1023,0,3,Fully Furnished,Ready to Move,Standard,RCC,0,0,3.01,2.07,4.86,3.73,3.51,1.03,105.1,4877.81,4990000,4,511.5
+426,CSN-10426,Shahanurwadi,Apartment,5,5,1779,7,19,Unfurnished,Under Construction,Standard,RCC+Brick,0,0,1.36,3.99,3.68,1.21,2.5,1.09,94.3,4586.85,8160000,10,355.8
+427,CSN-10427,Mukundwadi,Villa,3,3,1951,0,20,Semi-Furnished,Under Construction,None,RCC,0,0,2.34,4.7,6.7,6.84,3.06,2.09,108.6,4115.84,8030000,6,650.3
+428,CSN-10428,Jalna Road,Independent House,3,3,1774,0,20,Fully Furnished,Resale,None,RCC+Brick,0,0,1.3,4.54,4.62,5.31,4.73,0.1,123.6,4374.3,7760000,6,591.3
+429,CSN-10429,Shahanurwadi,Apartment,2,2,1122,11,20,Unfurnished,Resale,Standard,RCC,1,1,3.19,0.47,16.33,3.62,5.24,1.22,111.3,4162.21,4670000,4,561.0
+430,CSN-10430,CIDCO N-9,Apartment,5,4,899,0,18,Fully Furnished,Under Construction,Premium,RCC+AAC Block,0,1,3.26,2.49,8.65,7.83,0.3,1.55,99.9,4360.4,3920000,9,179.8
+431,CSN-10431,Deolai,Independent House,3,4,1256,0,0,Fully Furnished,Ready to Move,Premium,RCC+AAC Block,1,0,1.5,4.17,8.37,2.49,0.47,1.7,97.7,4203.82,5280000,7,418.7
+432,CSN-10432,Garkheda,Row House,3,3,1539,0,3,Unfurnished,Ready to Move,Basic,RCC,1,0,1.99,2.81,9.76,5.83,3.87,1.54,95.4,5607.54,8630000,6,513.0
+433,CSN-10433,CIDCO N-9,Row House,5,4,1523,0,14,Unfurnished,Ready to Move,Premium,RCC+AAC Block,0,0,2.87,3.23,3.56,5.84,2.92,1.51,99.7,4458.31,6790000,9,304.6
+434,CSN-10434,CIDCO N-7,Apartment,2,2,873,7,15,Fully Furnished,Resale,Premium,RCC+AAC Block,0,1,1.59,7.61,9.76,1.69,4.26,0.65,113.1,4593.36,4010000,4,436.5
+435,CSN-10435,Osmanpura,Apartment,2,1,900,2,12,Unfurnished,Under Construction,Basic,RCC,1,0,4.18,4.19,9.14,5.6,3.21,0.45,107.1,5455.56,4910000,3,450.0
+436,CSN-10436,Garkheda,Villa,2,2,1965,0,15,Unfurnished,Ready to Move,None,RCC,0,0,2.11,2.52,7.03,8.71,5.08,1.47,101.9,5099.24,10020000,4,982.5
+437,CSN-10437,CIDCO N-9,Independent House,4,4,1511,0,17,Unfurnished,Resale,Basic,RCC+Brick,0,0,2.98,1.73,6.78,3.73,1.39,1.81,94.2,4348.11,6570000,8,377.8
+438,CSN-10438,Railway Station Area,Apartment,2,2,1233,4,11,Fully Furnished,Ready to Move,None,RCC,0,0,1.62,1.86,12.37,6.84,1.96,1.22,101.8,4606.65,5680000,4,616.5
+439,CSN-10439,Kranti Chowk,Builder Floor,2,2,1548,3,13,Fully Furnished,Under Construction,Premium,RCC+Brick,0,1,2.34,3.91,8.3,6.38,2.73,0.73,107.2,4780.36,7400000,4,774.0
+440,CSN-10440,CIDCO N-9,Apartment,3,3,1237,7,13,Unfurnished,Resale,Basic,RCC,1,0,4.03,3.06,14.01,4.3,4.65,0.63,109.8,3856.1,4770000,6,412.3
+441,CSN-10441,CIDCO N-10,Builder Floor,4,4,1279,7,12,Fully Furnished,Resale,Premium,RCC+AAC Block,0,0,2.09,3.14,7.58,9.02,1.92,2.03,92.5,4589.52,5870000,8,319.8
+442,CSN-10442,Nakshatrawadi,Row House,2,2,1536,0,12,Semi-Furnished,Resale,None,RCC+Brick,0,0,4.25,3.66,10.2,6.61,0.81,1.48,95.5,3359.38,5160000,4,768.0
+443,CSN-10443,Shahanurwadi,Apartment,4,3,1232,4,20,Unfurnished,Under Construction,Standard,RCC,0,0,2.8,2.44,13.12,3.55,4.58,2.27,92.7,4577.92,5640000,7,308.0
+444,CSN-10444,Waluj,Builder Floor,3,3,926,0,19,Fully Furnished,Ready to Move,Premium,RCC+AAC Block,0,0,1.54,2.22,8.14,4.89,2.34,1.39,90.3,3239.74,3000000,6,308.7
+445,CSN-10445,Nakshatrawadi,Row House,1,1,928,0,10,Unfurnished,Under Construction,Standard,RCC+Brick,0,0,2.01,1.69,7.67,0.5,1.31,2.08,105.4,3620.69,3360000,2,928.0
+446,CSN-10446,Waluj,Villa,4,4,2689,0,9,Semi-Furnished,Resale,Premium,RCC+AAC Block,0,0,2.03,4.87,13.59,2.54,2.27,0.58,98.5,3707.7,9970000,8,672.2
+447,CSN-10447,Osmanpura,Apartment,2,2,1067,3,0,Fully Furnished,Under Construction,Standard,RCC+AAC Block,0,0,2.08,0.3,8.67,5.48,1.45,1.29,101.0,5257.73,5610000,4,533.5
+448,CSN-10448,CIDCO N-10,Apartment,1,1,745,6,18,Unfurnished,Ready to Move,Basic,RCC,0,0,3.68,3.91,10.56,6.45,0.93,0.67,105.2,3932.89,2930000,2,745.0
+449,CSN-10449,CIDCO N-4,Builder Floor,1,2,1343,1,13,Fully Furnished,Resale,None,RCC+AAC Block,0,1,2.02,3.97,9.11,1.64,2.86,0.46,107.0,4221.89,5670000,3,1343.0
+450,CSN-10450,Osmanpura,Apartment,3,3,985,11,11,Unfurnished,Resale,Premium,RCC+Brick,1,0,3.9,0.93,5.77,11.73,2.59,0.1,105.4,4710.66,4640000,6,328.3
+451,CSN-10451,CIDCO N-9,Row House,5,4,957,0,20,Unfurnished,Resale,None,RCC+AAC Block,0,0,1.37,2.59,4.71,5.51,2.78,1.53,103.8,4587.25,4390000,9,191.4
+452,CSN-10452,Kranti Chowk,Apartment,3,4,1292,8,3,Fully Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,1.12,0.3,11.74,5.27,1.88,1.9,94.4,5402.48,6980000,7,430.7
+453,CSN-10453,Railway Station Area,Villa,1,1,2996,0,14,Semi-Furnished,Ready to Move,Basic,RCC+Brick,0,0,0.98,4.07,3.85,4.22,3.51,2.08,95.6,4592.79,13760000,2,2996.0
+454,CSN-10454,CIDCO N-2,Independent House,3,3,2331,0,4,Unfurnished,Resale,Premium,RCC+Brick,1,0,1.76,4.18,8.95,6.89,3.29,1.43,98.4,4761.9,11100000,6,777.0
+455,CSN-10455,Satara Parisar,Independent House,2,2,1666,0,8,Semi-Furnished,Ready to Move,Premium,RCC+Brick,1,0,0.2,2.45,9.51,6.12,4.44,1.07,103.5,3781.51,6300000,4,833.0
+456,CSN-10456,Harsool Road,Apartment,4,5,1431,8,0,Semi-Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,3.23,0.3,6.84,4.87,3.35,0.76,93.3,3857.44,5520000,9,357.8
+457,CSN-10457,Kanchanwadi,Apartment,3,3,1433,11,11,Semi-Furnished,Ready to Move,None,RCC,0,0,2.01,3.61,3.99,0.5,3.57,1.46,106.0,3914.86,5610000,6,477.7
+458,CSN-10458,CIDCO N-9,Independent House,3,3,1676,0,9,Semi-Furnished,Ready to Move,Premium,RCC+Brick,0,0,3.91,3.59,9.86,12.48,3.49,0.42,106.5,4266.11,7150000,6,558.7
+459,CSN-10459,Satara Parisar,Independent House,2,2,1309,0,11,Semi-Furnished,Ready to Move,Standard,RCC+AAC Block,0,1,2.5,3.96,8.9,6.61,4.13,1.3,102.0,4385.03,5740000,4,654.5
+460,CSN-10460,Shahanurwadi,Independent House,2,2,1231,0,18,Fully Furnished,Ready to Move,Standard,RCC,0,0,1.48,3.37,12.3,6.33,0.3,1.58,98.2,4524.78,5570000,4,615.5
+461,CSN-10461,Harsul,Apartment,5,5,1513,8,19,Semi-Furnished,Resale,None,RCC+AAC Block,0,0,0.23,4.56,7.13,6.72,1.54,0.49,121.4,3450.1,5220000,10,302.6
+462,CSN-10462,Town Centre,Apartment,5,5,984,8,9,Unfurnished,Ready to Move,Premium,RCC+AAC Block,0,0,2.48,0.92,11.05,4.98,2.19,1.65,100.6,5376.02,5290000,10,196.8
+463,CSN-10463,Harsool Road,Independent House,2,2,1231,0,14,Unfurnished,Under Construction,Basic,RCC+AAC Block,0,0,3.12,2.64,12.62,6.8,2.6,1.1,106.8,3436.23,4230000,4,615.5
+464,CSN-10464,Chikalthana,Row House,5,5,1564,0,9,Semi-Furnished,Ready to Move,None,RCC+AAC Block,0,0,1.67,4.34,8.37,9.31,3.99,0.95,106.9,4175.19,6530000,10,312.8
+465,CSN-10465,Shahnoorwadi,Row House,2,2,1577,0,5,Fully Furnished,Ready to Move,Standard,RCC+AAC Block,0,0,0.2,0.86,8.44,4.84,3.95,0.87,97.9,4831.96,7620000,4,788.5
+466,CSN-10466,CIDCO N-9,Villa,4,5,1734,0,12,Fully Furnished,Ready to Move,Premium,RCC+Brick,1,0,2.05,2.03,11.28,10.14,3.31,1.94,107.6,4406.0,7640000,9,433.5
+467,CSN-10467,CIDCO N-10,Apartment,3,4,683,8,14,Semi-Furnished,Resale,None,RCC,0,0,2.79,2.83,2.91,3.21,0.72,1.35,106.8,4421.67,3020000,7,227.7
+468,CSN-10468,Nakshatrawadi,Apartment,2,2,1076,3,16,Semi-Furnished,Under Construction,None,RCC,1,0,1.66,3.91,6.97,4.46,0.3,1.02,105.5,3308.55,3560000,4,538.0
+469,CSN-10469,Garkheda,Row House,4,4,1226,0,8,Fully Furnished,Under Construction,Premium,RCC+AAC Block,1,1,0.93,4.83,11.86,4.75,0.91,0.42,109.1,5440.46,6670000,8,306.5
+470,CSN-10470,Town Centre,Apartment,4,4,994,6,8,Semi-Furnished,Resale,Basic,RCC,0,0,1.15,1.64,13.02,2.65,4.62,0.94,105.1,5774.65,5740000,8,248.5
+471,CSN-10471,Chikalthana,Row House,2,3,995,0,4,Fully Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,0.77,1.36,6.43,5.45,0.3,1.19,106.2,3969.85,3950000,5,497.5
+472,CSN-10472,CIDCO N-9,Apartment,4,4,1516,8,17,Unfurnished,Resale,Standard,RCC+Brick,1,0,2.16,3.78,4.17,5.59,2.91,1.94,96.5,4452.51,6750000,8,379.0
+473,CSN-10473,Osmanpura,Row House,2,2,894,0,10,Unfurnished,Under Construction,Premium,RCC+Brick,1,0,2.0,2.67,5.15,10.16,2.67,1.56,99.9,5357.94,4790000,4,447.0
+474,CSN-10474,Harsool Road,Plot,0,0,3492,0,13,Semi-Furnished,Resale,Premium,RCC+Brick,1,0,1.21,5.02,5.89,6.35,4.46,1.11,94.8,2631.73,9190000,0,
+475,CSN-10475,Shahnoorwadi,Independent House,3,3,944,0,8,Fully Furnished,Under Construction,Premium,RCC,0,0,1.51,0.3,10.45,2.51,3.7,2.04,99.9,5275.42,4980000,6,314.7
+476,CSN-10476,Deolai,Apartment,2,2,804,1,19,Unfurnished,Resale,Basic,RCC+Brick,1,0,4.53,3.39,10.16,7.86,1.22,0.41,116.7,3731.34,3000000,4,402.0
+477,CSN-10477,CIDCO N-1,Villa,1,1,1785,0,17,Semi-Furnished,Resale,Premium,RCC+Brick,1,1,2.64,0.9,10.27,6.51,4.87,2.47,85.8,4537.82,8100000,2,1785.0
+478,CSN-10478,Nakshatrawadi,Plot,0,0,3020,0,0,Semi-Furnished,Under Construction,None,RCC,0,0,1.8,1.28,8.35,4.6,1.82,1.72,101.0,2980.13,9000000,0,
+479,CSN-10479,CIDCO N-4,Plot,0,0,1354,0,11,Semi-Furnished,Ready to Move,Standard,RCC+Brick,0,0,1.31,4.06,6.76,7.04,3.09,2.11,91.4,3301.33,4470000,0,
+480,CSN-10480,Paithan Road,Independent House,4,3,1114,0,4,Semi-Furnished,Resale,Standard,RCC+Brick,1,0,1.39,1.15,10.89,4.48,6.06,0.88,111.5,4245.96,4730000,7,278.5
+481,CSN-10481,Beed Bypass,Apartment,3,3,698,2,15,Unfurnished,Resale,None,RCC+AAC Block,0,0,2.02,0.63,5.21,3.85,1.99,1.27,107.7,4670.49,3260000,6,232.7
+482,CSN-10482,Railway Station Area,Apartment,3,3,955,11,7,Fully Furnished,Resale,Premium,RCC,1,0,4.11,2.25,3.59,7.16,1.91,1.85,95.6,4984.29,4760000,6,318.3
+483,CSN-10483,Kanchanwadi,Apartment,3,4,733,5,0,Unfurnished,Ready to Move,Premium,RCC+AAC Block,0,0,2.86,3.06,7.26,8.07,0.86,2.19,98.9,4297.41,3150000,7,244.3
+484,CSN-10484,CIDCO N-3,Villa,4,4,1805,0,13,Fully Furnished,Under Construction,Basic,RCC+AAC Block,0,1,4.46,1.47,12.78,2.76,2.73,1.58,96.4,5152.35,9300000,8,451.2
+485,CSN-10485,Kranti Chowk,Apartment,5,4,962,8,14,Fully Furnished,Resale,Premium,RCC+Brick,0,0,2.74,1.5,9.14,5.02,1.72,1.41,104.0,5488.57,5280000,9,192.4
+486,CSN-10486,CIDCO N-4,Apartment,2,2,1215,7,10,Fully Furnished,Ready to Move,Basic,RCC,1,0,1.64,5.86,4.54,6.02,3.37,1.4,111.7,4839.51,5880000,4,607.5
+487,CSN-10487,Deolai,Apartment,2,2,1003,4,15,Fully Furnished,Resale,None,RCC+Brick,0,1,2.36,1.28,5.95,7.77,3.88,1.89,111.5,3599.2,3610000,4,501.5
+488,CSN-10488,Railway Station Area,Independent House,2,3,1427,0,2,Unfurnished,Ready to Move,Standard,RCC+AAC Block,0,1,2.35,3.74,9.41,6.3,3.31,1.71,90.1,5094.6,7270000,5,713.5
+489,CSN-10489,Kranti Chowk,Villa,3,4,2750,0,7,Unfurnished,Ready to Move,Standard,RCC+Brick,0,0,2.6,0.3,5.57,7.64,4.5,1.42,109.1,5440.0,14960000,7,916.7
+490,CSN-10490,Satara Parisar,Independent House,2,3,2316,0,11,Unfurnished,Under Construction,Premium,RCC+AAC Block,1,0,2.41,1.66,12.33,6.31,3.49,0.82,108.9,3778.07,8750000,5,1158.0
+491,CSN-10491,CIDCO N-6,Villa,2,2,1978,0,20,Semi-Furnished,Under Construction,None,RCC+Brick,0,0,2.13,4.98,10.35,10.95,1.9,0.61,115.5,3988.88,7890000,4,989.0
+492,CSN-10492,CIDCO N-5,Builder Floor,2,3,1071,2,15,Unfurnished,Under Construction,Premium,RCC+AAC Block,0,0,2.95,3.97,8.8,1.89,2.04,1.07,100.9,4313.73,4620000,5,535.5
+493,CSN-10493,Jalna Road,Independent House,1,1,1688,0,9,Fully Furnished,Under Construction,Premium,RCC,0,0,0.2,1.85,8.17,6.76,2.23,0.7,111.6,4383.89,7400000,2,1688.0
+494,CSN-10494,Kranti Chowk,Apartment,3,4,1387,9,1,Fully Furnished,Resale,Standard,RCC,0,1,0.52,4.75,12.46,7.06,1.97,0.71,105.0,5126.17,7110000,7,462.3
+495,CSN-10495,CIDCO N-7,Apartment,2,1,886,5,15,Semi-Furnished,Resale,Premium,RCC+Brick,1,0,2.72,4.37,4.64,4.71,2.94,1.05,107.8,4875.85,4320000,3,443.0
+496,CSN-10496,Kranti Chowk,Villa,3,4,1602,0,14,Unfurnished,Resale,Standard,RCC+Brick,0,0,2.24,2.72,6.78,8.8,1.27,1.62,117.2,5499.38,8810000,7,534.0
+497,CSN-10497,Shahnoorwadi,Apartment,2,2,975,7,5,Semi-Furnished,Ready to Move,Basic,RCC+Brick,1,0,0.84,2.04,8.02,4.53,5.75,1.34,92.0,5076.92,4950000,4,487.5
+498,CSN-10498,Chikalthana,Villa,3,3,2172,0,2,Semi-Furnished,Under Construction,None,RCC+AAC Block,1,1,2.82,2.22,11.82,3.49,3.25,0.42,100.6,4203.5,9130000,6,724.0
+499,CSN-10499,Jalna Road,Independent House,2,3,1408,0,14,Fully Furnished,Resale,None,RCC+Brick,0,0,1.19,4.78,8.5,4.64,3.89,0.6,98.0,4687.5,6600000,5,704.0
+500,CSN-10500,CIDCO N-1,Row House,5,5,1734,0,3,Semi-Furnished,Resale,Premium,RCC+Brick,0,1,1.74,3.81,4.43,3.39,3.16,1.47,102.0,5409.46,9380000,10,346.8
+501,CSN-10501,Paithan Road,Plot,0,0,3063,0,16,Semi-Furnished,Ready to Move,Premium,RCC,1,0,0.9,1.6,9.7,8.53,3.23,0.95,106.8,2677.11,8200000,0,
+502,CSN-10502,Mukundwadi,Plot,0,0,960,0,11,Semi-Furnished,Ready to Move,Standard,RCC+AAC Block,0,0,2.83,1.96,9.08,5.66,0.67,1.35,102.9,3239.58,3110000,0,
+503,CSN-10503,Mukundwadi,Independent House,2,1,2247,0,0,Fully Furnished,Under Construction,Basic,RCC+AAC Block,1,1,5.23,3.86,11.89,4.26,1.51,1.01,109.9,4379.17,9840000,3,1123.5
+504,CSN-10504,Paithan Road,Independent House,3,2,1007,0,7,Fully Furnished,Resale,None,RCC+AAC Block,0,0,2.72,2.73,13.2,4.0,3.27,1.56,96.1,3912.61,3940000,5,335.7
+505,CSN-10505,Paithan Road,Independent House,2,2,1389,0,11,Semi-Furnished,Resale,None,RCC,0,0,2.77,1.02,10.38,3.78,3.01,0.42,108.7,3923.69,5450000,4,694.5
+506,CSN-10506,Waluj,Apartment,5,5,1398,4,10,Unfurnished,Resale,Standard,RCC,0,1,0.2,3.94,6.8,6.31,2.67,1.34,97.9,3819.74,5340000,10,279.6
+507,CSN-10507,Nakshatrawadi,Apartment,2,2,700,0,12,Semi-Furnished,Under Construction,Basic,RCC+AAC Block,1,1,3.85,4.58,8.41,2.06,2.12,0.11,116.1,3100.0,2170000,4,350.0
+508,CSN-10508,Kanchanwadi,Row House,3,3,1002,0,9,Fully Furnished,Resale,Standard,RCC,0,1,4.08,0.3,13.89,10.0,3.14,0.71,104.4,4261.48,4270000,6,334.0
+509,CSN-10509,Paithan Road,Independent House,2,1,1650,0,19,Semi-Furnished,Resale,Standard,RCC+Brick,0,0,1.68,3.18,12.65,4.6,4.38,0.12,106.1,3630.3,5990000,3,825.0
+510,CSN-10510,Jalna Road,Row House,3,2,1360,0,12,Fully Furnished,Resale,None,RCC,1,0,2.69,4.86,7.42,3.22,2.66,0.5,110.9,4580.88,6230000,5,453.3
+511,CSN-10511,CIDCO N-9,Apartment,2,2,651,7,15,Unfurnished,Resale,None,RCC+AAC Block,1,0,2.4,4.04,8.83,1.01,4.51,1.15,109.8,4439.32,2890000,4,325.5
+512,CSN-10512,Deolai,Apartment,3,2,1198,9,7,Unfurnished,Ready to Move,Basic,RCC+Brick,0,0,1.79,3.33,12.08,4.87,3.8,1.23,104.7,4373.96,5240000,5,399.3
+513,CSN-10513,CIDCO N-8,Apartment,2,1,954,2,20,Unfurnished,Resale,Premium,RCC+Brick,0,0,3.27,2.88,5.54,8.21,5.19,1.36,108.2,4570.23,4360000,3,477.0
+514,CSN-10514,CIDCO N-4,Apartment,3,3,698,10,11,Unfurnished,Ready to Move,Premium,RCC,0,1,2.56,4.04,6.8,2.32,3.58,0.88,106.6,4312.32,3010000,6,232.7
+515,CSN-10515,CIDCO N-3,Apartment,2,3,927,0,15,Fully Furnished,Under Construction,Premium,RCC+AAC Block,0,1,2.53,5.1,9.12,1.08,3.3,2.43,88.9,4509.17,4180000,5,463.5
+516,CSN-10516,CIDCO N-8,Villa,2,2,1745,0,0,Semi-Furnished,Ready to Move,Standard,RCC+Brick,0,0,1.46,0.46,9.33,9.93,3.69,1.61,99.0,4716.33,8230000,4,872.5
+517,CSN-10517,Jalna Road,Apartment,1,1,653,4,3,Fully Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,2.25,2.59,4.09,4.91,2.52,0.5,104.9,4548.24,2970000,2,653.0
+518,CSN-10518,CIDCO N-9,Villa,4,5,2751,0,18,Semi-Furnished,Resale,Standard,RCC+AAC Block,1,0,2.19,2.38,13.15,4.22,2.92,2.69,95.2,4641.95,12770000,9,687.8
+519,CSN-10519,Garkheda,Apartment,3,3,1184,8,3,Semi-Furnished,Ready to Move,Premium,RCC,0,0,2.53,4.2,5.89,4.37,4.42,2.09,94.1,5185.81,6140000,6,394.7
+520,CSN-10520,CIDCO N-5,Apartment,2,2,767,10,4,Unfurnished,Resale,None,RCC,0,1,1.81,4.28,8.11,3.82,4.51,1.86,97.5,4563.23,3500000,4,383.5
+521,CSN-10521,Harsool Road,Row House,2,1,1381,0,9,Unfurnished,Under Construction,None,RCC+Brick,0,1,0.2,1.58,2.91,6.01,0.3,1.22,115.4,3975.38,5490000,3,690.5
+522,CSN-10522,Kanchanwadi,Independent House,2,2,2405,0,11,Semi-Furnished,Resale,None,RCC+Brick,0,0,0.2,1.95,6.03,5.19,2.7,1.12,103.2,3945.95,9490000,4,1202.5
+523,CSN-10523,Paithan Road,Independent House,4,5,2476,0,18,Fully Furnished,Resale,None,RCC+Brick,0,0,0.99,5.53,4.48,4.17,1.57,2.51,93.9,3752.02,9290000,9,619.0
+524,CSN-10524,Nakshatrawadi,Builder Floor,4,4,1424,8,1,Semi-Furnished,Under Construction,Basic,RCC+AAC Block,0,0,1.99,4.14,5.2,6.84,2.14,0.49,106.3,4051.97,5770000,8,356.0
+525,CSN-10525,CIDCO N-1,Apartment,2,2,742,7,18,Fully Furnished,Under Construction,Basic,RCC+Brick,0,1,1.39,4.23,13.69,3.6,0.3,1.5,100.2,4649.6,3450000,4,371.0
+526,CSN-10526,CIDCO N-1,Apartment,2,3,1232,2,11,Fully Furnished,Under Construction,None,RCC+AAC Block,0,1,0.96,0.81,10.41,6.64,2.45,1.38,104.4,4959.42,6110000,5,616.0
+527,CSN-10527,Osmanpura,Apartment,4,4,730,8,1,Fully Furnished,Resale,Standard,RCC,1,0,0.77,5.11,11.88,4.72,2.7,0.1,107.2,5452.05,3980000,8,182.5
+528,CSN-10528,Deolai,Apartment,2,2,1103,1,11,Fully Furnished,Ready to Move,Premium,RCC+Brick,1,0,1.79,3.83,5.66,4.28,2.76,0.93,111.0,3952.86,4360000,4,551.5
+529,CSN-10529,Deolai,Apartment,3,3,850,7,5,Unfurnished,Ready to Move,None,RCC+Brick,0,0,1.68,2.7,10.22,3.85,2.2,0.39,104.0,4294.12,3650000,6,283.3
+530,CSN-10530,CIDCO N-8,Plot,0,0,3170,0,14,Semi-Furnished,Under Construction,Basic,RCC,0,0,4.72,3.54,7.53,7.29,4.05,1.99,95.4,3605.68,11430000,0,
+531,CSN-10531,Railway Station Area,Apartment,3,3,1342,5,16,Unfurnished,Resale,Basic,RCC,0,0,3.84,2.22,10.16,6.04,3.01,0.28,99.5,4731.74,6350000,6,447.3
+532,CSN-10532,Itkheda,Row House,2,2,1878,0,7,Fully Furnished,Under Construction,Premium,RCC+AAC Block,0,0,1.43,4.21,7.06,5.13,4.82,0.99,100.2,4536.74,8520000,4,939.0
+533,CSN-10533,Nakshatrawadi,Apartment,4,4,781,8,15,Unfurnished,Ready to Move,None,RCC+Brick,1,0,1.71,4.34,7.89,1.41,0.48,0.16,113.5,3316.26,2590000,8,195.2
+534,CSN-10534,Kanchanwadi,Apartment,2,1,719,11,17,Fully Furnished,Resale,Premium,RCC,0,0,4.06,1.09,7.45,1.24,5.28,1.81,103.4,3880.39,2790000,3,359.5
+535,CSN-10535,Shahanurwadi,Apartment,3,2,694,10,1,Semi-Furnished,Resale,Basic,RCC+Brick,1,0,3.45,5.33,6.25,4.37,3.53,1.49,98.9,5317.0,3690000,5,231.3
+536,CSN-10536,CIDCO N-7,Independent House,1,1,2193,0,13,Semi-Furnished,Ready to Move,None,RCC+AAC Block,0,0,2.66,2.61,8.2,6.83,1.3,1.32,108.3,4176.93,9160000,2,2193.0
+537,CSN-10537,CIDCO N-4,Row House,2,2,854,0,1,Semi-Furnished,Resale,Standard,RCC+Brick,1,0,1.74,0.89,10.08,0.5,1.45,0.85,111.3,5046.84,4310000,4,427.0
+538,CSN-10538,Beed Bypass,Independent House,4,4,2319,0,10,Fully Furnished,Resale,Standard,RCC,1,0,4.33,1.02,5.06,7.26,2.35,0.49,118.2,4407.07,10220000,8,579.8
+539,CSN-10539,Itkheda,Independent House,3,4,2172,0,0,Unfurnished,Under Construction,Standard,RCC+Brick,0,0,3.79,5.05,2.87,6.32,2.82,0.58,108.9,4069.98,8840000,7,724.0
+540,CSN-10540,Osmanpura,Apartment,2,3,712,7,17,Fully Furnished,Resale,Basic,RCC,0,1,2.02,2.23,13.78,3.61,2.73,1.63,93.2,5561.8,3960000,5,356.0
+541,CSN-10541,Town Centre,Plot,0,0,1959,0,15,Semi-Furnished,Ready to Move,Premium,RCC+AAC Block,0,1,0.63,3.79,13.37,5.45,4.5,0.1,106.0,3629.4,7110000,0,
+542,CSN-10542,Kranti Chowk,Plot,0,0,1870,0,12,Unfurnished,Under Construction,Premium,RCC+Brick,0,0,2.79,2.7,5.22,6.36,3.92,1.74,103.5,3770.05,7050000,0,
+543,CSN-10543,Satara Parisar,Plot,0,0,2136,0,1,Fully Furnished,Resale,Standard,RCC,0,1,1.84,5.26,11.66,1.06,5.03,2.01,91.7,2841.76,6070000,0,
+544,CSN-10544,Harsool Road,Apartment,1,1,732,2,4,Unfurnished,Ready to Move,None,RCC+Brick,0,0,3.63,4.34,4.45,7.07,3.76,0.2,94.5,3893.44,2850000,2,732.0
+545,CSN-10545,Itkheda,Builder Floor,5,5,768,0,10,Fully Furnished,Resale,Standard,RCC+Brick,0,0,1.88,3.5,5.11,5.77,1.0,1.16,96.0,4205.73,3230000,10,153.6
+546,CSN-10546,Nakshatrawadi,Apartment,3,3,1159,8,5,Unfurnished,Ready to Move,None,RCC+AAC Block,0,0,2.6,4.8,6.53,0.5,1.5,0.54,112.4,3062.99,3550000,6,386.3
+547,CSN-10547,Harsul,Apartment,3,3,677,9,19,Unfurnished,Resale,Basic,RCC,0,0,0.97,3.14,5.06,7.85,7.09,1.49,98.1,3057.61,2070000,6,225.7
+548,CSN-10548,Garkheda,Independent House,5,5,924,0,16,Unfurnished,Resale,None,RCC+AAC Block,1,0,2.28,2.12,6.78,5.99,3.28,2.48,100.7,5616.88,5190000,10,184.8
+549,CSN-10549,Kranti Chowk,Apartment,2,1,940,4,20,Unfurnished,Resale,None,RCC,0,1,3.49,4.07,13.79,1.55,5.06,0.61,103.0,5170.21,4860000,3,470.0
+550,CSN-10550,CIDCO N-9,Apartment,5,5,1161,1,9,Fully Furnished,Resale,Premium,RCC+AAC Block,0,0,0.77,2.54,5.68,6.12,3.68,0.92,119.3,4478.9,5200000,10,232.2
+551,CSN-10551,CIDCO N-1,Independent House,1,1,976,0,8,Fully Furnished,Resale,Basic,RCC,0,1,3.86,0.66,5.78,6.98,0.3,1.5,109.9,4559.43,4450000,2,976.0
+552,CSN-10552,CIDCO N-3,Independent House,1,1,1272,0,3,Semi-Furnished,Ready to Move,Premium,RCC+Brick,1,1,4.26,2.45,9.53,3.62,2.12,0.18,98.1,4261.01,5420000,2,1272.0
+553,CSN-10553,Chikalthana,Row House,2,2,1209,0,14,Unfurnished,Ready to Move,Basic,RCC+Brick,0,0,3.8,3.64,6.22,5.38,1.76,1.45,106.3,3589.74,4340000,4,604.5
+554,CSN-10554,CIDCO N-5,Villa,3,3,3125,0,1,Unfurnished,Under Construction,Standard,RCC,0,0,0.75,0.3,8.29,3.03,3.6,0.1,105.0,4771.2,14910000,6,1041.7
+555,CSN-10555,Jalna Road,Apartment,3,2,1313,6,0,Unfurnished,Ready to Move,Premium,RCC+AAC Block,0,0,2.9,1.57,7.97,4.07,2.84,0.59,94.1,5110.43,6710000,5,437.7
+556,CSN-10556,Paithan Road,Apartment,2,2,674,7,0,Unfurnished,Resale,None,RCC+AAC Block,0,0,2.31,2.75,5.25,6.01,3.71,1.32,104.2,4258.16,2870000,4,337.0
+557,CSN-10557,Chikalthana,Apartment,2,3,1259,2,2,Fully Furnished,Ready to Move,Basic,RCC+Brick,1,0,1.79,4.59,11.27,2.46,2.79,1.32,99.8,4622.72,5820000,5,629.5
+558,CSN-10558,CIDCO N-4,Independent House,3,3,1259,0,7,Fully Furnished,Resale,Basic,RCC+AAC Block,1,0,1.35,1.75,10.2,3.5,2.6,1.73,97.6,4257.35,5360000,6,419.7
+559,CSN-10559,CIDCO N-4,Apartment,2,3,662,7,5,Fully Furnished,Under Construction,None,RCC,1,0,1.04,3.36,5.62,4.26,5.71,0.92,103.4,4425.98,2930000,5,331.0
+560,CSN-10560,Satara Parisar,Apartment,3,3,951,3,17,Unfurnished,Ready to Move,Standard,RCC,1,0,0.63,4.8,8.95,3.79,2.39,1.18,105.6,3827.55,3640000,6,317.0
+561,CSN-10561,Railway Station Area,Independent House,2,2,1144,0,11,Semi-Furnished,Ready to Move,None,RCC,0,1,4.37,0.3,9.91,5.02,4.22,1.63,100.7,4956.29,5670000,4,572.0
+562,CSN-10562,Osmanpura,Apartment,2,2,1182,1,3,Fully Furnished,Ready to Move,Premium,RCC+Brick,1,0,5.76,4.71,6.8,6.51,4.01,0.64,97.9,5600.68,6620000,4,591.0
+563,CSN-10563,Kranti Chowk,Apartment,3,3,1251,11,19,Semi-Furnished,Under Construction,Basic,RCC+AAC Block,1,0,0.2,2.92,5.1,4.91,2.89,1.08,98.7,5299.76,6630000,6,417.0
+564,CSN-10564,Itkheda,Apartment,1,2,630,1,12,Fully Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,0.24,4.98,8.98,4.89,1.45,1.66,101.7,3857.14,2430000,3,630.0
+565,CSN-10565,CIDCO N-8,Apartment,3,3,1005,2,9,Fully Furnished,Ready to Move,Premium,RCC+Brick,0,0,2.07,1.68,9.66,4.84,2.06,1.23,103.0,4676.62,4700000,6,335.0
+566,CSN-10566,Mukundwadi,Apartment,3,3,1298,7,0,Fully Furnished,Resale,Basic,RCC+Brick,0,0,1.57,3.89,1.5,6.91,0.3,0.35,104.6,4938.37,6410000,6,432.7
+567,CSN-10567,CIDCO N-2,Row House,3,3,1138,0,9,Unfurnished,Ready to Move,Standard,RCC+Brick,0,0,3.16,0.3,8.73,2.89,2.39,1.38,95.3,4894.55,5570000,6,379.3
+568,CSN-10568,Itkheda,Apartment,3,3,1302,11,13,Unfurnished,Ready to Move,Standard,RCC+Brick,0,0,2.66,2.46,8.94,2.54,2.34,1.01,96.2,4324.12,5630000,6,434.0
+569,CSN-10569,CIDCO N-5,Apartment,3,2,841,11,1,Fully Furnished,Ready to Move,Premium,RCC,0,0,1.45,4.79,10.72,4.55,2.61,1.31,109.6,4732.46,3980000,5,280.3
+570,CSN-10570,Shahanurwadi,Apartment,2,2,1061,6,15,Semi-Furnished,Ready to Move,Basic,RCC+Brick,0,0,3.19,4.01,9.29,3.33,3.58,1.16,102.0,5108.39,5420000,4,530.5
+571,CSN-10571,Railway Station Area,Apartment,1,1,664,1,9,Unfurnished,Resale,None,RCC,1,0,1.27,4.24,6.9,6.57,1.01,0.12,107.8,4382.53,2910000,2,664.0
+572,CSN-10572,Garkheda,Independent House,5,5,2071,0,4,Fully Furnished,Resale,Premium,RCC+Brick,0,0,1.98,2.71,10.63,6.11,1.76,1.0,103.4,5746.02,11900000,10,414.2
+573,CSN-10573,CIDCO N-8,Apartment,4,4,892,9,18,Semi-Furnished,Resale,Standard,RCC,1,1,1.12,3.97,6.15,2.85,2.41,1.8,102.5,4641.26,4140000,8,223.0
+574,CSN-10574,Railway Station Area,Builder Floor,4,3,1695,3,11,Semi-Furnished,Under Construction,Basic,RCC,1,0,1.23,3.64,7.64,9.99,4.88,1.99,104.8,5020.65,8510000,7,423.8
+575,CSN-10575,Satara Parisar,Apartment,4,4,838,10,15,Unfurnished,Under Construction,None,RCC,0,0,2.0,1.03,6.24,1.04,3.98,0.58,108.3,4415.27,3700000,8,209.5
+576,CSN-10576,Satara Parisar,Plot,0,0,1080,0,10,Unfurnished,Under Construction,Premium,RCC+AAC Block,0,0,2.15,3.18,7.24,6.27,1.57,0.62,109.5,2935.19,3170000,0,
+577,CSN-10577,CIDCO N-1,Apartment,4,4,789,0,0,Fully Furnished,Resale,Basic,RCC,1,0,1.03,0.3,6.23,2.07,5.74,1.19,110.6,5145.75,4060000,8,197.2
+578,CSN-10578,Osmanpura,Apartment,3,2,1165,5,0,Semi-Furnished,Resale,Premium,RCC+Brick,0,1,2.9,3.14,8.8,4.03,2.14,0.98,108.4,5982.83,6970000,5,388.3
+579,CSN-10579,Harsul,Builder Floor,2,2,1496,10,0,Semi-Furnished,Ready to Move,Standard,RCC+AAC Block,0,0,0.2,2.75,13.33,4.72,3.97,2.61,99.8,3562.83,5330000,4,748.0
+580,CSN-10580,CIDCO N-8,Apartment,2,2,986,0,15,Semi-Furnished,Under Construction,Standard,RCC+AAC Block,0,0,2.86,4.6,16.61,3.88,2.38,1.55,97.5,4482.76,4420000,4,493.0
+581,CSN-10581,CIDCO N-7,Apartment,2,3,874,8,4,Unfurnished,Ready to Move,Basic,RCC,0,0,0.87,3.89,7.76,7.21,0.3,1.05,101.4,5205.95,4550000,5,437.0
+582,CSN-10582,CIDCO N-2,Independent House,2,2,1233,0,18,Semi-Furnished,Ready to Move,None,RCC,0,0,0.54,3.8,8.8,7.57,2.91,1.23,107.4,4355.23,5370000,4,616.5
+583,CSN-10583,CIDCO N-3,Independent House,4,4,2403,0,14,Semi-Furnished,Ready to Move,Premium,RCC+Brick,0,0,2.15,3.92,11.01,5.26,4.43,1.64,109.6,4914.69,11810000,8,600.8
+584,CSN-10584,CIDCO N-1,Independent House,5,5,1690,0,12,Fully Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,2.88,3.32,4.35,5.74,2.17,1.33,103.7,5278.11,8920000,10,338.0
+585,CSN-10585,Waluj,Apartment,3,3,751,7,5,Unfurnished,Resale,Basic,RCC,1,0,2.2,3.74,8.49,3.12,2.23,0.53,111.0,3502.0,2630000,6,250.3
+586,CSN-10586,Town Centre,Row House,2,1,1711,0,15,Semi-Furnished,Ready to Move,Standard,RCC+Brick,0,1,3.25,1.07,10.14,8.88,5.43,1.64,106.7,5832.85,9980000,3,855.5
+587,CSN-10587,Paithan Road,Villa,3,3,1411,0,0,Semi-Furnished,Resale,Premium,RCC+Brick,0,0,1.63,2.23,9.31,3.14,4.43,1.59,109.7,3734.94,5270000,6,470.3
+588,CSN-10588,CIDCO N-1,Independent House,2,3,1830,0,17,Unfurnished,Resale,Premium,RCC+Brick,0,0,2.02,2.87,8.57,7.75,1.87,0.18,111.4,4136.61,7570000,5,915.0
+589,CSN-10589,CIDCO N-7,Apartment,1,1,665,8,20,Unfurnished,Ready to Move,Basic,RCC,1,0,3.25,2.91,13.66,3.73,5.11,1.56,102.0,4661.65,3100000,2,665.0
+590,CSN-10590,CIDCO N-9,Builder Floor,2,2,1268,3,16,Unfurnished,Resale,Basic,RCC,0,0,2.91,4.18,3.18,4.78,3.69,1.23,113.3,4061.51,5150000,4,634.0
+591,CSN-10591,Itkheda,Apartment,2,2,705,2,7,Semi-Furnished,Resale,Standard,RCC+AAC Block,1,0,2.3,1.29,8.62,4.68,0.77,2.9,92.1,4127.66,2910000,4,352.5
+592,CSN-10592,CIDCO N-3,Row House,1,1,1391,0,14,Semi-Furnished,Resale,Standard,RCC+AAC Block,0,0,1.32,3.0,9.84,4.37,5.28,1.63,106.3,4047.45,5630000,2,1391.0
+593,CSN-10593,Osmanpura,Apartment,2,2,813,1,10,Semi-Furnished,Ready to Move,Standard,RCC,0,0,3.22,1.29,7.62,0.5,3.62,0.1,117.4,5731.86,4660000,4,406.5
+594,CSN-10594,CIDCO N-7,Apartment,2,1,1246,8,9,Fully Furnished,Ready to Move,Premium,RCC,0,1,1.97,3.38,6.55,9.53,3.24,1.34,104.7,5104.33,6360000,3,623.0
+595,CSN-10595,Jalna Road,Apartment,4,5,905,1,3,Fully Furnished,Under Construction,Basic,RCC+Brick,0,0,2.84,1.26,8.47,1.78,3.58,0.1,111.9,4552.49,4120000,9,226.2
+596,CSN-10596,Garkheda,Row House,2,2,1504,0,14,Semi-Furnished,Under Construction,None,RCC+Brick,0,0,2.82,3.62,10.31,4.97,2.59,0.56,104.1,4581.12,6890000,4,752.0
+597,CSN-10597,CIDCO N-1,Plot,0,0,1009,0,10,Semi-Furnished,Under Construction,Standard,RCC+AAC Block,0,1,1.77,2.51,11.03,3.92,2.71,0.94,95.5,3647.18,3680000,0,
+598,CSN-10598,Mukundwadi,Independent House,3,2,1187,0,11,Fully Furnished,Resale,Premium,RCC+AAC Block,0,0,3.65,2.74,5.43,4.96,3.52,1.01,101.0,4380.79,5200000,5,395.7
+599,CSN-10599,CIDCO N-5,Apartment,2,3,970,1,13,Semi-Furnished,Resale,Standard,RCC,0,1,2.77,3.89,8.85,0.5,4.92,1.45,94.3,4185.57,4060000,5,485.0
+600,CSN-10600,CIDCO N-9,Builder Floor,2,2,1010,5,7,Unfurnished,Under Construction,None,RCC,0,0,4.46,3.33,6.58,4.47,3.71,0.26,104.7,4782.18,4830000,4,505.0
+601,CSN-10601,CIDCO N-3,Apartment,1,1,647,8,19,Semi-Furnished,Resale,None,RCC+AAC Block,1,0,2.15,5.14,6.85,1.82,3.38,1.85,103.3,4234.93,2740000,2,647.0
+602,CSN-10602,CIDCO N-1,Apartment,3,2,829,9,19,Unfurnished,Ready to Move,Basic,RCC,0,0,2.68,1.63,3.56,5.63,2.24,2.3,111.7,5259.35,4360000,5,276.3
+603,CSN-10603,Paithan Road,Apartment,3,3,943,6,7,Unfurnished,Resale,None,RCC,0,0,2.91,2.64,9.89,5.56,3.27,1.17,109.6,3838.81,3620000,6,314.3
+604,CSN-10604,CIDCO N-7,Independent House,2,2,1906,0,13,Semi-Furnished,Ready to Move,None,RCC+AAC Block,0,0,1.78,4.64,7.15,4.6,4.56,1.68,108.8,4024.13,7670000,4,953.0
+605,CSN-10605,CIDCO N-6,Apartment,4,4,1139,1,8,Unfurnished,Under Construction,Basic,RCC,0,0,2.1,2.66,10.07,4.38,2.49,1.82,109.7,5004.39,5700000,8,284.8
+606,CSN-10606,Nakshatrawadi,Apartment,1,1,594,6,0,Fully Furnished,Resale,Standard,RCC+AAC Block,1,0,3.54,1.64,8.5,7.29,4.37,1.68,103.7,3653.2,2170000,2,594.0
+607,CSN-10607,Satara Parisar,Apartment,2,3,676,6,9,Unfurnished,Ready to Move,Premium,RCC+Brick,0,1,3.44,2.74,9.03,7.16,0.79,1.03,110.7,4053.25,2740000,5,338.0
+608,CSN-10608,Harsool Road,Apartment,1,1,613,11,13,Fully Furnished,Resale,Standard,RCC+AAC Block,1,0,1.42,3.27,11.21,2.2,2.7,1.05,107.7,3507.34,2150000,2,613.0
+609,CSN-10609,CIDCO N-1,Apartment,2,1,783,5,2,Unfurnished,Resale,None,RCC+Brick,0,1,2.81,5.92,6.26,1.11,1.42,0.78,99.3,5006.39,3920000,3,391.5
+610,CSN-10610,Shahanurwadi,Independent House,2,3,2041,0,14,Unfurnished,Resale,Basic,RCC+AAC Block,0,0,2.77,2.86,7.93,2.17,2.98,1.8,101.1,4272.42,8720000,5,1020.5
+611,CSN-10611,CIDCO N-2,Apartment,3,2,1338,9,20,Semi-Furnished,Ready to Move,None,RCC+Brick,0,1,1.21,3.96,6.23,2.63,3.23,2.61,102.2,4656.2,6230000,5,446.0
+612,CSN-10612,Waluj,Independent House,4,3,1516,0,7,Fully Furnished,Ready to Move,Basic,RCC,0,1,0.49,2.69,13.88,5.32,2.15,0.15,118.9,3522.43,5340000,7,379.0
+613,CSN-10613,Nakshatrawadi,Independent House,3,2,1559,0,12,Unfurnished,Resale,Premium,RCC,1,0,1.81,7.26,6.81,2.83,1.46,1.07,92.6,3598.46,5610000,5,519.7
+614,CSN-10614,Osmanpura,Villa,2,2,1952,0,17,Fully Furnished,Resale,Basic,RCC+AAC Block,0,0,1.4,1.78,6.36,6.98,2.27,2.55,100.2,5025.61,9810000,4,976.0
+615,CSN-10615,Paithan Road,Apartment,2,2,1058,9,18,Fully Furnished,Under Construction,Basic,RCC,0,0,3.56,4.93,10.09,4.8,4.19,0.51,94.5,3761.81,3980000,4,529.0
+616,CSN-10616,Beed Bypass,Row House,1,2,1565,0,18,Fully Furnished,Under Construction,Standard,RCC+AAC Block,0,0,1.54,2.72,16.35,5.44,3.68,0.78,113.3,4051.12,6340000,3,1565.0
+617,CSN-10617,Shahanurwadi,Apartment,4,5,1348,6,16,Unfurnished,Ready to Move,None,RCC+AAC Block,0,1,2.14,0.56,10.98,2.69,2.29,1.07,104.9,4554.9,6140000,9,337.0
+618,CSN-10618,Mukundwadi,Apartment,1,1,1053,4,0,Unfurnished,Resale,Standard,RCC,0,0,0.6,2.3,8.19,7.57,3.5,0.49,104.1,4396.96,4630000,2,1053.0
+619,CSN-10619,CIDCO N-1,Villa,2,1,2348,0,20,Fully Furnished,Ready to Move,Standard,RCC+AAC Block,0,0,1.36,3.74,11.11,3.59,2.92,0.66,98.7,4927.6,11570000,3,1174.0
+620,CSN-10620,Town Centre,Apartment,4,4,960,9,6,Unfurnished,Ready to Move,Standard,RCC+AAC Block,0,1,0.4,2.77,9.59,5.73,2.28,1.21,91.1,5864.58,5630000,8,240.0
+621,CSN-10621,CIDCO N-3,Apartment,3,4,965,3,14,Fully Furnished,Resale,None,RCC+AAC Block,0,1,0.4,3.37,12.65,5.19,4.22,1.81,102.8,4373.06,4220000,7,321.7
+622,CSN-10622,Harsul,Apartment,3,3,1167,1,2,Unfurnished,Under Construction,None,RCC+AAC Block,0,1,0.2,3.04,8.26,1.71,4.01,0.77,103.7,4155.96,4850000,6,389.0
+623,CSN-10623,CIDCO N-6,Apartment,2,3,860,7,16,Unfurnished,Under Construction,Basic,RCC+AAC Block,0,0,2.14,1.0,9.79,4.35,3.8,1.47,98.4,4558.14,3920000,5,430.0
+624,CSN-10624,Garkheda,Row House,4,5,1536,0,6,Fully Furnished,Ready to Move,Standard,RCC+AAC Block,0,0,1.94,4.46,7.47,2.92,2.12,0.95,114.3,5345.05,8210000,9,384.0
+625,CSN-10625,CIDCO N-2,Apartment,2,3,736,2,14,Semi-Furnished,Ready to Move,Basic,RCC,0,1,2.84,2.46,5.1,3.06,2.64,1.6,110.8,4225.54,3110000,5,368.0
+626,CSN-10626,Chikalthana,Apartment,4,5,794,1,0,Fully Furnished,Resale,Standard,RCC,0,1,1.91,4.58,5.49,2.98,4.88,1.25,108.5,4382.87,3480000,9,198.5
+627,CSN-10627,Shahnoorwadi,Apartment,4,4,1131,6,11,Semi-Furnished,Resale,Basic,RCC+Brick,0,0,2.01,4.16,10.12,4.39,4.26,1.28,99.6,4862.95,5500000,8,282.8
+628,CSN-10628,Mukundwadi,Independent House,3,3,1120,0,20,Unfurnished,Under Construction,None,RCC,1,0,1.43,1.63,7.04,9.25,3.22,0.72,93.6,3732.14,4180000,6,373.3
+629,CSN-10629,Shahnoorwadi,Builder Floor,3,3,1448,5,17,Semi-Furnished,Under Construction,None,RCC+Brick,0,0,0.2,1.88,5.94,5.35,1.17,2.21,99.3,4799.72,6950000,6,482.7
+630,CSN-10630,Waluj,Independent House,3,3,2531,0,14,Fully Furnished,Resale,Basic,RCC+AAC Block,0,0,1.13,4.28,4.43,1.24,2.16,2.37,111.4,3299.09,8350000,6,843.7
+631,CSN-10631,Harsool Road,Apartment,5,5,837,10,18,Unfurnished,Ready to Move,Basic,RCC,1,0,2.79,2.29,9.88,5.91,3.1,1.68,90.6,3632.02,3040000,10,167.4
+632,CSN-10632,CIDCO N-7,Independent House,2,3,1936,0,7,Semi-Furnished,Ready to Move,Premium,RCC+Brick,0,0,1.61,3.19,10.69,7.86,2.8,0.21,96.9,4824.38,9340000,5,968.0
+633,CSN-10633,CIDCO N-4,Apartment,2,3,743,9,14,Semi-Furnished,Resale,Standard,RCC+AAC Block,1,0,2.33,3.87,12.08,7.51,3.0,1.81,96.2,4078.06,3030000,5,371.5
+634,CSN-10634,Chikalthana,Independent House,4,4,1801,0,14,Fully Furnished,Ready to Move,Premium,RCC+AAC Block,0,0,1.33,4.07,7.89,3.26,4.08,1.77,101.0,3914.49,7050000,8,450.2
+635,CSN-10635,Shahnoorwadi,Apartment,3,3,1117,9,20,Semi-Furnished,Under Construction,Premium,RCC,0,0,1.64,4.46,9.9,11.25,3.47,1.62,103.9,4726.95,5280000,6,372.3
+636,CSN-10636,CIDCO N-1,Apartment,1,2,1025,5,3,Fully Furnished,Under Construction,Basic,RCC+Brick,0,0,1.6,4.35,9.33,5.73,2.82,0.73,99.6,5307.32,5440000,3,1025.0
+637,CSN-10637,Beed Bypass,Independent House,2,3,1970,0,19,Unfurnished,Ready to Move,None,RCC,0,0,2.85,2.3,7.53,4.58,6.17,0.1,113.0,3913.71,7710000,5,985.0
+638,CSN-10638,Harsul,Apartment,4,4,1296,5,15,Semi-Furnished,Under Construction,Standard,RCC+AAC Block,1,0,2.74,3.7,6.05,1.23,0.3,1.24,105.9,3425.93,4440000,8,324.0
+639,CSN-10639,Beed Bypass,Apartment,3,2,902,1,15,Fully Furnished,Resale,None,RCC,0,0,2.31,1.6,11.86,4.02,5.59,0.1,110.4,4467.85,4030000,5,300.7
+640,CSN-10640,CIDCO N-1,Independent House,3,4,2494,0,19,Unfurnished,Under Construction,Standard,RCC,0,0,1.1,4.44,10.69,2.5,1.06,0.63,110.7,4815.56,12010000,7,831.3
+641,CSN-10641,CIDCO N-9,Plot,0,0,2134,0,12,Fully Furnished,Resale,Premium,RCC,0,0,1.57,4.41,6.35,6.95,0.3,0.86,104.5,3716.03,7930000,0,
+642,CSN-10642,Nakshatrawadi,Row House,3,3,1146,0,6,Semi-Furnished,Ready to Move,Standard,RCC+AAC Block,1,1,2.77,2.78,8.84,6.39,4.16,0.87,116.4,3830.72,4390000,6,382.0
+643,CSN-10643,CIDCO N-4,Row House,2,1,1662,0,16,Unfurnished,Resale,Standard,RCC+AAC Block,0,0,2.83,2.05,6.12,5.72,2.77,1.47,106.9,4735.26,7870000,3,831.0
+644,CSN-10644,CIDCO N-4,Row House,3,3,1570,0,11,Fully Furnished,Under Construction,Basic,RCC+AAC Block,1,0,1.92,0.57,12.52,4.23,3.76,1.61,93.2,4484.08,7040000,6,523.3
+645,CSN-10645,CIDCO N-5,Plot,0,0,867,0,4,Fully Furnished,Resale,None,RCC+Brick,0,0,4.0,4.35,8.04,2.14,4.58,1.49,92.4,3483.28,3020000,0,
+646,CSN-10646,CIDCO N-1,Builder Floor,3,4,904,8,4,Fully Furnished,Ready to Move,None,RCC,0,0,1.27,3.23,9.36,8.32,3.48,0.82,106.3,4579.65,4140000,7,301.3
+647,CSN-10647,Paithan Road,Builder Floor,3,3,1499,7,8,Fully Furnished,Under Construction,None,RCC+AAC Block,0,0,2.53,3.34,4.64,7.29,0.3,0.85,105.9,3709.14,5560000,6,499.7
+648,CSN-10648,Satara Parisar,Villa,4,5,1727,0,6,Semi-Furnished,Ready to Move,Standard,RCC,0,0,2.31,3.61,11.39,4.82,2.44,2.39,98.1,4516.5,7800000,9,431.8
+649,CSN-10649,Town Centre,Plot,0,0,2846,0,20,Fully Furnished,Resale,None,RCC+AAC Block,0,0,1.53,4.01,13.05,4.93,4.49,1.52,103.2,4142.66,11790000,0,
+650,CSN-10650,Garkheda,Apartment,2,2,1252,11,18,Fully Furnished,Resale,Premium,RCC+Brick,0,0,2.8,2.91,9.04,3.74,4.52,1.41,107.1,4888.18,6120000,4,626.0
+651,CSN-10651,Deolai,Apartment,3,2,1017,6,19,Semi-Furnished,Under Construction,Premium,RCC+AAC Block,0,0,1.72,3.27,8.13,2.3,1.31,0.1,87.7,3834.81,3900000,5,339.0
+652,CSN-10652,Shahnoorwadi,Independent House,2,3,2339,0,2,Semi-Furnished,Under Construction,Standard,RCC+AAC Block,1,0,2.48,3.93,7.49,5.09,1.36,0.39,97.5,5181.7,12120000,5,1169.5
+653,CSN-10653,Garkheda,Independent House,3,3,2229,0,6,Fully Furnished,Resale,Standard,RCC,1,0,1.15,3.11,10.16,5.28,3.54,0.4,111.9,5047.11,11250000,6,743.0
+654,CSN-10654,Railway Station Area,Villa,4,4,2887,0,4,Unfurnished,Under Construction,Premium,RCC,1,0,3.23,2.31,4.49,6.18,2.69,0.48,111.1,5663.32,16350000,8,721.8
+655,CSN-10655,CIDCO N-10,Row House,3,3,1660,0,18,Unfurnished,Ready to Move,None,RCC,1,0,0.31,3.1,8.69,9.47,1.15,0.97,98.6,4084.34,6780000,6,553.3
+656,CSN-10656,CIDCO N-2,Villa,2,2,2146,0,11,Unfurnished,Under Construction,Basic,RCC+Brick,0,0,1.37,3.22,9.22,3.66,2.78,2.5,112.4,4356.94,9350000,4,1073.0
+657,CSN-10657,Railway Station Area,Villa,2,1,2622,0,15,Semi-Furnished,Under Construction,Standard,RCC+Brick,0,0,2.77,2.18,11.68,2.96,5.01,0.85,102.4,4542.33,11910000,3,1311.0
+658,CSN-10658,Railway Station Area,Apartment,3,3,958,0,6,Unfurnished,Resale,None,RCC+Brick,0,0,1.7,2.67,12.96,3.03,1.92,0.52,97.0,5240.08,5020000,6,319.3
+659,CSN-10659,CIDCO N-3,Villa,1,1,2094,0,15,Semi-Furnished,Ready to Move,Premium,RCC+Brick,0,0,2.92,1.41,9.55,5.49,3.21,0.79,114.4,4780.32,10010000,2,2094.0
+660,CSN-10660,CIDCO N-10,Apartment,3,3,1394,3,5,Unfurnished,Ready to Move,Basic,RCC+Brick,0,0,0.2,2.5,6.96,8.79,3.65,0.49,104.2,4921.09,6860000,6,464.7
+661,CSN-10661,Deolai,Independent House,2,1,2127,0,1,Unfurnished,Resale,Standard,RCC,0,0,1.78,2.86,8.92,10.32,3.01,1.86,96.5,3963.33,8430000,3,1063.5
+662,CSN-10662,CIDCO N-6,Apartment,4,5,1364,9,11,Fully Furnished,Under Construction,Basic,RCC+Brick,0,0,2.28,2.77,2.48,4.1,3.56,2.25,102.7,4985.34,6800000,9,341.0
+663,CSN-10663,CIDCO N-7,Row House,2,1,1816,0,17,Semi-Furnished,Resale,Standard,RCC,0,0,4.15,3.88,9.52,4.01,3.06,1.3,106.3,4873.35,8850000,3,908.0
+664,CSN-10664,Jalna Road,Apartment,2,1,939,2,3,Fully Furnished,Resale,None,RCC,1,0,4.7,2.67,9.54,1.6,4.5,1.22,103.4,4249.2,3990000,3,469.5
+665,CSN-10665,Satara Parisar,Apartment,2,3,1221,4,1,Semi-Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,2.31,3.1,1.5,4.55,0.95,2.18,110.2,4365.27,5330000,5,610.5
+666,CSN-10666,Deolai,Apartment,5,5,1333,11,1,Fully Furnished,Resale,Premium,RCC,0,0,3.34,4.68,8.66,0.5,3.04,1.57,101.2,4261.07,5680000,10,266.6
+667,CSN-10667,Beed Bypass,Apartment,3,4,1112,1,9,Unfurnished,Resale,Premium,RCC+Brick,0,0,0.52,3.65,10.12,6.27,5.46,2.42,96.3,4451.44,4950000,7,370.7
+668,CSN-10668,Chikalthana,Apartment,3,2,1166,2,14,Unfurnished,Ready to Move,Basic,RCC+AAC Block,0,0,2.54,3.59,11.44,2.94,2.13,2.13,98.2,4013.72,4680000,5,388.7
+669,CSN-10669,CIDCO N-10,Villa,1,2,2651,0,18,Fully Furnished,Under Construction,Standard,RCC+AAC Block,1,1,1.7,4.99,6.89,8.39,5.22,0.65,110.8,4251.23,11270000,3,2651.0
+670,CSN-10670,Harsool Road,Row House,3,4,1621,0,9,Fully Furnished,Ready to Move,Standard,RCC+AAC Block,0,0,3.25,3.33,6.87,4.64,2.99,1.33,111.1,3800.12,6160000,7,540.3
+671,CSN-10671,Chikalthana,Apartment,2,2,633,2,0,Unfurnished,Under Construction,Premium,RCC+AAC Block,0,1,2.67,1.49,8.31,12.27,3.46,0.68,109.4,3965.24,2510000,4,316.5
+672,CSN-10672,Railway Station Area,Apartment,2,1,734,6,2,Unfurnished,Resale,Standard,RCC,0,0,4.86,3.26,9.53,7.61,3.7,1.65,98.8,4741.14,3480000,3,367.0
+673,CSN-10673,Nakshatrawadi,Plot,0,0,2638,0,8,Fully Furnished,Resale,Premium,RCC+Brick,1,0,1.79,2.91,3.78,3.71,3.35,1.33,111.4,2979.53,7860000,0,
+674,CSN-10674,Waluj,Builder Floor,2,2,1308,9,3,Unfurnished,Ready to Move,None,RCC+Brick,0,0,3.07,4.77,11.14,4.92,1.75,0.69,101.8,3524.46,4610000,4,654.0
+675,CSN-10675,Waluj,Apartment,3,4,818,4,6,Fully Furnished,Resale,Standard,RCC+AAC Block,1,0,2.63,1.81,7.77,6.12,1.86,0.21,98.2,3447.43,2820000,7,272.7
+676,CSN-10676,Beed Bypass,Plot,0,0,1190,0,20,Semi-Furnished,Ready to Move,None,RCC,1,0,2.03,3.6,13.59,3.73,1.86,0.37,108.9,2848.74,3390000,0,
+677,CSN-10677,CIDCO N-3,Plot,0,0,2815,0,16,Semi-Furnished,Resale,Basic,RCC+AAC Block,0,0,2.34,1.32,7.22,10.31,4.4,1.12,126.8,3207.82,9030000,0,
+678,CSN-10678,Deolai,Apartment,1,1,1024,8,10,Semi-Furnished,Ready to Move,Standard,RCC,0,0,2.56,4.15,4.05,3.2,3.08,1.58,112.1,3691.41,3780000,2,1024.0
+679,CSN-10679,Shahnoorwadi,Apartment,3,3,1277,6,9,Unfurnished,Under Construction,Standard,RCC+Brick,0,0,2.67,0.3,6.69,2.24,4.8,0.94,101.4,4956.93,6330000,6,425.7
+680,CSN-10680,Itkheda,Independent House,2,2,2385,0,16,Fully Furnished,Resale,Premium,RCC+AAC Block,1,0,2.27,3.43,4.22,6.82,4.15,1.78,103.2,4197.06,10010000,4,1192.5
+681,CSN-10681,Paithan Road,Row House,2,2,1827,0,14,Fully Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,1.84,4.71,4.64,0.5,6.25,1.39,106.2,3656.27,6680000,4,913.5
+682,CSN-10682,Waluj,Villa,2,2,3178,0,16,Semi-Furnished,Ready to Move,Premium,RCC+AAC Block,0,0,1.1,0.45,8.93,4.28,0.94,1.24,101.7,3222.15,10240000,4,1589.0
+683,CSN-10683,Jalna Road,Apartment,5,4,1372,4,9,Semi-Furnished,Resale,Premium,RCC+Brick,0,0,2.56,3.55,3.16,4.24,2.66,1.93,96.8,5102.04,7000000,9,274.4
+684,CSN-10684,Satara Parisar,Apartment,3,2,710,3,2,Semi-Furnished,Resale,Standard,RCC+AAC Block,0,0,1.74,3.94,11.19,3.37,2.15,1.13,114.5,4633.8,3290000,5,236.7
+685,CSN-10685,Jalna Road,Row House,2,2,886,0,18,Fully Furnished,Under Construction,None,RCC+Brick,0,0,0.97,4.44,10.13,8.43,0.56,2.34,87.3,4243.79,3760000,4,443.0
+686,CSN-10686,Itkheda,Apartment,3,3,1002,5,3,Unfurnished,Under Construction,Standard,RCC+Brick,0,1,2.64,0.3,4.77,6.12,2.45,0.86,98.0,4620.76,4630000,6,334.0
+687,CSN-10687,Harsool Road,Apartment,4,4,1013,11,3,Fully Furnished,Ready to Move,Premium,RCC+Brick,0,0,4.81,0.48,4.77,5.52,5.65,1.32,108.3,3859.82,3910000,8,253.2
+688,CSN-10688,Paithan Road,Independent House,2,2,1051,0,18,Fully Furnished,Ready to Move,None,RCC+AAC Block,1,0,1.12,4.68,7.87,5.67,1.68,1.18,94.5,3691.72,3880000,4,525.5
+689,CSN-10689,Paithan Road,Apartment,2,1,1188,7,6,Fully Furnished,Under Construction,Standard,RCC+Brick,0,0,3.39,1.38,10.46,6.7,2.23,0.47,93.9,3720.54,4420000,3,594.0
+690,CSN-10690,Itkheda,Apartment,3,4,1236,1,10,Fully Furnished,Under Construction,Standard,RCC+Brick,0,1,1.48,1.69,4.56,7.6,2.46,0.1,105.1,4457.93,5510000,7,412.0
+691,CSN-10691,Garkheda,Apartment,3,3,1400,2,11,Unfurnished,Resale,Basic,RCC,0,0,1.31,4.37,7.21,5.34,0.92,0.84,99.7,5207.14,7290000,6,466.7
+692,CSN-10692,Deolai,Builder Floor,2,2,1241,5,14,Semi-Furnished,Resale,Basic,RCC+AAC Block,1,1,1.84,3.65,8.27,1.02,1.41,1.83,101.4,3456.89,4290000,4,620.5
+693,CSN-10693,Beed Bypass,Independent House,4,4,2537,0,4,Fully Furnished,Resale,Premium,RCC+Brick,1,1,3.94,3.78,5.96,8.67,0.97,1.36,106.6,4229.4,10730000,8,634.2
+694,CSN-10694,Harsool Road,Independent House,2,2,1562,0,20,Unfurnished,Under Construction,Basic,RCC+AAC Block,1,0,2.76,2.82,10.86,6.91,3.71,0.1,102.6,3796.41,5930000,4,781.0
+695,CSN-10695,Harsul,Independent House,3,2,1801,0,20,Unfurnished,Ready to Move,Basic,RCC+AAC Block,0,1,1.33,1.6,12.14,4.42,2.06,2.05,103.8,3342.59,6020000,5,600.3
+696,CSN-10696,Chikalthana,Independent House,4,5,1100,0,0,Fully Furnished,Resale,Basic,RCC,0,1,0.2,1.46,5.74,3.89,5.54,1.04,103.6,4436.36,4880000,9,275.0
+697,CSN-10697,CIDCO N-5,Independent House,1,2,2132,0,13,Semi-Furnished,Ready to Move,Premium,RCC,1,0,1.33,3.62,4.37,2.34,3.52,1.8,104.5,4427.77,9440000,3,2132.0
+698,CSN-10698,Beed Bypass,Independent House,1,1,1903,0,12,Semi-Furnished,Ready to Move,Premium,RCC+AAC Block,0,0,2.28,3.68,8.21,3.03,3.57,1.18,117.0,4135.58,7870000,2,1903.0
+699,CSN-10699,CIDCO N-2,Independent House,3,2,1495,0,0,Fully Furnished,Resale,Basic,RCC+Brick,0,0,1.23,3.81,9.75,8.08,2.98,0.95,110.8,4729.1,7070000,5,498.3
+700,CSN-10700,Waluj,Independent House,2,2,1392,0,17,Fully Furnished,Resale,Premium,RCC,0,0,2.84,1.75,14.15,5.23,1.36,0.7,116.9,3570.4,4970000,4,696.0
+701,CSN-10701,Harsool Road,Row House,2,3,1807,0,0,Fully Furnished,Ready to Move,Standard,RCC,0,0,3.01,5.04,7.88,4.25,3.71,0.81,96.7,4073.05,7360000,5,903.5
+702,CSN-10702,Kranti Chowk,Apartment,2,3,995,10,12,Semi-Furnished,Under Construction,Premium,RCC+AAC Block,0,0,2.83,3.26,8.83,5.51,4.14,1.17,107.3,4874.37,4850000,5,497.5
+703,CSN-10703,Osmanpura,Apartment,2,2,666,4,4,Fully Furnished,Under Construction,Standard,RCC+Brick,0,1,0.39,5.45,10.88,6.53,0.4,0.72,116.1,6756.76,4500000,4,333.0
+704,CSN-10704,Harsul,Apartment,1,1,674,7,4,Fully Furnished,Resale,Basic,RCC+Brick,1,0,2.14,3.14,8.45,2.3,1.99,0.83,96.0,3486.65,2350000,2,674.0
+705,CSN-10705,Kranti Chowk,Plot,0,0,2013,0,4,Fully Furnished,Under Construction,None,RCC+AAC Block,0,0,2.32,4.53,9.39,3.96,3.1,1.25,103.1,3854.94,7760000,0,
+706,CSN-10706,Shahnoorwadi,Apartment,3,4,840,10,12,Semi-Furnished,Under Construction,Standard,RCC+AAC Block,0,0,0.61,3.25,11.99,7.02,2.81,0.1,114.5,4892.86,4110000,7,280.0
+707,CSN-10707,Harsool Road,Independent House,3,4,2517,0,15,Semi-Furnished,Under Construction,Premium,RCC+AAC Block,0,1,0.64,2.5,4.76,6.25,2.38,0.82,100.6,3750.5,9440000,7,839.0
+708,CSN-10708,Kranti Chowk,Apartment,3,3,1439,6,4,Fully Furnished,Resale,Premium,RCC+Brick,0,1,4.47,1.11,7.24,5.24,2.55,1.84,98.6,5420.43,7800000,6,479.7
+709,CSN-10709,CIDCO N-8,Row House,3,2,1737,0,2,Fully Furnished,Resale,Basic,RCC+AAC Block,0,1,1.27,4.31,9.12,4.89,1.09,1.24,90.6,4743.81,8240000,5,579.0
+710,CSN-10710,Mukundwadi,Apartment,4,3,754,0,6,Unfurnished,Under Construction,None,RCC+Brick,0,0,1.32,3.94,8.49,5.53,2.63,0.84,117.1,4098.14,3090000,7,188.5
+711,CSN-10711,CIDCO N-10,Plot,0,0,3364,0,19,Semi-Furnished,Under Construction,Premium,RCC+Brick,0,0,2.11,0.96,15.48,5.17,3.75,0.88,101.1,3617.72,12170000,0,
+712,CSN-10712,CIDCO N-9,Apartment,2,2,1254,2,11,Unfurnished,Resale,None,RCC+AAC Block,0,0,2.1,1.1,13.04,3.57,2.64,0.84,105.2,4681.02,5870000,4,627.0
+713,CSN-10713,Harsool Road,Apartment,2,2,804,0,16,Unfurnished,Ready to Move,Basic,RCC,1,0,0.2,3.41,3.87,1.1,3.29,0.53,107.3,3594.53,2890000,4,402.0
+714,CSN-10714,CIDCO N-9,Independent House,3,2,1804,0,7,Fully Furnished,Under Construction,Standard,RCC+Brick,0,0,1.32,2.24,5.53,3.42,0.9,1.12,108.8,4334.81,7820000,5,601.3
+715,CSN-10715,CIDCO N-5,Builder Floor,3,4,862,9,7,Semi-Furnished,Resale,Premium,RCC,0,0,2.26,4.78,12.5,1.05,3.97,1.34,100.1,4640.37,4000000,7,287.3
+716,CSN-10716,CIDCO N-3,Apartment,2,2,1155,0,0,Fully Furnished,Resale,Premium,RCC,0,0,3.05,4.79,8.42,4.27,3.65,1.19,96.5,4571.43,5280000,4,577.5
+717,CSN-10717,Paithan Road,Apartment,3,2,761,9,10,Unfurnished,Resale,Basic,RCC+AAC Block,0,0,2.56,6.96,9.08,4.84,1.52,2.12,91.3,3968.46,3020000,5,253.7
+718,CSN-10718,Shahnoorwadi,Row House,3,3,885,0,2,Unfurnished,Resale,Standard,RCC,0,0,2.57,4.18,9.92,0.5,4.04,1.14,102.0,5073.45,4490000,6,295.0
+719,CSN-10719,Chikalthana,Apartment,4,3,1361,11,9,Unfurnished,Resale,None,RCC+Brick,0,1,3.24,2.4,5.17,1.53,3.41,0.76,114.6,3975.02,5410000,7,340.2
+720,CSN-10720,CIDCO N-1,Independent House,2,2,2304,0,12,Fully Furnished,Under Construction,Premium,RCC,0,0,2.63,3.22,11.18,6.45,2.7,1.82,98.9,4874.13,11230000,4,1152.0
+721,CSN-10721,Kanchanwadi,Apartment,4,3,746,6,15,Fully Furnished,Under Construction,Basic,RCC,0,1,1.85,3.06,7.91,1.06,4.73,2.49,106.5,4302.95,3210000,7,186.5
+722,CSN-10722,Satara Parisar,Apartment,3,3,812,11,19,Semi-Furnished,Resale,Basic,RCC,0,0,1.91,2.3,8.71,7.65,1.79,1.85,101.4,4532.02,3680000,6,270.7
+723,CSN-10723,CIDCO N-1,Apartment,3,2,892,6,2,Semi-Furnished,Under Construction,Standard,RCC+Brick,0,0,0.2,2.51,9.23,5.23,2.38,1.15,98.8,5123.32,4570000,5,297.3
+724,CSN-10724,Town Centre,Apartment,2,1,934,4,6,Fully Furnished,Resale,Standard,RCC+Brick,0,0,1.74,1.64,10.56,3.35,2.15,0.88,98.7,4892.93,4570000,3,467.0
+725,CSN-10725,Deolai,Independent House,1,1,1760,0,4,Fully Furnished,Resale,Basic,RCC+AAC Block,0,1,2.27,2.98,13.13,5.01,2.03,1.55,96.5,3988.64,7020000,2,1760.0
+726,CSN-10726,CIDCO N-4,Row House,2,2,1653,0,2,Fully Furnished,Resale,Premium,RCC+AAC Block,0,1,0.68,4.83,7.45,3.1,3.5,1.59,106.5,4718.69,7800000,4,826.5
+727,CSN-10727,CIDCO N-1,Independent House,1,1,2239,0,6,Unfurnished,Ready to Move,None,RCC,1,0,3.03,0.5,3.16,7.2,5.28,0.44,108.5,4649.4,10410000,2,2239.0
+728,CSN-10728,Town Centre,Apartment,3,3,884,5,8,Unfurnished,Ready to Move,Basic,RCC+Brick,1,1,1.74,3.4,8.11,7.01,1.6,0.36,106.0,5486.43,4850000,6,294.7
+729,CSN-10729,Itkheda,Independent House,3,2,1476,0,11,Semi-Furnished,Under Construction,Basic,RCC+AAC Block,0,0,2.52,2.7,1.5,2.27,2.81,1.42,90.4,4275.07,6310000,5,492.0
+730,CSN-10730,Itkheda,Independent House,3,3,1979,0,7,Semi-Furnished,Under Construction,Basic,RCC+Brick,0,0,5.31,1.29,6.92,7.16,4.13,1.49,107.3,3794.85,7510000,6,659.7
+731,CSN-10731,Harsul,Apartment,3,3,975,1,16,Fully Furnished,Resale,None,RCC+Brick,0,1,1.04,2.92,7.96,6.19,4.48,1.29,94.6,3620.51,3530000,6,325.0
+732,CSN-10732,Chikalthana,Builder Floor,3,4,756,5,11,Semi-Furnished,Under Construction,Basic,RCC+AAC Block,0,1,1.91,3.77,5.05,7.85,2.92,0.64,114.7,3650.79,2760000,7,252.0
+733,CSN-10733,CIDCO N-10,Apartment,3,4,1435,2,0,Fully Furnished,Ready to Move,Basic,RCC,0,0,3.75,3.26,5.83,8.9,2.45,0.81,103.1,4306.62,6180000,7,478.3
+734,CSN-10734,CIDCO N-6,Builder Floor,3,2,731,3,11,Semi-Furnished,Resale,Standard,RCC+Brick,0,1,1.69,3.54,12.67,3.13,3.13,1.77,95.7,4610.12,3370000,5,243.7
+735,CSN-10735,CIDCO N-6,Apartment,2,2,664,2,0,Semi-Furnished,Under Construction,Premium,RCC,0,0,2.6,4.79,4.97,6.08,2.28,1.37,97.7,4231.93,2810000,4,332.0
+736,CSN-10736,Kanchanwadi,Independent House,4,5,2061,0,19,Semi-Furnished,Ready to Move,None,RCC+AAC Block,0,0,4.12,3.2,8.63,5.25,2.67,0.94,106.8,3886.46,8010000,9,515.2
+737,CSN-10737,CIDCO N-8,Builder Floor,5,5,1279,0,9,Fully Furnished,Resale,Premium,RCC,0,0,3.05,1.04,11.64,4.86,0.3,1.31,100.6,4808.44,6150000,10,255.8
+738,CSN-10738,Shahanurwadi,Villa,2,2,2012,0,14,Unfurnished,Ready to Move,Premium,RCC+Brick,1,0,3.05,1.18,8.9,3.6,2.21,0.54,103.0,4468.19,8990000,4,1006.0
+739,CSN-10739,CIDCO N-3,Apartment,2,2,1139,0,18,Fully Furnished,Ready to Move,Standard,RCC+Brick,0,0,2.49,2.24,4.85,8.18,4.38,0.1,99.2,4556.63,5190000,4,569.5
+740,CSN-10740,CIDCO N-7,Plot,0,0,2576,0,10,Fully Furnished,Resale,None,RCC+Brick,0,0,2.66,1.85,10.91,10.38,2.67,1.53,99.3,3792.7,9770000,0,
+741,CSN-10741,CIDCO N-1,Independent House,3,2,1102,0,19,Semi-Furnished,Ready to Move,Standard,RCC+AAC Block,0,1,2.01,1.83,5.7,0.62,2.06,0.61,107.8,4546.28,5010000,5,367.3
+742,CSN-10742,CIDCO N-8,Apartment,2,1,1059,3,10,Semi-Furnished,Resale,Standard,RCC,0,0,2.06,0.3,8.08,4.04,1.6,0.75,103.4,4834.75,5120000,3,529.5
+743,CSN-10743,CIDCO N-3,Apartment,3,4,1219,1,15,Unfurnished,Under Construction,None,RCC,0,0,3.7,3.0,5.93,4.45,4.85,0.94,111.9,4364.23,5320000,7,406.3
+744,CSN-10744,Mukundwadi,Apartment,3,2,1090,10,9,Fully Furnished,Ready to Move,Basic,RCC,0,0,4.28,2.48,10.1,5.06,3.04,1.1,98.5,4366.97,4760000,5,363.3
+745,CSN-10745,Mukundwadi,Apartment,3,3,877,11,3,Unfurnished,Ready to Move,Standard,RCC+Brick,0,0,2.43,2.18,5.73,8.15,5.78,1.07,107.0,4367.16,3830000,6,292.3
+746,CSN-10746,CIDCO N-5,Apartment,3,2,1424,1,20,Unfurnished,Under Construction,Premium,RCC+AAC Block,1,0,3.52,2.98,8.86,0.88,1.93,1.74,101.7,4424.16,6300000,5,474.7
+747,CSN-10747,Kranti Chowk,Independent House,4,4,1974,0,18,Semi-Furnished,Under Construction,Premium,RCC,1,0,2.35,4.71,9.64,7.93,1.99,0.71,106.6,5278.62,10420000,8,493.5
+748,CSN-10748,CIDCO N-10,Apartment,2,1,1105,9,14,Fully Furnished,Ready to Move,Premium,RCC+AAC Block,0,0,2.6,5.7,9.25,7.16,4.04,1.38,104.4,4389.14,4850000,3,552.5
+749,CSN-10749,Jalna Road,Apartment,3,3,1215,7,7,Fully Furnished,Under Construction,Standard,RCC+Brick,0,0,0.64,0.3,11.22,5.38,3.71,0.93,95.6,4518.52,5490000,6,405.0
+750,CSN-10750,CIDCO N-10,Builder Floor,2,1,1350,0,6,Semi-Furnished,Under Construction,Premium,RCC+Brick,1,0,2.4,3.33,1.5,6.55,3.22,1.54,93.3,4370.37,5900000,3,675.0
+751,CSN-10751,CIDCO N-7,Villa,3,3,1614,0,4,Fully Furnished,Ready to Move,None,RCC,0,0,3.24,4.01,11.05,4.44,2.69,0.81,107.1,4894.67,7900000,6,538.0
+752,CSN-10752,Kanchanwadi,Villa,5,5,1819,0,18,Unfurnished,Resale,Standard,RCC,0,0,1.9,0.52,5.8,1.39,2.35,0.96,105.8,4392.52,7990000,10,363.8
+753,CSN-10753,Railway Station Area,Independent House,3,4,1468,0,15,Semi-Furnished,Ready to Move,Premium,RCC+Brick,0,0,1.44,2.74,12.05,3.31,1.46,1.16,96.3,4509.54,6620000,7,489.3
+754,CSN-10754,Waluj,Row House,3,2,1092,0,13,Unfurnished,Ready to Move,None,RCC+AAC Block,1,0,2.39,1.52,9.5,7.87,2.66,0.68,105.4,3571.43,3900000,5,364.0
+755,CSN-10755,CIDCO N-4,Apartment,3,2,915,6,19,Unfurnished,Resale,None,RCC,0,1,0.65,3.68,13.69,6.65,1.0,0.43,102.6,4579.23,4190000,5,305.0
+756,CSN-10756,CIDCO N-7,Apartment,4,4,1603,9,7,Semi-Furnished,Under Construction,Basic,RCC+Brick,1,0,2.9,2.94,5.81,4.13,1.81,1.38,121.9,5190.27,8320000,8,400.8
+757,CSN-10757,Shahnoorwadi,Apartment,3,2,1350,6,9,Unfurnished,Resale,Basic,RCC+Brick,0,1,2.53,2.75,5.64,4.65,4.26,0.9,108.6,4644.44,6270000,5,450.0
+758,CSN-10758,CIDCO N-1,Apartment,3,3,1162,6,12,Semi-Furnished,Resale,None,RCC+AAC Block,0,1,1.46,3.69,9.28,3.59,3.24,0.93,102.8,4457.83,5180000,6,387.3
+759,CSN-10759,CIDCO N-6,Apartment,3,4,870,3,13,Semi-Furnished,Under Construction,Standard,RCC,0,0,0.58,2.63,8.94,9.12,3.79,0.68,96.5,4517.24,3930000,7,290.0
+760,CSN-10760,Shahanurwadi,Apartment,2,3,1192,9,20,Unfurnished,Under Construction,Standard,RCC+Brick,0,0,1.9,2.84,7.78,5.61,3.69,1.84,110.7,4412.75,5260000,5,596.0
+761,CSN-10761,CIDCO N-5,Apartment,2,1,1182,7,5,Fully Furnished,Under Construction,Standard,RCC+Brick,1,0,3.15,2.97,1.5,9.03,2.55,0.71,98.6,4407.78,5210000,3,591.0
+762,CSN-10762,Shahnoorwadi,Row House,3,4,1031,0,20,Unfurnished,Ready to Move,None,RCC+Brick,1,0,2.32,3.6,6.52,3.98,4.28,1.85,101.2,4451.99,4590000,7,343.7
+763,CSN-10763,Deolai,Apartment,2,1,1059,10,11,Semi-Furnished,Ready to Move,Basic,RCC+AAC Block,0,1,1.92,3.57,13.24,4.35,3.83,1.73,100.0,4098.21,4340000,3,529.5
+764,CSN-10764,Satara Parisar,Independent House,2,1,2462,0,8,Fully Furnished,Under Construction,Basic,RCC,1,1,3.13,5.0,5.24,4.61,0.3,1.09,98.8,4053.61,9980000,3,1231.0
+765,CSN-10765,CIDCO N-8,Plot,0,0,1084,0,18,Unfurnished,Resale,None,RCC+Brick,1,0,2.5,1.11,5.41,5.41,3.15,0.77,100.6,3450.18,3740000,0,
+766,CSN-10766,Mukundwadi,Villa,4,3,2541,0,10,Unfurnished,Under Construction,Basic,RCC+AAC Block,1,0,0.34,5.4,8.77,6.33,5.0,1.71,96.3,4525.78,11500000,7,635.2
+767,CSN-10767,Nakshatrawadi,Apartment,2,2,904,9,16,Fully Furnished,Under Construction,Premium,RCC+AAC Block,0,0,1.91,1.5,10.74,4.47,2.05,1.0,107.5,3396.02,3070000,4,452.0
+768,CSN-10768,Osmanpura,Villa,4,3,2867,0,6,Semi-Furnished,Resale,Premium,RCC+Brick,0,0,2.94,1.63,5.65,4.4,5.25,1.3,101.6,6320.2,18120000,7,716.8
+769,CSN-10769,Itkheda,Apartment,2,2,862,9,1,Unfurnished,Resale,None,RCC+AAC Block,0,0,2.55,3.65,7.11,3.61,4.54,0.19,101.0,4245.94,3660000,4,431.0
+770,CSN-10770,Nakshatrawadi,Apartment,2,1,767,4,9,Fully Furnished,Resale,Basic,RCC+Brick,0,0,1.3,3.03,8.19,2.59,1.08,0.85,106.7,3324.64,2550000,3,383.5
+771,CSN-10771,Waluj,Apartment,3,4,1120,4,12,Semi-Furnished,Ready to Move,None,RCC+AAC Block,0,0,3.99,5.89,8.99,11.22,1.98,0.45,102.8,3383.93,3790000,7,373.3
+772,CSN-10772,Jalna Road,Apartment,1,1,645,4,10,Fully Furnished,Resale,Premium,RCC+Brick,0,1,4.09,3.96,8.7,9.49,5.94,1.18,104.0,4372.09,2820000,2,645.0
+773,CSN-10773,Osmanpura,Apartment,1,1,1068,8,18,Unfurnished,Under Construction,Standard,RCC,0,0,1.8,0.81,12.35,8.36,1.64,1.0,98.7,5140.45,5490000,2,1068.0
+774,CSN-10774,CIDCO N-7,Apartment,3,4,1106,3,5,Unfurnished,Under Construction,Premium,RCC,0,0,3.75,1.4,10.66,5.11,3.37,0.76,103.7,5036.17,5570000,7,368.7
+775,CSN-10775,CIDCO N-7,Builder Floor,3,4,667,9,15,Unfurnished,Ready to Move,Premium,RCC+AAC Block,1,0,3.82,2.29,10.67,3.57,3.0,1.61,109.8,5052.47,3370000,7,222.3
+776,CSN-10776,Beed Bypass,Villa,3,3,2642,0,11,Semi-Furnished,Ready to Move,Basic,RCC+Brick,1,0,1.7,1.9,9.91,4.77,3.65,1.4,100.0,3909.92,10330000,6,880.7
+777,CSN-10777,Nakshatrawadi,Independent House,2,2,2175,0,8,Fully Furnished,Ready to Move,Basic,RCC+Brick,0,1,1.55,4.86,11.02,2.67,2.53,1.65,97.8,3535.63,7690000,4,1087.5
+778,CSN-10778,Kanchanwadi,Apartment,3,2,1389,7,18,Semi-Furnished,Ready to Move,None,RCC,1,0,0.68,3.38,10.85,0.59,2.59,2.19,102.9,3527.72,4900000,5,463.0
+779,CSN-10779,Kanchanwadi,Apartment,3,3,675,4,17,Unfurnished,Resale,Basic,RCC+AAC Block,0,0,0.91,3.69,9.03,1.12,4.49,1.09,105.7,4103.7,2770000,6,225.0
+780,CSN-10780,Waluj,Apartment,1,1,1024,2,14,Unfurnished,Ready to Move,Basic,RCC+AAC Block,0,0,1.71,2.1,8.35,3.18,1.42,0.1,98.7,3613.28,3700000,2,1024.0
+781,CSN-10781,CIDCO N-2,Villa,2,1,1613,0,5,Fully Furnished,Under Construction,None,RCC+AAC Block,0,1,0.94,1.66,5.94,8.07,5.45,1.32,101.3,5189.09,8370000,3,806.5
+782,CSN-10782,Nakshatrawadi,Apartment,2,2,1049,9,7,Fully Furnished,Under Construction,Basic,RCC+AAC Block,1,0,4.31,3.16,7.7,3.56,3.0,0.87,105.0,3584.37,3760000,4,524.5
+783,CSN-10783,Osmanpura,Builder Floor,3,3,1492,8,7,Semi-Furnished,Under Construction,Standard,RCC,0,0,2.87,4.02,6.38,2.81,1.45,1.05,109.6,5442.36,8120000,6,497.3
+784,CSN-10784,CIDCO N-7,Row House,3,2,894,0,3,Unfurnished,Ready to Move,Basic,RCC,0,0,1.09,4.48,6.75,3.89,0.3,0.22,117.2,5178.97,4630000,5,298.0
+785,CSN-10785,Harsool Road,Apartment,2,1,1254,11,13,Unfurnished,Ready to Move,Basic,RCC+Brick,0,0,0.49,3.08,7.69,4.79,2.68,0.8,84.9,3899.52,4890000,3,627.0
+786,CSN-10786,Itkheda,Apartment,2,2,1195,2,18,Semi-Furnished,Resale,Standard,RCC,0,1,3.44,2.75,8.06,6.66,2.0,0.92,107.5,3665.27,4380000,4,597.5
+787,CSN-10787,Satara Parisar,Plot,0,0,2448,0,7,Semi-Furnished,Resale,Standard,RCC+AAC Block,1,0,0.91,2.95,1.55,1.3,4.78,1.42,100.4,3043.3,7450000,0,
+788,CSN-10788,Harsool Road,Row House,2,3,1139,0,0,Unfurnished,Under Construction,Standard,RCC,1,0,0.67,2.5,9.03,4.11,2.27,1.4,113.6,3801.58,4330000,5,569.5
+789,CSN-10789,Satara Parisar,Apartment,3,3,786,8,10,Fully Furnished,Ready to Move,None,RCC+AAC Block,1,0,3.16,2.21,11.16,7.44,4.02,1.28,108.6,3931.3,3090000,6,262.0
+790,CSN-10790,CIDCO N-5,Builder Floor,2,3,1269,0,20,Fully Furnished,Ready to Move,Basic,RCC,0,0,2.27,1.85,10.2,3.17,6.43,1.13,96.1,4018.91,5100000,5,634.5
+791,CSN-10791,Nakshatrawadi,Independent House,4,5,1167,0,6,Semi-Furnished,Ready to Move,None,RCC+Brick,0,0,0.3,1.85,7.73,10.43,5.7,1.97,94.6,3590.4,4190000,9,291.8
+792,CSN-10792,Shahnoorwadi,Apartment,2,2,886,6,20,Unfurnished,Under Construction,Premium,RCC+Brick,0,0,1.88,2.18,6.59,5.54,3.33,1.07,107.3,4401.81,3900000,4,443.0
+793,CSN-10793,Town Centre,Independent House,4,4,1194,0,5,Fully Furnished,Resale,None,RCC+AAC Block,1,0,3.21,2.34,9.35,3.55,4.92,0.85,115.6,5293.13,6320000,8,298.5
+794,CSN-10794,CIDCO N-3,Builder Floor,2,1,718,4,10,Semi-Furnished,Ready to Move,Premium,RCC+AAC Block,0,0,0.53,0.71,6.11,6.95,0.59,1.56,105.9,5027.86,3610000,3,359.0
+795,CSN-10795,Town Centre,Apartment,2,3,802,10,2,Unfurnished,Resale,None,RCC+Brick,0,1,0.2,2.69,8.59,6.31,5.44,1.31,97.1,4950.12,3970000,5,401.0
+796,CSN-10796,Waluj,Apartment,2,2,1235,8,10,Unfurnished,Resale,None,RCC+Brick,0,1,1.26,1.21,10.07,5.99,0.3,1.02,110.5,3384.62,4180000,4,617.5
+797,CSN-10797,Railway Station Area,Builder Floor,1,1,782,4,2,Unfurnished,Ready to Move,None,RCC+Brick,0,0,3.4,2.48,4.17,6.14,3.19,1.5,93.7,5473.15,4280000,2,782.0
+798,CSN-10798,CIDCO N-9,Apartment,2,2,1056,8,2,Semi-Furnished,Under Construction,Standard,RCC+AAC Block,1,0,4.09,2.74,13.24,3.24,3.03,1.68,106.2,4782.2,5050000,4,528.0
+799,CSN-10799,Chikalthana,Apartment,2,2,732,4,18,Unfurnished,Under Construction,Standard,RCC+Brick,0,0,1.91,3.2,8.19,8.77,4.51,1.37,97.8,3674.86,2690000,4,366.0
+800,CSN-10800,Beed Bypass,Independent House,4,4,1061,0,12,Semi-Furnished,Resale,Basic,RCC+Brick,0,0,3.66,2.99,6.93,5.26,4.0,0.99,111.3,3986.8,4230000,8,265.2
+801,CSN-10801,Nakshatrawadi,Independent House,2,1,1902,0,2,Semi-Furnished,Ready to Move,None,RCC+Brick,0,1,1.14,0.83,5.77,4.08,2.48,1.12,111.6,3796.0,7220000,3,951.0
+802,CSN-10802,Beed Bypass,Apartment,4,3,777,6,2,Fully Furnished,Ready to Move,Standard,RCC+AAC Block,1,0,3.37,2.42,8.21,4.27,0.74,2.08,104.8,4401.54,3420000,7,194.2
+803,CSN-10803,CIDCO N-4,Apartment,2,1,835,9,6,Semi-Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,2.84,3.77,6.13,5.71,0.74,2.14,89.5,4622.75,3860000,3,417.5
+804,CSN-10804,Railway Station Area,Apartment,2,3,1095,4,5,Fully Furnished,Resale,Basic,RCC,0,0,3.2,1.41,6.46,6.14,3.53,0.57,112.4,4730.59,5180000,5,547.5
+805,CSN-10805,Railway Station Area,Row House,3,4,1542,0,19,Semi-Furnished,Under Construction,Premium,RCC+Brick,0,0,2.8,3.4,8.82,5.65,2.07,1.31,121.2,5103.76,7870000,7,514.0
+806,CSN-10806,Garkheda,Apartment,2,1,756,1,4,Semi-Furnished,Resale,Premium,RCC,0,1,2.1,3.97,8.76,7.32,3.55,1.7,86.9,4841.27,3660000,3,378.0
+807,CSN-10807,CIDCO N-4,Apartment,3,3,924,7,12,Fully Furnished,Ready to Move,Premium,RCC,0,1,5.45,1.96,14.82,6.8,1.46,1.34,108.7,4577.92,4230000,6,308.0
+808,CSN-10808,Railway Station Area,Apartment,1,2,677,3,5,Unfurnished,Resale,None,RCC+AAC Block,1,0,2.09,1.18,7.5,4.25,5.9,1.33,110.6,4830.13,3270000,3,677.0
+809,CSN-10809,Beed Bypass,Apartment,2,1,1120,7,7,Fully Furnished,Under Construction,Basic,RCC+AAC Block,1,0,4.1,0.3,4.92,0.66,3.95,0.78,102.7,4151.79,4650000,3,560.0
+810,CSN-10810,Jalna Road,Independent House,4,4,1465,0,19,Unfurnished,Ready to Move,None,RCC,1,0,3.25,1.97,5.06,0.88,0.84,0.62,105.2,4375.43,6410000,8,366.2
+811,CSN-10811,Harsool Road,Villa,2,2,1703,0,6,Unfurnished,Under Construction,None,RCC,1,0,2.31,4.94,1.97,2.98,5.21,1.75,105.0,3969.47,6760000,4,851.5
+812,CSN-10812,CIDCO N-2,Apartment,3,4,1279,0,2,Unfurnished,Ready to Move,None,RCC,0,0,3.48,3.77,6.71,8.61,4.41,0.7,105.4,5074.28,6490000,7,426.3
+813,CSN-10813,Shahanurwadi,Apartment,3,3,692,2,4,Fully Furnished,Under Construction,Basic,RCC+Brick,1,1,0.43,0.52,3.55,6.02,2.67,1.04,95.6,4609.83,3190000,6,230.7
+814,CSN-10814,Nakshatrawadi,Villa,2,1,2048,0,19,Fully Furnished,Ready to Move,Standard,RCC+Brick,0,0,1.35,1.52,8.71,10.83,2.27,1.2,94.8,3613.28,7400000,3,1024.0
+815,CSN-10815,Chikalthana,Apartment,2,3,1191,10,3,Semi-Furnished,Under Construction,None,RCC+Brick,0,0,1.56,4.26,9.72,0.82,3.4,1.33,105.9,4181.36,4980000,5,595.5
+816,CSN-10816,Itkheda,Plot,0,0,1860,0,6,Semi-Furnished,Ready to Move,Premium,RCC+Brick,0,1,2.48,3.03,15.0,3.2,4.73,1.12,94.0,3274.19,6090000,0,
+817,CSN-10817,Deolai,Independent House,3,2,1881,0,4,Fully Furnished,Under Construction,Standard,RCC,0,0,2.16,3.98,6.77,5.31,2.74,0.32,109.3,3928.76,7390000,5,627.0
+818,CSN-10818,Deolai,Apartment,3,3,1264,7,14,Fully Furnished,Under Construction,Premium,RCC+AAC Block,0,1,2.84,3.45,5.33,8.11,4.42,0.66,115.3,3924.05,4960000,6,421.3
+819,CSN-10819,Kranti Chowk,Independent House,5,5,1346,0,0,Unfurnished,Resale,None,RCC+AAC Block,1,0,3.06,3.67,7.46,7.46,3.31,1.3,102.5,6359.58,8560000,10,269.2
+820,CSN-10820,Shahnoorwadi,Independent House,3,2,2137,0,7,Fully Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,2.27,1.25,1.77,6.1,0.3,1.71,112.3,4918.11,10510000,5,712.3
+821,CSN-10821,Jalna Road,Apartment,2,1,936,2,10,Unfurnished,Ready to Move,Standard,RCC,0,1,2.56,4.36,8.24,11.3,2.22,1.8,106.3,4444.44,4160000,3,468.0
+822,CSN-10822,Itkheda,Builder Floor,2,2,792,5,8,Fully Furnished,Ready to Move,Basic,RCC+Brick,0,0,2.13,3.51,7.27,3.58,2.64,0.92,120.7,4318.18,3420000,4,396.0
+823,CSN-10823,CIDCO N-1,Plot,0,0,2580,0,7,Fully Furnished,Under Construction,Basic,RCC+AAC Block,0,0,2.43,3.52,8.27,4.7,4.6,1.38,103.4,3833.33,9890000,0,
+824,CSN-10824,Osmanpura,Independent House,3,4,1824,0,10,Semi-Furnished,Ready to Move,Premium,RCC+AAC Block,0,0,2.59,2.2,5.76,6.47,5.05,0.54,109.0,4978.07,9080000,7,608.0
+825,CSN-10825,CIDCO N-9,Apartment,4,4,1221,9,12,Semi-Furnished,Resale,Premium,RCC+Brick,0,0,1.34,5.78,7.7,5.27,2.4,1.46,111.3,4946.76,6040000,8,305.2
+826,CSN-10826,Chikalthana,Apartment,4,4,1403,3,10,Fully Furnished,Ready to Move,Premium,RCC+AAC Block,0,1,2.42,2.85,1.5,1.13,2.41,0.54,113.0,3820.38,5360000,8,350.8
+827,CSN-10827,CIDCO N-6,Builder Floor,4,4,1477,11,17,Semi-Furnished,Resale,Standard,RCC+AAC Block,0,0,0.33,2.68,8.44,5.69,1.89,1.88,100.7,4366.96,6450000,8,369.2
+828,CSN-10828,CIDCO N-3,Independent House,3,3,1285,0,2,Unfurnished,Ready to Move,Basic,RCC,1,1,1.66,2.49,6.12,4.57,4.67,0.29,111.0,5120.62,6580000,6,428.3
+829,CSN-10829,Kanchanwadi,Apartment,1,2,657,9,20,Unfurnished,Ready to Move,None,RCC+Brick,0,0,0.81,2.98,11.85,9.45,3.14,1.81,103.7,3622.53,2380000,3,657.0
+830,CSN-10830,Beed Bypass,Row House,2,3,1093,0,0,Fully Furnished,Resale,Standard,RCC+Brick,0,0,3.89,2.28,6.36,5.24,2.75,1.92,105.6,3897.53,4260000,5,546.5
+831,CSN-10831,Waluj,Independent House,3,2,1524,0,1,Fully Furnished,Under Construction,Standard,RCC,0,0,2.14,2.37,3.45,4.74,5.77,0.17,109.0,3549.87,5410000,5,508.0
+832,CSN-10832,CIDCO N-8,Independent House,4,3,2234,0,6,Fully Furnished,Resale,Premium,RCC+Brick,0,0,1.39,3.48,11.69,7.44,1.0,0.77,108.3,5384.96,12030000,7,558.5
+833,CSN-10833,Osmanpura,Plot,0,0,3459,0,2,Semi-Furnished,Under Construction,Basic,RCC+Brick,0,1,3.59,2.67,8.43,2.54,5.79,1.29,111.1,4356.75,15070000,0,
+834,CSN-10834,Beed Bypass,Independent House,3,3,1851,0,15,Semi-Furnished,Under Construction,Standard,RCC+Brick,0,0,3.37,5.44,6.64,6.61,3.29,1.13,117.3,4008.64,7420000,6,617.0
+835,CSN-10835,Satara Parisar,Independent House,2,1,1539,0,15,Unfurnished,Resale,Premium,RCC+Brick,0,0,3.57,4.68,1.5,6.06,3.32,1.18,108.4,4015.59,6180000,3,769.5
+836,CSN-10836,Mukundwadi,Builder Floor,5,5,1180,2,18,Fully Furnished,Ready to Move,None,RCC+Brick,0,0,3.29,3.24,14.25,7.63,2.06,2.6,82.3,4525.42,5340000,10,236.0
+837,CSN-10837,Harsul,Apartment,3,3,778,3,5,Semi-Furnished,Ready to Move,Premium,RCC+Brick,1,0,2.5,3.55,5.51,1.02,3.47,1.52,107.5,3830.33,2980000,6,259.3
+838,CSN-10838,Jalna Road,Row House,5,5,893,0,5,Fully Furnished,Under Construction,None,RCC+AAC Block,0,0,2.12,3.99,7.69,3.33,2.19,1.08,110.5,4904.82,4380000,10,178.6
+839,CSN-10839,CIDCO N-9,Apartment,2,2,1203,9,16,Fully Furnished,Under Construction,Standard,RCC+AAC Block,0,1,3.68,5.69,6.62,8.57,0.3,1.85,94.8,4546.97,5470000,4,601.5
+840,CSN-10840,CIDCO N-7,Apartment,3,4,1314,6,11,Fully Furnished,Ready to Move,None,RCC+AAC Block,0,0,0.41,2.6,6.89,8.69,3.28,0.1,100.3,4665.14,6130000,7,438.0
+841,CSN-10841,CIDCO N-7,Independent House,4,3,1643,0,6,Fully Furnished,Under Construction,Standard,RCC+Brick,1,0,2.61,2.62,9.69,5.25,3.75,0.4,112.3,5392.57,8860000,7,410.8
+842,CSN-10842,Town Centre,Builder Floor,1,2,1520,1,15,Unfurnished,Ready to Move,Standard,RCC+AAC Block,0,0,0.4,3.4,7.35,3.92,3.26,0.77,109.7,5065.79,7700000,3,1520.0
+843,CSN-10843,Nakshatrawadi,Apartment,4,4,921,0,20,Fully Furnished,Ready to Move,None,RCC+Brick,1,0,2.43,4.53,9.56,0.5,4.31,1.76,99.1,3713.36,3420000,8,230.2
+844,CSN-10844,Beed Bypass,Row House,1,1,1217,0,1,Unfurnished,Resale,None,RCC,1,0,3.64,4.75,10.67,0.93,1.0,1.3,103.3,4067.38,4950000,2,1217.0
+845,CSN-10845,CIDCO N-2,Plot,0,0,3696,0,16,Semi-Furnished,Resale,Premium,RCC,0,0,1.17,2.15,5.67,8.75,4.2,0.87,99.6,3847.4,14220000,0,
+846,CSN-10846,Harsul,Builder Floor,3,4,1236,1,18,Semi-Furnished,Ready to Move,Standard,RCC+AAC Block,0,0,3.04,4.39,10.5,4.69,5.33,1.74,111.0,3802.59,4700000,7,412.0
+847,CSN-10847,Mukundwadi,Apartment,2,3,758,5,7,Semi-Furnished,Under Construction,Standard,RCC+Brick,1,0,0.62,3.21,8.21,7.84,6.02,1.47,97.8,4366.75,3310000,5,379.0
+848,CSN-10848,CIDCO N-9,Apartment,5,5,1593,11,8,Unfurnished,Under Construction,Standard,RCC,0,1,2.67,2.57,5.39,3.63,1.95,0.1,102.4,5178.91,8250000,10,318.6
+849,CSN-10849,Jalna Road,Apartment,2,2,1092,1,13,Unfurnished,Under Construction,Basic,RCC+Brick,0,0,3.61,3.36,4.25,10.68,1.12,1.05,97.5,4340.66,4740000,4,546.0
+850,CSN-10850,Kanchanwadi,Row House,2,1,1469,0,9,Semi-Furnished,Under Construction,Premium,RCC,1,1,2.5,2.84,8.79,4.56,4.61,2.54,98.6,3989.11,5860000,3,734.5
+851,CSN-10851,Mukundwadi,Plot,0,0,1179,0,7,Semi-Furnished,Resale,Premium,RCC+Brick,0,0,2.59,3.33,11.38,7.0,2.84,0.92,105.4,3324.85,3920000,0,
+852,CSN-10852,Town Centre,Builder Floor,2,2,874,6,3,Unfurnished,Under Construction,Standard,RCC+AAC Block,0,0,3.05,2.51,4.01,2.51,3.81,0.15,99.1,5629.29,4920000,4,437.0
+853,CSN-10853,Chikalthana,Apartment,3,3,1190,8,8,Fully Furnished,Resale,Premium,RCC+Brick,1,1,1.42,0.3,9.6,5.19,2.22,0.58,107.2,4176.47,4970000,6,396.7
+854,CSN-10854,Nakshatrawadi,Apartment,3,3,1185,2,7,Semi-Furnished,Under Construction,None,RCC,0,0,2.23,4.67,9.43,4.11,0.44,0.1,124.0,3594.94,4260000,6,395.0
+855,CSN-10855,Town Centre,Plot,0,0,3346,0,9,Fully Furnished,Ready to Move,Premium,RCC+AAC Block,0,0,0.44,4.43,5.54,6.28,4.43,1.21,101.9,4187.09,14010000,0,
+856,CSN-10856,CIDCO N-8,Row House,2,1,1074,0,17,Semi-Furnished,Under Construction,Standard,RCC+Brick,0,0,0.28,4.83,6.82,1.43,1.34,1.43,97.1,4543.76,4880000,3,537.0
+857,CSN-10857,Nakshatrawadi,Apartment,3,3,914,10,7,Semi-Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,1.56,3.07,9.71,3.68,2.86,0.85,108.5,3326.04,3040000,6,304.7
+858,CSN-10858,CIDCO N-1,Apartment,3,4,1115,5,9,Unfurnished,Under Construction,Premium,RCC+AAC Block,0,1,1.55,2.74,6.84,8.66,3.47,1.21,97.4,5192.83,5790000,7,371.7
+859,CSN-10859,CIDCO N-10,Independent House,4,5,1307,0,18,Fully Furnished,Resale,None,RCC+Brick,0,1,2.38,0.47,1.5,2.66,3.42,0.1,103.6,3947.97,5160000,9,326.8
+860,CSN-10860,Beed Bypass,Row House,4,5,920,0,7,Fully Furnished,Ready to Move,Basic,RCC+Brick,1,1,2.52,2.81,7.46,7.2,2.5,1.94,93.0,4793.48,4410000,9,230.0
+861,CSN-10861,CIDCO N-6,Row House,4,4,1547,0,18,Semi-Furnished,Resale,Standard,RCC+AAC Block,1,1,2.77,1.42,5.3,5.65,3.51,0.8,117.2,4712.35,7290000,8,386.8
+862,CSN-10862,CIDCO N-8,Row House,4,3,1876,0,3,Semi-Furnished,Under Construction,Standard,RCC+AAC Block,0,1,2.26,3.56,10.28,6.17,1.83,0.79,104.0,4749.47,8910000,7,469.0
+863,CSN-10863,Itkheda,Apartment,2,3,952,8,10,Fully Furnished,Under Construction,Basic,RCC+AAC Block,0,0,2.77,0.85,7.8,4.22,2.82,1.35,114.4,3739.5,3560000,5,476.0
+864,CSN-10864,CIDCO N-8,Apartment,3,2,1330,7,1,Unfurnished,Ready to Move,Standard,RCC,1,1,1.8,1.83,10.86,3.98,1.77,1.52,96.1,4804.51,6390000,5,443.3
+865,CSN-10865,Beed Bypass,Independent House,4,3,1340,0,2,Fully Furnished,Resale,Standard,RCC+AAC Block,0,0,1.06,3.6,9.27,0.71,5.69,2.08,94.0,4246.27,5690000,7,335.0
+866,CSN-10866,Shahnoorwadi,Plot,0,0,3129,0,7,Unfurnished,Ready to Move,Standard,RCC+AAC Block,1,0,1.84,3.38,11.78,3.67,1.11,0.32,112.5,3851.07,12050000,0,
+867,CSN-10867,Mukundwadi,Plot,0,0,2829,0,15,Semi-Furnished,Under Construction,Premium,RCC+AAC Block,0,0,2.51,1.0,6.12,9.18,3.99,0.74,97.7,3096.5,8760000,0,
+868,CSN-10868,Shahnoorwadi,Row House,3,3,1774,0,9,Fully Furnished,Resale,Basic,RCC+AAC Block,0,0,2.35,1.88,6.91,1.02,2.8,1.39,96.8,5529.88,9810000,6,591.3
+869,CSN-10869,Satara Parisar,Plot,0,0,1572,0,7,Fully Furnished,Resale,Premium,RCC,0,0,2.21,2.71,4.76,5.84,2.71,1.06,116.0,3136.13,4930000,0,
+870,CSN-10870,Shahanurwadi,Villa,3,4,1751,0,12,Unfurnished,Resale,None,RCC+AAC Block,1,1,1.42,2.02,8.64,4.72,5.09,1.62,101.4,4774.41,8360000,7,583.7
+871,CSN-10871,Jalna Road,Builder Floor,1,1,1455,3,15,Fully Furnished,Ready to Move,None,RCC+Brick,0,0,2.65,2.37,13.09,2.34,3.47,1.64,99.6,4316.15,6280000,2,1455.0
+872,CSN-10872,CIDCO N-6,Apartment,3,2,1167,11,14,Semi-Furnished,Under Construction,Premium,RCC+AAC Block,1,0,3.43,1.99,9.91,3.66,2.32,0.35,106.2,4652.96,5430000,5,389.0
+873,CSN-10873,CIDCO N-7,Apartment,3,2,1360,5,11,Fully Furnished,Resale,Standard,RCC+AAC Block,1,0,0.2,6.71,2.95,4.51,1.3,0.76,108.2,4323.53,5880000,5,453.3
+874,CSN-10874,Garkheda,Villa,3,3,1940,0,11,Semi-Furnished,Resale,Basic,RCC+AAC Block,1,0,2.77,3.83,5.3,2.77,3.2,0.62,108.1,5515.46,10700000,6,646.7
+875,CSN-10875,Town Centre,Apartment,2,3,1188,4,18,Fully Furnished,Resale,Basic,RCC+Brick,0,1,2.55,5.89,12.1,7.0,3.2,0.6,114.9,5117.85,6080000,5,594.0
+876,CSN-10876,Harsool Road,Independent House,2,3,1045,0,5,Unfurnished,Ready to Move,Basic,RCC+Brick,1,1,1.45,0.3,4.26,3.22,1.66,1.37,108.8,3693.78,3860000,5,522.5
+877,CSN-10877,Chikalthana,Builder Floor,4,4,1124,7,8,Semi-Furnished,Ready to Move,Standard,RCC+AAC Block,0,0,1.21,4.53,2.27,8.22,3.75,0.75,100.4,4635.23,5210000,8,281.0
+878,CSN-10878,Mukundwadi,Apartment,4,5,1147,7,5,Unfurnished,Under Construction,Basic,RCC+Brick,0,1,1.05,1.09,8.88,3.17,3.37,0.23,113.7,4141.24,4750000,9,286.8
+879,CSN-10879,Town Centre,Independent House,1,1,1538,0,9,Fully Furnished,Under Construction,None,RCC,0,0,2.58,4.71,11.21,6.27,2.51,1.1,112.4,5533.16,8510000,2,1538.0
+880,CSN-10880,Kranti Chowk,Row House,1,1,1201,0,1,Unfurnished,Under Construction,Standard,RCC+AAC Block,0,0,0.59,5.32,9.46,0.5,5.39,1.78,98.1,4995.84,6000000,2,1201.0
+881,CSN-10881,Satara Parisar,Apartment,2,2,825,2,14,Unfurnished,Under Construction,Premium,RCC+AAC Block,0,0,1.77,3.03,7.17,4.85,1.86,0.85,101.5,3830.3,3160000,4,412.5
+882,CSN-10882,Jalna Road,Builder Floor,3,4,845,8,2,Unfurnished,Under Construction,Basic,RCC+AAC Block,0,0,2.08,2.36,11.97,6.09,4.27,1.55,108.5,5289.94,4470000,7,281.7
+883,CSN-10883,Harsool Road,Independent House,2,1,1563,0,18,Fully Furnished,Under Construction,Standard,RCC+Brick,0,0,1.14,3.78,6.46,6.23,2.68,1.49,92.7,3742.8,5850000,3,781.5
+884,CSN-10884,Kranti Chowk,Apartment,2,2,1034,7,2,Unfurnished,Under Construction,None,RCC,0,0,1.58,5.62,7.58,1.15,1.89,0.45,95.1,5290.14,5470000,4,517.0
+885,CSN-10885,Shahnoorwadi,Independent House,2,2,1698,0,13,Unfurnished,Ready to Move,None,RCC,1,0,0.81,4.48,13.84,5.78,2.11,1.1,101.5,4681.98,7950000,4,849.0
+886,CSN-10886,Chikalthana,Apartment,3,2,741,3,9,Semi-Furnished,Resale,None,RCC+AAC Block,1,0,4.35,4.17,8.86,1.73,3.33,0.73,117.8,3657.22,2710000,5,247.0
+887,CSN-10887,CIDCO N-10,Apartment,2,3,1185,6,1,Semi-Furnished,Resale,Premium,RCC+AAC Block,1,0,3.3,3.46,6.91,4.33,4.52,0.54,100.7,4649.79,5510000,5,592.5
+888,CSN-10888,CIDCO N-3,Villa,4,4,2200,0,12,Unfurnished,Resale,Standard,RCC+AAC Block,0,0,1.23,4.0,8.83,7.36,2.09,2.48,84.3,4368.18,9610000,8,550.0
+889,CSN-10889,Mukundwadi,Independent House,4,4,1489,0,3,Unfurnished,Resale,Basic,RCC,0,0,3.1,3.92,12.79,9.23,3.5,0.46,120.1,4157.15,6190000,8,372.2
+890,CSN-10890,Railway Station Area,Apartment,2,3,933,2,17,Semi-Furnished,Ready to Move,Standard,RCC+AAC Block,1,0,1.98,2.83,14.03,4.38,0.3,2.04,103.0,4758.84,4440000,5,466.5
+891,CSN-10891,Kanchanwadi,Apartment,3,4,917,4,12,Semi-Furnished,Resale,Basic,RCC,0,0,1.11,1.72,13.06,4.83,0.48,1.43,103.8,3925.85,3600000,7,305.7
+892,CSN-10892,Kanchanwadi,Row House,4,4,1303,0,1,Unfurnished,Resale,Basic,RCC+AAC Block,1,0,1.97,4.63,12.74,2.07,2.69,1.7,114.7,4673.83,6090000,8,325.8
+893,CSN-10893,CIDCO N-10,Plot,0,0,1665,0,16,Unfurnished,Resale,None,RCC+AAC Block,0,0,2.18,2.66,3.79,6.64,3.31,0.65,104.5,3327.33,5540000,0,
+894,CSN-10894,Satara Parisar,Villa,3,3,2784,0,13,Unfurnished,Ready to Move,None,RCC+Brick,0,0,0.2,4.44,10.17,5.51,4.3,1.72,102.8,4051.72,11280000,6,928.0
+895,CSN-10895,Kanchanwadi,Independent House,3,4,1261,0,3,Fully Furnished,Ready to Move,Standard,RCC,0,0,4.05,1.88,15.08,4.8,2.66,0.1,111.8,3885.8,4900000,7,420.3
+896,CSN-10896,Beed Bypass,Independent House,2,3,2244,0,7,Unfurnished,Under Construction,None,RCC,1,0,2.43,2.12,7.16,3.76,1.63,0.44,104.7,4220.14,9470000,5,1122.0
+897,CSN-10897,Jalna Road,Independent House,2,1,1862,0,17,Semi-Furnished,Under Construction,Standard,RCC+Brick,0,0,1.62,1.91,9.96,5.01,2.22,0.87,98.2,4430.72,8250000,3,931.0
+898,CSN-10898,Railway Station Area,Apartment,1,2,661,4,19,Unfurnished,Resale,Basic,RCC,0,0,3.28,4.36,15.14,3.17,5.4,2.15,97.6,4780.64,3160000,3,661.0
+899,CSN-10899,Satara Parisar,Apartment,3,3,805,4,7,Unfurnished,Resale,None,RCC+AAC Block,0,0,1.02,3.59,4.15,6.93,3.73,0.96,104.8,3913.04,3150000,6,268.3
+900,CSN-10900,Kranti Chowk,Villa,2,1,1934,0,9,Unfurnished,Ready to Move,Basic,RCC,0,0,1.61,3.57,12.27,7.73,2.15,0.31,99.2,5160.29,9980000,3,967.0
+901,CSN-10901,Mukundwadi,Independent House,4,3,1908,0,2,Unfurnished,Resale,Premium,RCC+Brick,0,0,4.93,1.36,13.27,8.34,2.38,0.96,98.7,4287.21,8180000,7,477.0
+902,CSN-10902,Nakshatrawadi,Row House,2,3,1295,0,9,Unfurnished,Ready to Move,Standard,RCC,1,0,1.81,3.0,8.46,6.93,3.34,1.62,101.8,3536.68,4580000,5,647.5
+903,CSN-10903,Garkheda,Row House,4,4,1660,0,4,Semi-Furnished,Ready to Move,None,RCC+Brick,1,1,1.59,4.07,10.98,9.28,2.09,1.6,88.6,5704.82,9470000,8,415.0
+904,CSN-10904,Railway Station Area,Independent House,2,2,1411,0,12,Unfurnished,Ready to Move,None,RCC+AAC Block,0,0,2.14,2.47,10.96,7.04,0.3,1.83,96.6,4975.19,7020000,4,705.5
+905,CSN-10905,Waluj,Apartment,2,3,737,1,7,Unfurnished,Resale,Standard,RCC+AAC Block,1,1,1.05,1.58,8.55,7.24,1.27,1.87,100.0,3242.88,2390000,5,368.5
+906,CSN-10906,Kanchanwadi,Plot,0,0,1108,0,7,Unfurnished,Ready to Move,Standard,RCC,0,0,3.31,3.46,6.66,3.9,3.43,0.41,117.2,3366.43,3730000,0,
+907,CSN-10907,Town Centre,Apartment,1,1,667,4,20,Unfurnished,Ready to Move,Standard,RCC+AAC Block,0,0,1.66,5.5,13.39,3.04,2.76,0.75,104.9,4902.55,3270000,2,667.0
+908,CSN-10908,Harsul,Apartment,3,2,1030,3,15,Semi-Furnished,Resale,None,RCC,0,1,0.87,1.7,5.15,3.67,2.1,1.61,95.0,3543.69,3650000,5,343.3
+909,CSN-10909,Jalna Road,Independent House,1,1,1381,0,11,Fully Furnished,Ready to Move,Premium,RCC+Brick,1,0,2.13,5.43,5.94,4.69,1.03,0.32,102.9,4380.88,6050000,2,1381.0
+910,CSN-10910,CIDCO N-3,Apartment,2,2,897,1,1,Fully Furnished,Resale,Premium,RCC+Brick,0,1,2.58,0.87,11.17,5.88,3.08,1.87,98.3,4548.49,4080000,4,448.5
+911,CSN-10911,CIDCO N-1,Builder Floor,3,4,1366,6,14,Fully Furnished,Ready to Move,None,RCC+Brick,1,0,2.66,2.99,4.85,2.62,2.02,1.76,107.9,5051.24,6900000,7,455.3
+912,CSN-10912,CIDCO N-4,Builder Floor,4,4,939,1,13,Semi-Furnished,Ready to Move,Basic,RCC+AAC Block,1,0,1.07,4.55,13.46,0.5,5.35,1.25,110.8,4856.23,4560000,8,234.8
+913,CSN-10913,Kanchanwadi,Apartment,2,1,1235,4,4,Fully Furnished,Resale,None,RCC+AAC Block,1,0,1.01,2.45,9.11,0.5,1.83,0.1,105.2,4307.69,5320000,3,617.5
+914,CSN-10914,CIDCO N-8,Apartment,4,3,837,3,3,Unfurnished,Ready to Move,None,RCC+AAC Block,1,0,2.64,4.53,6.79,5.46,3.24,1.12,103.9,4707.29,3940000,7,209.2
+915,CSN-10915,Harsool Road,Independent House,2,2,2479,0,2,Semi-Furnished,Resale,Basic,RCC+Brick,0,1,2.31,1.73,12.33,6.88,4.73,1.83,99.0,3707.14,9190000,4,1239.5
+916,CSN-10916,Mukundwadi,Apartment,2,3,979,1,13,Unfurnished,Resale,Premium,RCC,1,0,3.88,0.85,6.74,2.87,0.3,1.72,97.5,4330.95,4240000,5,489.5
+917,CSN-10917,CIDCO N-2,Builder Floor,1,1,797,2,2,Unfurnished,Under Construction,Basic,RCC,0,0,2.42,2.22,8.28,4.43,2.33,1.38,107.0,5194.48,4140000,2,797.0
+918,CSN-10918,CIDCO N-3,Apartment,1,1,857,3,17,Semi-Furnished,Ready to Move,Standard,RCC,0,0,3.58,3.47,3.87,6.74,3.25,1.43,109.9,4375.73,3750000,2,857.0
+919,CSN-10919,CIDCO N-10,Row House,4,3,1352,0,8,Fully Furnished,Resale,Premium,RCC+Brick,0,0,1.7,3.58,7.17,6.57,4.6,1.86,92.9,4992.6,6750000,7,338.0
+920,CSN-10920,CIDCO N-8,Villa,2,3,2427,0,11,Unfurnished,Under Construction,Basic,RCC,1,0,3.64,2.32,8.38,4.75,2.05,1.64,104.3,4598.27,11160000,5,1213.5
+921,CSN-10921,Railway Station Area,Plot,0,0,2325,0,2,Fully Furnished,Resale,Premium,RCC,0,0,2.46,3.48,11.75,2.49,4.99,1.21,100.4,3845.16,8940000,0,
+922,CSN-10922,Town Centre,Independent House,3,3,2171,0,14,Semi-Furnished,Under Construction,Premium,RCC,1,0,2.09,2.19,7.82,0.5,1.28,1.77,109.5,5739.29,12460000,6,723.7
+923,CSN-10923,Satara Parisar,Independent House,3,3,2269,0,11,Unfurnished,Ready to Move,None,RCC+Brick,0,0,2.16,3.02,13.2,5.55,3.03,1.24,106.6,4270.6,9690000,6,756.3
+924,CSN-10924,CIDCO N-6,Independent House,1,2,1263,0,1,Semi-Furnished,Resale,Standard,RCC+AAC Block,0,0,0.75,3.6,8.7,4.48,2.06,1.18,100.0,5146.48,6500000,3,1263.0
+925,CSN-10925,CIDCO N-2,Independent House,3,3,1539,0,5,Semi-Furnished,Ready to Move,Standard,RCC+Brick,0,0,1.3,3.44,5.91,5.62,5.59,1.3,93.3,4704.35,7240000,6,513.0
+926,CSN-10926,Town Centre,Independent House,4,3,1938,0,16,Unfurnished,Resale,Standard,RCC+AAC Block,0,0,2.46,2.66,10.37,4.49,0.3,1.54,108.6,5851.39,11340000,7,484.5
+927,CSN-10927,Deolai,Villa,2,2,2169,0,18,Semi-Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,2.43,4.04,12.16,3.18,2.74,0.95,101.3,3416.32,7410000,4,1084.5
+928,CSN-10928,CIDCO N-8,Row House,2,2,1673,0,15,Fully Furnished,Ready to Move,Premium,RCC,1,0,4.27,1.37,10.45,7.78,0.3,1.45,107.0,4417.21,7390000,4,836.5
+929,CSN-10929,Jalna Road,Apartment,3,4,884,6,14,Unfurnished,Under Construction,None,RCC+Brick,1,0,3.53,2.73,7.34,4.73,3.31,0.89,109.1,4400.45,3890000,7,294.7
+930,CSN-10930,Nakshatrawadi,Apartment,1,1,597,2,16,Unfurnished,Resale,Premium,RCC+Brick,1,0,1.14,1.36,8.2,3.37,5.14,1.43,97.9,3266.33,1950000,2,597.0
+931,CSN-10931,Nakshatrawadi,Row House,1,1,1264,0,19,Semi-Furnished,Resale,None,RCC+Brick,0,0,1.8,4.73,8.36,8.26,4.73,1.83,92.4,3306.96,4180000,2,1264.0
+932,CSN-10932,Railway Station Area,Apartment,1,1,886,9,2,Semi-Furnished,Under Construction,None,RCC+AAC Block,1,0,1.01,6.58,7.36,1.57,3.04,0.66,112.7,4638.83,4110000,2,886.0
+933,CSN-10933,CIDCO N-8,Apartment,3,4,1085,10,20,Semi-Furnished,Ready to Move,Standard,RCC,0,0,4.05,2.23,2.11,2.2,4.39,1.05,103.8,4801.84,5210000,7,361.7
+934,CSN-10934,CIDCO N-9,Apartment,1,1,841,9,4,Unfurnished,Resale,Standard,RCC+Brick,0,0,2.37,4.05,8.0,3.87,5.4,1.55,99.5,4233.06,3560000,2,841.0
+935,CSN-10935,Harsool Road,Apartment,4,3,974,5,20,Unfurnished,Under Construction,None,RCC+Brick,0,0,3.71,3.01,10.57,7.41,4.53,1.75,105.7,4086.24,3980000,7,243.5
+936,CSN-10936,CIDCO N-1,Apartment,3,3,1051,0,15,Fully Furnished,Resale,Basic,RCC,1,0,3.37,3.87,6.14,2.27,3.29,0.78,102.1,4900.1,5150000,6,350.3
+937,CSN-10937,CIDCO N-7,Independent House,3,3,2453,0,5,Fully Furnished,Resale,Basic,RCC+AAC Block,0,1,4.37,1.61,6.28,5.91,2.13,0.74,108.0,5450.47,13370000,6,817.7
+938,CSN-10938,Harsool Road,Villa,2,3,2650,0,0,Semi-Furnished,Resale,Premium,RCC,1,0,2.01,3.73,7.89,7.07,0.91,0.59,97.2,3818.87,10120000,5,1325.0
+939,CSN-10939,Paithan Road,Row House,1,1,1832,0,17,Unfurnished,Ready to Move,Basic,RCC+AAC Block,0,1,2.16,4.81,11.13,6.02,2.13,1.47,93.1,3482.53,6380000,2,1832.0
+940,CSN-10940,CIDCO N-10,Plot,0,0,3809,0,5,Unfurnished,Under Construction,Basic,RCC+AAC Block,0,1,0.82,2.66,13.8,5.96,3.33,0.59,95.6,3239.7,12340000,0,
+941,CSN-10941,Town Centre,Apartment,3,3,1173,0,10,Fully Furnished,Resale,Premium,RCC+Brick,1,0,3.01,4.89,2.48,8.56,2.18,0.88,103.1,5541.35,6500000,6,391.0
+942,CSN-10942,Harsool Road,Apartment,4,4,1098,8,11,Unfurnished,Resale,None,RCC+AAC Block,0,0,2.67,4.31,11.11,11.42,4.83,1.15,97.9,3797.81,4170000,8,274.5
+943,CSN-10943,CIDCO N-3,Villa,2,2,1494,0,12,Fully Furnished,Resale,Standard,RCC+AAC Block,0,1,1.5,1.93,8.53,3.51,2.19,1.2,111.1,4832.66,7220000,4,747.0
+944,CSN-10944,CIDCO N-9,Apartment,3,2,958,10,4,Fully Furnished,Under Construction,Basic,RCC+Brick,0,0,2.17,1.69,4.6,6.94,1.86,0.15,115.3,4665.97,4470000,5,319.3
+945,CSN-10945,CIDCO N-5,Apartment,4,3,933,7,6,Fully Furnished,Ready to Move,None,RCC+AAC Block,0,0,2.91,4.52,9.34,6.35,3.41,1.21,94.9,4448.02,4150000,7,233.2
+946,CSN-10946,CIDCO N-1,Independent House,3,3,997,0,3,Semi-Furnished,Resale,Standard,RCC+Brick,1,0,0.97,3.85,8.0,6.96,2.33,0.96,118.3,4563.69,4550000,6,332.3
+947,CSN-10947,Kanchanwadi,Apartment,3,2,851,3,10,Semi-Furnished,Ready to Move,Premium,RCC,1,0,1.16,4.55,6.18,4.93,0.83,1.22,95.8,3819.04,3250000,5,283.7
+948,CSN-10948,Itkheda,Apartment,3,4,871,6,5,Fully Furnished,Under Construction,Basic,RCC+AAC Block,0,0,3.56,1.82,6.42,3.69,0.8,0.92,114.5,4041.33,3520000,7,290.3
+949,CSN-10949,Town Centre,Apartment,1,2,769,1,15,Unfurnished,Under Construction,Standard,RCC,0,0,1.44,4.87,9.92,7.47,1.03,1.59,95.2,4733.42,3640000,3,769.0
+950,CSN-10950,Itkheda,Plot,0,0,3033,0,19,Fully Furnished,Under Construction,Premium,RCC+AAC Block,0,0,4.27,2.49,3.49,1.68,2.31,2.41,98.1,3030.0,9190000,0,
+951,CSN-10951,CIDCO N-4,Independent House,2,2,1403,0,6,Unfurnished,Ready to Move,None,RCC+AAC Block,1,0,1.0,1.78,4.39,7.18,2.42,1.77,102.1,4583.04,6430000,4,701.5
+952,CSN-10952,CIDCO N-10,Plot,0,0,2171,0,12,Semi-Furnished,Under Construction,Basic,RCC+AAC Block,1,0,3.06,3.8,14.19,5.89,4.05,1.18,98.7,3146.02,6830000,0,
+953,CSN-10953,Garkheda,Independent House,2,2,1728,0,0,Semi-Furnished,Ready to Move,Premium,RCC,1,0,1.88,1.28,14.32,3.1,1.51,1.05,113.5,4548.61,7860000,4,864.0
+954,CSN-10954,CIDCO N-2,Independent House,3,3,2364,0,7,Unfurnished,Ready to Move,Basic,RCC+Brick,0,1,2.4,3.61,8.5,1.69,2.49,1.56,97.5,5059.22,11960000,6,788.0
+955,CSN-10955,CIDCO N-3,Independent House,3,2,1019,0,6,Fully Furnished,Resale,Basic,RCC+AAC Block,0,0,4.71,3.07,9.87,6.96,4.91,1.39,109.5,4808.64,4900000,5,339.7
+956,CSN-10956,CIDCO N-2,Plot,0,0,1373,0,3,Fully Furnished,Resale,Basic,RCC+AAC Block,0,1,2.32,3.78,9.06,4.38,1.63,1.73,100.7,3663.51,5030000,0,
+957,CSN-10957,Beed Bypass,Apartment,2,2,1029,11,8,Fully Furnished,Resale,None,RCC+AAC Block,0,0,4.35,3.78,10.13,3.83,4.24,0.81,95.7,4567.54,4700000,4,514.5
+958,CSN-10958,CIDCO N-3,Apartment,2,2,959,11,2,Semi-Furnished,Under Construction,Standard,RCC+AAC Block,0,0,3.02,1.74,8.71,4.63,2.62,0.21,111.7,4285.71,4110000,4,479.5
+959,CSN-10959,CIDCO N-5,Row House,3,4,1400,0,5,Unfurnished,Ready to Move,None,RCC+AAC Block,1,0,2.63,4.95,10.05,7.46,4.66,0.59,110.1,4807.14,6730000,7,466.7
+960,CSN-10960,Waluj,Apartment,1,1,819,1,7,Fully Furnished,Under Construction,Basic,RCC+Brick,0,0,1.19,1.63,10.07,3.08,2.09,0.1,111.5,3577.53,2930000,2,819.0
+961,CSN-10961,Jalna Road,Apartment,3,3,898,3,12,Semi-Furnished,Ready to Move,Basic,RCC,1,0,0.63,2.32,5.81,1.96,3.14,1.2,91.3,4766.15,4280000,6,299.3
+962,CSN-10962,Kanchanwadi,Apartment,3,4,1182,6,12,Semi-Furnished,Resale,Premium,RCC,1,0,2.09,3.3,4.55,3.24,4.06,1.71,102.1,4357.02,5150000,7,394.0
+963,CSN-10963,Jalna Road,Plot,0,0,2104,0,7,Fully Furnished,Resale,Basic,RCC+Brick,0,0,0.79,0.3,11.26,6.58,3.15,0.46,107.1,3673.95,7730000,0,
+964,CSN-10964,Chikalthana,Independent House,2,2,2191,0,14,Semi-Furnished,Resale,Premium,RCC+AAC Block,0,1,3.55,3.65,9.34,8.98,0.55,1.94,96.9,4153.35,9100000,4,1095.5
+965,CSN-10965,Harsool Road,Row House,2,3,1143,0,20,Fully Furnished,Under Construction,Standard,RCC,1,1,0.2,6.92,9.11,6.39,2.35,1.2,105.4,3298.34,3770000,5,571.5
+966,CSN-10966,CIDCO N-2,Apartment,3,3,1233,8,15,Semi-Furnished,Resale,None,RCC+AAC Block,0,0,1.99,1.92,8.52,5.37,3.35,1.13,99.5,4890.51,6030000,6,411.0
+967,CSN-10967,Railway Station Area,Apartment,3,3,1359,0,9,Fully Furnished,Resale,Premium,RCC+Brick,1,0,2.13,2.66,2.0,6.73,3.37,1.7,100.7,5261.22,7150000,6,453.0
+968,CSN-10968,CIDCO N-3,Row House,2,2,940,0,7,Unfurnished,Ready to Move,None,RCC,0,1,1.73,0.99,16.13,4.91,1.38,0.8,104.8,4531.91,4260000,4,470.0
+969,CSN-10969,Nakshatrawadi,Independent House,2,1,2224,0,17,Fully Furnished,Ready to Move,Basic,RCC+Brick,1,0,2.19,0.3,7.91,7.62,4.35,1.15,116.2,3268.88,7270000,3,1112.0
+970,CSN-10970,Kanchanwadi,Apartment,3,4,1178,0,5,Fully Furnished,Ready to Move,Basic,RCC+AAC Block,0,0,2.61,3.14,5.2,4.75,2.61,2.26,91.3,4252.97,5010000,7,392.7
+971,CSN-10971,CIDCO N-10,Villa,2,2,1431,0,5,Unfurnished,Under Construction,Basic,RCC+AAC Block,0,1,1.86,2.86,9.58,5.54,3.97,1.39,106.3,4332.63,6200000,4,715.5
+972,CSN-10972,CIDCO N-2,Apartment,2,2,684,2,0,Unfurnished,Under Construction,Basic,RCC+Brick,0,0,1.94,5.04,10.64,4.19,0.3,0.41,117.7,4707.6,3220000,4,342.0
+973,CSN-10973,Satara Parisar,Apartment,3,2,1360,6,2,Semi-Furnished,Resale,Basic,RCC+Brick,0,0,1.73,3.9,9.68,5.07,4.35,1.08,105.0,4161.76,5660000,5,453.3
+974,CSN-10974,CIDCO N-10,Apartment,2,2,1058,11,8,Fully Furnished,Ready to Move,Basic,RCC+AAC Block,1,0,3.97,2.25,11.71,5.06,3.55,2.41,96.0,4404.54,4660000,4,529.0
+975,CSN-10975,CIDCO N-5,Apartment,4,4,1355,5,20,Unfurnished,Ready to Move,Basic,RCC,1,0,1.61,2.46,5.95,7.01,1.43,1.04,107.2,4811.81,6520000,8,338.8
+976,CSN-10976,Chikalthana,Apartment,1,1,690,8,17,Fully Furnished,Resale,None,RCC+AAC Block,1,0,2.49,3.2,6.42,5.19,3.77,1.04,107.9,3565.22,2460000,2,690.0
+977,CSN-10977,Harsool Road,Apartment,3,2,882,2,12,Unfurnished,Under Construction,Premium,RCC,1,1,2.02,2.85,12.74,8.16,1.97,1.69,98.2,3888.89,3430000,5,294.0
+978,CSN-10978,Garkheda,Plot,0,0,2745,0,9,Semi-Furnished,Ready to Move,Premium,RCC+Brick,1,0,0.2,2.46,12.57,3.98,4.07,1.22,111.3,3938.07,10810000,0,
+979,CSN-10979,CIDCO N-8,Apartment,3,4,1077,11,9,Unfurnished,Ready to Move,Standard,RCC+Brick,0,0,3.0,4.07,1.95,5.95,2.76,0.9,104.1,4308.26,4640000,7,359.0
+980,CSN-10980,Jalna Road,Row House,4,3,1335,0,3,Fully Furnished,Ready to Move,Premium,RCC+AAC Block,1,0,3.35,1.1,8.07,3.92,0.92,0.33,102.7,4823.97,6440000,7,333.8
+981,CSN-10981,CIDCO N-2,Apartment,4,4,859,4,16,Semi-Furnished,Under Construction,Standard,RCC,0,1,0.2,0.38,9.65,4.36,0.84,0.57,100.7,5052.39,4340000,8,214.8
+982,CSN-10982,Waluj,Independent House,1,1,2548,0,14,Semi-Furnished,Ready to Move,None,RCC,1,0,2.29,3.32,8.33,2.31,3.77,1.09,96.2,3367.35,8580000,2,2548.0
+983,CSN-10983,Mukundwadi,Row House,3,3,1435,0,14,Semi-Furnished,Ready to Move,None,RCC+AAC Block,1,0,2.76,4.45,6.65,6.6,0.41,1.13,102.4,4522.65,6490000,6,478.3
+984,CSN-10984,CIDCO N-10,Plot,0,0,3092,0,17,Semi-Furnished,Under Construction,Premium,RCC+Brick,0,0,2.34,0.77,6.92,5.97,3.13,0.1,105.5,3470.25,10730000,0,
+985,CSN-10985,Deolai,Apartment,1,1,1015,0,13,Fully Furnished,Ready to Move,Premium,RCC+Brick,1,0,1.71,2.47,4.14,8.89,2.22,2.15,96.3,3546.8,3600000,2,1015.0
+986,CSN-10986,Satara Parisar,Independent House,3,2,1255,0,9,Unfurnished,Ready to Move,Basic,RCC,0,0,1.74,3.09,12.94,4.28,1.96,2.85,92.7,4167.33,5230000,5,418.3
+987,CSN-10987,CIDCO N-3,Plot,0,0,2020,0,7,Unfurnished,Resale,Basic,RCC+AAC Block,1,0,2.61,4.55,5.17,11.0,2.23,0.99,96.6,3361.39,6790000,0,
+988,CSN-10988,Harsul,Independent House,3,4,2093,0,10,Fully Furnished,Under Construction,None,RCC+AAC Block,0,0,1.94,3.74,10.38,4.95,1.36,0.72,114.4,3874.82,8110000,7,697.7
+989,CSN-10989,Mukundwadi,Villa,3,4,2566,0,5,Fully Furnished,Ready to Move,Basic,RCC,0,0,3.32,0.3,9.03,4.11,0.54,1.25,102.8,4333.59,11120000,7,855.3
+990,CSN-10990,Satara Parisar,Apartment,3,3,1328,0,20,Semi-Furnished,Under Construction,None,RCC+AAC Block,1,0,1.06,2.48,10.71,6.21,2.28,0.1,104.8,3885.54,5160000,6,442.7
+991,CSN-10991,Paithan Road,Apartment,1,1,1041,11,13,Semi-Furnished,Resale,None,RCC+Brick,0,0,1.05,4.79,9.73,7.44,2.36,0.59,99.7,3688.76,3840000,2,1041.0
+992,CSN-10992,CIDCO N-5,Row House,2,1,1179,0,4,Fully Furnished,Ready to Move,Standard,RCC+Brick,0,0,2.32,3.42,9.98,4.01,1.73,1.82,101.1,4732.82,5580000,3,589.5
+993,CSN-10993,Shahnoorwadi,Plot,0,0,1987,0,6,Fully Furnished,Resale,None,RCC,0,0,0.78,1.95,11.82,4.35,2.83,1.84,95.8,3532.96,7020000,0,
+994,CSN-10994,Railway Station Area,Apartment,3,3,911,9,7,Semi-Furnished,Resale,Premium,RCC,0,0,0.89,2.49,9.51,10.08,3.33,1.17,110.2,5268.94,4800000,6,303.7
+995,CSN-10995,Harsool Road,Apartment,2,3,1065,7,20,Fully Furnished,Ready to Move,Premium,RCC+Brick,0,0,2.38,4.38,7.86,4.16,4.1,1.41,97.2,3802.82,4050000,5,532.5
+996,CSN-10996,CIDCO N-1,Villa,2,2,1413,0,0,Unfurnished,Under Construction,None,RCC+Brick,0,0,0.2,3.27,10.58,6.39,4.2,1.0,97.7,4536.45,6410000,4,706.5
+997,CSN-10997,Nakshatrawadi,Apartment,3,4,1008,1,18,Fully Furnished,Under Construction,None,RCC+AAC Block,0,1,4.05,2.66,5.9,2.8,1.97,2.53,102.6,3660.71,3690000,7,336.0
+998,CSN-10998,Waluj,Apartment,5,5,1444,8,19,Semi-Furnished,Ready to Move,Basic,RCC+AAC Block,1,0,2.25,1.85,9.36,5.68,2.73,0.7,107.2,3393.35,4900000,10,288.8
+999,CSN-10999,Railway Station Area,Apartment,2,2,949,10,8,Semi-Furnished,Under Construction,None,RCC+AAC Block,0,0,1.77,2.19,7.69,6.0,3.26,1.18,99.1,4762.91,4520000,4,474.5
+1000,CSN-11000,CIDCO N-2,Independent House,2,1,1962,0,0,Fully Furnished,Ready to Move,Basic,RCC,0,0,1.79,1.55,6.8,5.32,1.3,0.77,117.0,4378.19,8590000,3,981.0

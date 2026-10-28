@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local configuration and generated files
+.env
+.env.*
+.azure/
+.vscode/
+.streamlit/secrets.toml
+data/*.db
+data/*.db-*
+data/*.sqlite3
+models/*.pkl
+
+# Test and tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OS files
+.DS_Store
+Thumbs.db

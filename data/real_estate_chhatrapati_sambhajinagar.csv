@@ -1,0 +1,1601 @@
+locality,property_type,area_sq_ft,bedrooms,bathrooms,age_of_property_years,distance_from_city_center_km,floor_no,total_floors,parking,furnished,security,amenities_count,price_in_lakhs
+Aundh,Apartment,522,4,2,4,14.02,3,20,1,True,True,8,274.86
+MIDC,Flat,2138,2,2,25,16.28,6,15,1,True,False,5,152.1
+Jalna Road,Apartment,1890,4,3,25,2.24,15,19,1,False,True,4,253.07
+Kanchanwadi,Villa,1207,3,1,7,14.64,3,9,2,True,True,5,273.07
+Madhuban Colony,Flat,1513,3,3,2,11.86,6,19,1,True,True,8,285.17
+Madhuban Colony,Apartment,1358,4,3,12,6.05,7,20,2,True,True,6,317.3
+Aundh,Bungalow,1005,2,2,17,10.66,14,20,1,True,False,8,292.68
+Cidco N-6,Apartment,869,2,1,21,8.68,3,14,1,False,True,8,184.43
+CIDCO,Apartment,1512,4,2,9,8.89,15,15,2,False,True,8,333.9
+MIDC,Apartment,1642,4,2,6,4.1,6,19,2,False,False,5,251.57
+Shivaji Nagar,Villa,1679,2,2,18,17.6,3,17,2,False,True,2,241.48
+Waluj,Plot,1096,2,3,13,17.89,7,11,1,False,True,8,124.36
+Harsul,Flat,682,2,2,7,11.5,1,4,1,True,True,0,137.04
+Shivaji Nagar,Plot,1394,2,2,17,3.75,16,16,1,False,True,1,141.32
+Madhuban Colony,Bungalow,2103,3,3,21,12.61,4,4,1,True,False,3,273.96
+MIDC,Bungalow,994,3,2,7,16.37,3,16,2,False,True,8,315.19
+Shivaji Nagar,Flat,1101,2,2,27,8.32,2,7,1,False,True,7,150.51
+Garkhadi,Plot,2413,2,2,1,11.35,2,12,0,False,True,8,168.35
+MIDC,Apartment,1181,1,1,27,5.5,4,20,1,False,True,6,130.7
+Kanchanwadi,Plot,1715,5,2,22,6.84,9,14,1,False,True,1,150.53
+Kanchanwadi,Plot,829,1,2,8,3.75,12,12,2,True,True,8,174.96
+Kanchanwadi,Plot,452,3,2,21,3.26,5,10,0,True,True,4,99.9
+Harsul,Villa,1253,3,3,16,9.81,2,4,1,False,True,5,262.38
+Aundh,Villa,1081,4,2,13,11.04,4,4,2,False,True,0,266.81
+Kanchanwadi,Plot,1026,3,1,11,16.78,2,13,1,True,True,8,166.97
+Jalna Road,Plot,1053,5,2,5,18.1,6,15,0,False,True,6,173.42
+Samarth Nagar,Flat,1512,2,3,12,16.33,16,16,1,False,True,3,184.44
+Aundh,Flat,2052,2,3,24,6.25,13,19,1,True,False,4,221.67
+Panchakki,Apartment,864,3,2,25,6.83,4,14,2,True,True,6,196.7
+Rahatani,Plot,1227,2,1,21,17.15,11,11,1,True,True,6,97.11
+Garkhadi,Villa,941,2,3,12,13.01,6,20,1,False,True,4,201.89
+Cidco N-6,Plot,1739,3,2,6,10.19,6,6,1,False,True,1,180.38
+Cidco N-6,Flat,1691,2,2,0,2.29,16,16,1,False,True,6,284.43
+Harsul,Flat,442,4,3,28,3.31,14,14,1,False,True,0,136.03
+Rahatani,Apartment,2289,2,2,16,18.29,11,16,1,False,True,8,201.56
+N-6,Bungalow,2263,2,2,20,6.21,16,16,1,True,True,4,342.45
+Rahatani,Plot,750,2,2,22,4.1,7,7,1,True,True,0,69.54
+Jalna Road,Bungalow,500,4,3,12,9.61,12,12,1,False,False,6,255.26
+Garkhadi,Plot,1323,3,2,15,1.99,11,14,1,False,False,8,135.01
+Jalna Road,Plot,531,1,2,27,9.35,2,10,1,True,True,6,78.43
+Samarth Nagar,Bungalow,1453,4,2,23,10.67,12,12,1,False,True,0,256.48
+Harsul,Apartment,1044,2,2,3,11.09,7,16,1,False,True,1,175.02
+N-6,Villa,862,3,4,18,13.01,13,14,2,True,True,3,288.23
+Cidco N-6,Villa,915,4,2,1,7.4,14,14,0,False,True,6,341.08
+Shivaji Nagar,Bungalow,1903,3,3,22,4.1,6,18,2,True,False,8,438.49
+Waluj,Bungalow,1519,2,2,2,6.24,15,15,1,False,True,5,260.38
+Samarth Nagar,Villa,1164,3,2,8,7.29,9,19,0,False,True,6,287.42
+Cidco N-6,Flat,2370,3,2,25,1.79,10,10,1,True,True,5,276.14
+MIDC,Villa,2162,5,2,11,13.45,9,11,1,True,True,1,323.14
+Cidco N-6,Flat,1204,2,2,23,11.52,10,10,2,True,True,4,178.61
+MIDC,Flat,1543,1,1,9,13.36,5,17,0,True,True,7,160.05
+N-6,Apartment,1454,5,2,26,2.61,16,16,1,False,True,4,228.77
+Harsul,Apartment,2124,3,3,7,14.69,13,16,2,True,True,6,303.33
+Kanchanwadi,Apartment,826,5,2,6,6.0,3,7,1,False,True,6,235.35
+Kanchanwadi,Bungalow,1612,1,2,9,13.45,15,15,1,False,False,3,207.41
+MIDC,Flat,1030,4,3,2,2.51,10,20,2,False,True,4,263.15
+Panchakki,Plot,2442,3,2,28,8.84,11,11,0,True,True,0,158.04
+Aundh,Villa,584,4,1,16,12.58,9,9,2,False,False,1,179.43
+Jalna Road,Villa,1735,3,3,10,8.5,16,16,1,True,False,0,266.59
+Madhuban Colony,Villa,1744,1,3,27,10.25,1,19,1,True,True,7,278.27
+Cidco N-6,Apartment,1253,2,1,9,8.95,16,16,0,False,False,2,128.78
+CIDCO,Plot,2091,1,4,3,9.34,4,6,1,False,True,4,203.74
+Waluj,Bungalow,1418,3,1,6,17.17,5,5,1,False,True,8,238.16
+CIDCO,Villa,1642,4,2,21,9.82,5,16,1,True,True,8,386.84
+Rahatani,Villa,1192,5,2,12,5.47,14,14,1,False,False,6,265.72
+Aundh,Flat,2448,5,1,18,7.14,4,16,0,False,True,2,252.66
+Aundh,Flat,726,3,4,10,12.1,13,13,2,False,False,6,246.77
+Aundh,Bungalow,567,3,2,21,17.16,8,8,1,True,True,1,172.44
+Garkhadi,Villa,538,1,3,9,7.59,14,14,1,True,True,2,166.18
+Shivaji Nagar,Plot,1986,3,2,18,3.93,15,15,1,False,False,7,205.03
+Aundh,Plot,1067,1,4,18,6.59,14,14,1,True,False,7,149.77
+Jalna Road,Plot,1890,3,4,9,1.87,13,13,0,False,False,0,166.6
+Garkhadi,Bungalow,1592,4,2,25,7.49,7,10,1,False,True,2,234.5
+Rahatani,Apartment,1685,4,1,11,13.95,3,11,1,True,True,8,233.87
+Madhuban Colony,Plot,2475,4,3,8,17.04,16,16,1,True,True,1,207.25
+Harsul,Bungalow,1918,1,2,8,10.62,15,15,1,False,True,5,279.91
+Harsul,Bungalow,522,3,4,10,17.06,8,8,1,False,True,6,252.55
+CIDCO,Apartment,1666,5,1,7,16.58,5,14,1,False,True,8,300.74
+Garkhadi,Flat,2119,3,3,19,8.44,9,9,1,True,True,3,218.86
+Shivaji Nagar,Villa,1889,1,2,3,17.63,15,15,1,False,True,0,221.6
+Madhuban Colony,Flat,935,4,2,26,14.51,7,20,1,False,True,2,160.4
+Kanchanwadi,Apartment,1555,4,1,4,10.68,6,6,1,True,True,3,228.24
+CIDCO,Flat,1506,1,3,16,3.43,3,17,1,True,True,7,256.33
+Kanchanwadi,Apartment,2555,2,3,0,2.53,16,16,1,True,True,7,321.48
+Shivaji Nagar,Villa,1027,1,2,20,11.45,11,14,2,False,True,6,214.64
+Garkhadi,Apartment,1300,3,4,13,7.26,15,15,1,True,True,4,216.43
+N-6,Bungalow,694,1,1,13,3.14,12,12,1,False,True,5,199.87
+Jalna Road,Villa,2152,4,3,9,11.71,12,12,1,True,True,3,367.72
+Madhuban Colony,Plot,1925,1,2,7,15.22,1,10,0,True,False,5,127.34
+N-6,Flat,2061,1,3,0,3.06,7,14,1,True,True,5,294.07
+Kanchanwadi,Plot,767,4,1,24,12.0,3,10,1,False,True,6,110.76
+Cidco N-6,Plot,886,2,1,21,13.03,16,18,1,True,True,0,80.78
+Panchakki,Flat,982,4,2,3,1.63,14,14,1,False,True,8,283.55
+Cidco N-6,Villa,715,2,3,13,1.82,3,12,1,False,True,6,275.57
+Jalna Road,Apartment,1750,2,4,14,15.64,12,12,1,True,True,6,233.99
+Jalna Road,Villa,1810,2,3,2,10.18,4,18,1,False,True,2,286.97
+N-6,Villa,1228,2,1,24,12.64,6,17,1,False,True,5,204.83
+Aundh,Villa,1038,3,2,20,6.65,9,20,0,False,True,7,254.65
+Madhuban Colony,Villa,734,3,4,2,11.96,13,16,1,False,True,0,255.95
+Cidco N-6,Plot,1191,2,2,4,17.78,15,15,2,False,False,1,136.82
+N-6,Apartment,1434,3,4,16,10.39,6,13,1,True,True,5,265.2
+CIDCO,Villa,689,2,2,12,6.33,5,12,0,False,False,4,183.45
+Garkhadi,Bungalow,948,3,4,9,11.0,11,11,1,False,True,8,289.7
+Aundh,Bungalow,2502,2,2,5,17.67,11,17,1,False,True,4,389.33
+Shivaji Nagar,Plot,2576,1,2,24,12.01,13,13,1,False,False,2,133.94
+CIDCO,Bungalow,1912,3,2,14,11.88,15,15,1,True,False,7,395.86
+Harsul,Villa,2224,3,2,12,10.05,14,14,2,False,True,4,332.16
+Waluj,Villa,840,3,2,3,6.35,6,10,1,False,False,1,188.0
+Harsul,Bungalow,1851,5,2,12,10.03,8,14,2,True,True,1,400.98
+Aundh,Villa,1018,2,2,26,9.53,5,17,1,True,True,4,215.3
+N-6,Plot,2581,3,3,7,6.62,2,9,1,False,True,1,223.02
+Waluj,Plot,487,3,2,22,3.94,14,14,1,True,True,1,93.85
+Madhuban Colony,Apartment,2574,3,3,16,10.92,13,17,0,True,True,0,231.49
+Shivaji Nagar,Villa,1407,3,3,24,11.39,11,11,0,False,False,2,191.08
+Aundh,Bungalow,2380,3,3,2,13.67,15,15,1,True,True,0,414.0
+Panchakki,Plot,2051,5,2,8,2.12,7,11,1,False,False,5,216.7
+Cidco N-6,Villa,2209,4,3,28,17.76,11,11,1,False,False,8,331.81
+Shivaji Nagar,Bungalow,743,3,4,5,10.77,11,11,0,False,True,6,302.83
+Waluj,Villa,2251,1,3,11,11.95,14,14,1,False,True,6,257.01
+Cidco N-6,Flat,547,2,3,25,8.95,5,5,1,False,True,0,97.08
+Aundh,Bungalow,1939,2,3,18,3.84,12,14,1,True,False,0,301.79
+Waluj,Plot,2005,4,1,24,5.92,15,15,2,True,False,7,158.87
+N-6,Apartment,2271,2,3,2,15.28,11,13,1,False,True,4,276.73
+Garkhadi,Flat,1900,3,1,6,14.97,8,17,0,False,True,8,189.72
+Rahatani,Apartment,689,2,4,23,9.64,14,15,2,True,False,1,129.77
+Aundh,Plot,1831,2,3,17,12.38,6,6,1,False,True,1,143.42
+Panchakki,Flat,1083,2,3,11,17.61,10,10,1,False,True,2,156.53
+Kanchanwadi,Plot,802,3,1,18,4.12,11,20,0,False,True,4,116.45
+Cidco N-6,Plot,2126,3,1,28,12.16,10,11,1,False,True,4,151.16
+Garkhadi,Apartment,1067,3,2,6,7.28,5,12,2,True,False,5,216.05
+N-6,Villa,2529,3,2,14,3.58,15,15,1,True,False,6,379.18
+Samarth Nagar,Flat,1761,5,3,6,14.47,16,18,1,False,True,1,283.23
+MIDC,Bungalow,1406,2,2,1,6.28,16,16,1,False,True,4,291.14
+Cidco N-6,Bungalow,1918,1,1,17,4.81,10,10,1,False,True,1,216.53
+Shivaji Nagar,Bungalow,1948,4,2,11,14.33,7,18,1,True,True,5,422.82
+MIDC,Bungalow,1030,3,2,10,17.33,11,11,1,False,False,5,205.86
+MIDC,Plot,2426,3,2,26,1.78,11,11,2,False,False,0,145.19
+Panchakki,Plot,1352,3,2,5,10.41,13,13,2,True,True,1,173.13
+Waluj,Villa,2135,2,3,13,10.03,16,16,1,False,True,7,287.82
+Madhuban Colony,Flat,2302,4,2,11,12.99,9,17,1,True,True,3,285.48
+Panchakki,Villa,1269,3,2,15,7.43,9,11,1,False,True,6,288.99
+Cidco N-6,Flat,1609,1,4,2,7.39,15,15,1,True,False,4,267.44
+Garkhadi,Villa,982,1,3,7,5.62,8,9,0,True,True,1,174.6
+N-6,Apartment,1066,2,4,28,9.59,7,11,1,False,False,1,125.82
+Harsul,Plot,572,4,1,28,15.74,2,14,1,True,True,4,115.92
+CIDCO,Villa,859,5,2,14,18.31,16,16,2,False,True,1,286.5
+Garkhadi,Bungalow,1473,3,1,10,14.94,7,7,1,False,True,6,238.77
+Shivaji Nagar,Bungalow,810,2,1,10,17.41,1,10,1,False,True,5,194.12
+Garkhadi,Plot,466,2,2,7,2.56,4,16,1,True,True,4,131.96
+Aundh,Villa,1925,3,2,4,9.63,15,15,1,False,True,8,414.59
+Samarth Nagar,Flat,1433,3,2,25,2.89,15,18,1,True,True,0,195.02
+Rahatani,Plot,1248,3,1,10,16.03,15,15,1,False,True,8,135.91
+CIDCO,Bungalow,960,3,2,1,11.0,10,10,1,False,True,1,268.88
+Madhuban Colony,Apartment,666,5,1,15,2.04,14,14,1,False,False,6,193.26
+Rahatani,Bungalow,2257,4,4,12,2.86,5,13,0,False,True,2,337.46
+Harsul,Apartment,513,5,2,23,10.76,13,13,1,True,True,1,149.68
+Aundh,Bungalow,484,2,1,19,2.07,2,9,1,True,True,3,200.65
+Cidco N-6,Apartment,993,3,2,26,17.08,11,20,1,False,True,4,175.89
+Aundh,Plot,1325,2,2,17,17.62,6,15,1,True,True,6,166.97
+Madhuban Colony,Bungalow,2092,2,2,24,10.64,8,9,1,False,False,0,187.57
+Jalna Road,Plot,2590,2,2,6,7.11,3,16,2,True,True,3,202.58
+Jalna Road,Plot,581,4,2,24,11.49,7,17,1,False,True,0,86.18
+Harsul,Apartment,2381,4,3,22,4.98,8,19,1,True,True,5,295.51
+Madhuban Colony,Plot,2456,3,3,23,9.48,11,11,1,True,True,3,199.26
+CIDCO,Villa,2130,2,2,7,7.96,8,17,1,False,True,7,403.9
+Aundh,Bungalow,2307,2,3,5,3.88,16,16,2,False,True,0,412.31
+Samarth Nagar,Apartment,618,4,2,26,12.22,3,6,0,False,True,7,148.32
+CIDCO,Apartment,2599,3,1,16,13.78,10,10,1,False,True,2,223.04
+Shivaji Nagar,Plot,1029,2,3,8,15.36,9,14,0,False,True,3,141.19
+Harsul,Villa,750,3,3,24,2.04,13,14,1,False,True,2,196.45
+Samarth Nagar,Bungalow,1776,3,3,3,16.71,2,9,1,False,False,7,347.02
+Rahatani,Apartment,1568,4,2,1,4.55,11,11,2,False,False,6,253.49
+Panchakki,Flat,1404,3,3,21,16.74,11,14,1,True,False,1,161.46
+Madhuban Colony,Apartment,820,3,3,10,11.79,13,13,0,True,False,7,182.32
+MIDC,Bungalow,2188,2,2,12,2.96,10,10,1,True,True,2,303.85
+Madhuban Colony,Villa,856,1,4,14,7.62,9,9,1,True,True,8,274.0
+Shivaji Nagar,Apartment,787,2,1,19,14.84,13,13,1,True,True,8,182.12
+Harsul,Plot,2554,2,2,4,6.07,9,17,1,True,True,4,219.25
+Shivaji Nagar,Villa,1450,5,3,15,11.59,7,16,0,True,False,5,343.94
+Jalna Road,Villa,2223,2,3,27,12.57,5,11,1,False,True,5,244.42
+Jalna Road,Villa,1613,3,3,18,14.79,11,14,1,False,True,3,252.61
+MIDC,Flat,530,5,2,22,5.06,10,10,2,False,True,7,188.3
+Panchakki,Flat,1454,3,3,25,7.91,15,17,1,False,False,6,199.3
+Cidco N-6,Villa,768,1,2,21,7.54,2,20,2,False,True,5,242.93
+Jalna Road,Apartment,463,1,2,23,10.32,8,16,1,False,True,8,111.47
+CIDCO,Bungalow,848,2,4,2,3.47,5,13,1,False,True,7,385.45
+Shivaji Nagar,Bungalow,2273,2,2,25,13.58,1,12,1,False,True,3,269.93
+MIDC,Flat,1775,3,4,7,15.06,6,7,1,False,True,3,208.56
+Jalna Road,Bungalow,438,3,2,24,13.46,3,20,0,False,True,5,152.05
+Shivaji Nagar,Villa,2424,3,3,19,8.11,13,20,0,True,True,2,355.64
+Garkhadi,Villa,767,3,2,7,6.69,6,13,1,False,True,2,205.43
+Jalna Road,Flat,2413,3,3,20,17.32,6,19,1,True,True,7,267.49
+Samarth Nagar,Villa,459,3,2,12,17.89,16,16,1,True,False,7,217.29
+Kanchanwadi,Apartment,1323,2,2,17,6.41,15,20,1,False,True,1,163.3
+Panchakki,Plot,1922,3,3,24,13.72,7,15,0,False,False,4,147.23
+CIDCO,Bungalow,1496,2,3,14,16.21,4,9,1,False,True,6,299.27
+N-6,Flat,1267,4,2,17,6.28,6,12,2,True,True,8,298.21
+Aundh,Apartment,975,5,3,1,18.37,5,6,1,False,False,6,251.73
+Kanchanwadi,Villa,2116,2,1,25,16.46,3,14,1,True,False,5,213.04
+Waluj,Villa,430,4,3,2,13.93,15,15,2,False,True,6,281.3
+Waluj,Villa,1742,4,2,18,3.72,16,16,2,False,True,7,300.67
+Rahatani,Flat,2227,3,4,13,4.94,5,11,1,False,True,5,232.61
+Madhuban Colony,Flat,632,2,2,22,14.34,14,14,1,True,True,2,118.3
+MIDC,Bungalow,458,1,2,3,18.3,14,14,1,True,True,1,140.58
+Madhuban Colony,Villa,981,2,3,27,3.76,5,5,1,True,True,7,233.68
+Harsul,Flat,2106,3,2,6,2.97,4,6,1,False,True,6,255.51
+N-6,Flat,1554,3,2,19,11.7,10,10,2,False,True,8,245.88
+Harsul,Bungalow,1630,3,3,25,17.73,16,16,0,False,True,8,288.76
+CIDCO,Villa,1716,2,3,18,8.65,6,17,2,False,True,1,290.77
+Harsul,Apartment,667,5,2,9,12.19,14,15,1,True,True,2,204.94
+Panchakki,Apartment,2514,5,4,4,10.62,13,20,1,False,True,1,335.53
+Jalna Road,Flat,657,2,4,3,9.21,2,11,1,False,True,0,163.12
+Garkhadi,Apartment,1091,3,2,16,14.81,9,9,1,False,False,1,115.18
+CIDCO,Villa,2178,2,1,22,18.08,3,17,1,True,True,2,253.63
+Panchakki,Apartment,892,2,2,1,16.1,1,9,0,True,False,2,145.13
+Samarth Nagar,Apartment,2137,2,2,23,6.94,3,20,1,False,False,2,174.66
+MIDC,Apartment,2062,1,2,9,14.65,10,12,0,False,True,4,158.68
+Panchakki,Plot,1413,3,2,15,18.46,7,19,1,True,True,6,160.76
+MIDC,Villa,459,5,1,21,7.9,10,10,1,False,True,0,168.25
+N-6,Villa,801,1,2,27,10.34,12,16,2,True,True,2,176.97
+Jalna Road,Apartment,675,3,4,7,6.46,11,14,1,False,True,4,200.34
+Harsul,Flat,866,2,1,14,6.84,4,19,1,False,True,7,164.72
+Shivaji Nagar,Apartment,1065,4,2,22,13.35,2,8,2,True,True,3,224.11
+Jalna Road,Plot,620,3,2,5,2.03,13,16,1,False,True,1,141.45
+N-6,Apartment,468,1,3,7,3.72,13,13,1,False,True,4,178.49
+Shivaji Nagar,Apartment,684,2,3,25,3.69,11,11,0,False,True,6,155.89
+Jalna Road,Bungalow,540,2,2,11,5.15,6,10,1,False,True,3,194.77
+Waluj,Bungalow,2382,1,2,4,8.63,8,19,1,False,False,5,274.08
+Cidco N-6,Bungalow,1829,4,2,12,6.1,1,12,1,True,False,4,373.34
+Waluj,Plot,1884,4,4,5,3.2,8,10,1,False,True,3,191.93
+Cidco N-6,Bungalow,1873,5,4,5,4.49,11,13,2,True,True,2,542.48
+Harsul,Bungalow,1685,2,1,1,5.45,8,8,1,True,False,3,286.86
+Madhuban Colony,Flat,1745,1,1,22,17.09,4,18,2,False,True,6,171.76
+Madhuban Colony,Villa,1741,2,1,13,14.96,16,16,1,False,True,5,236.0
+Kanchanwadi,Flat,1969,2,3,4,4.52,1,20,1,False,False,0,200.09
+Madhuban Colony,Plot,1324,3,1,15,3.89,3,9,1,True,True,1,145.75
+Aundh,Villa,2249,1,2,22,2.65,9,9,1,True,True,6,331.96
+Rahatani,Bungalow,2439,4,2,12,3.22,16,20,1,False,True,1,342.26
+CIDCO,Villa,502,2,4,2,7.31,13,13,1,False,False,1,227.19
+Kanchanwadi,Bungalow,546,3,3,19,16.63,6,6,0,True,True,8,230.96
+Garkhadi,Plot,1506,3,2,3,2.34,16,16,0,True,True,7,171.77
+CIDCO,Flat,1119,3,4,15,15.84,10,14,1,False,True,8,252.78
+Madhuban Colony,Bungalow,1933,2,1,14,9.41,8,10,1,True,True,1,241.11
+Madhuban Colony,Plot,2115,5,2,17,2.54,13,18,1,False,False,7,225.2
+Harsul,Bungalow,1644,1,4,22,2.09,5,5,2,False,False,2,253.38
+Cidco N-6,Flat,936,1,1,21,8.9,5,10,1,False,False,1,63.54
+Jalna Road,Plot,1755,4,2,27,1.71,14,14,1,True,True,1,171.02
+Kanchanwadi,Apartment,1591,4,4,28,8.49,13,17,1,False,True,6,233.03
+Kanchanwadi,Bungalow,578,2,3,22,5.54,16,16,2,True,False,4,224.31
+Samarth Nagar,Bungalow,822,5,2,9,18.06,15,15,1,True,True,3,316.48
+Rahatani,Bungalow,2404,4,3,26,2.46,6,6,1,False,True,8,359.01
+CIDCO,Flat,1209,4,2,1,5.74,15,15,2,False,True,7,323.01
+Aundh,Apartment,545,2,2,14,4.52,16,20,1,True,False,4,178.55
+Garkhadi,Apartment,1587,1,1,27,11.23,7,9,1,False,True,6,114.54
+Samarth Nagar,Apartment,2361,4,3,19,15.11,8,10,1,False,True,4,259.81
+Jalna Road,Villa,2300,2,2,21,10.35,13,20,0,False,True,5,257.5
+Kanchanwadi,Plot,1577,2,1,2,7.22,9,12,2,True,True,4,172.86
+MIDC,Flat,652,4,3,19,8.37,11,11,1,False,False,4,159.68
+Jalna Road,Bungalow,564,3,4,26,4.73,8,19,1,False,False,5,225.86
+Samarth Nagar,Flat,1161,2,2,23,5.9,6,12,1,True,True,4,169.41
+Rahatani,Villa,1942,2,2,27,3.5,2,20,1,False,True,3,216.05
+Samarth Nagar,Bungalow,2590,2,1,27,4.06,7,12,1,False,False,7,288.02
+Samarth Nagar,Flat,751,3,3,5,6.83,2,2,1,True,False,2,176.36
+Cidco N-6,Apartment,950,3,3,12,8.79,16,16,0,False,True,0,182.08
+Cidco N-6,Plot,1200,1,1,23,5.73,12,12,1,True,True,2,91.51
+CIDCO,Villa,1611,3,2,16,7.24,5,12,2,False,False,2,299.23
+Rahatani,Bungalow,498,2,3,4,5.09,1,20,1,True,True,0,215.86
+Aundh,Villa,619,3,1,3,12.61,1,3,1,True,True,8,275.57
+Garkhadi,Flat,1261,3,3,9,8.65,4,18,1,False,True,1,178.65
+Kanchanwadi,Apartment,1577,1,1,6,11.85,9,18,2,True,True,2,180.75
+Waluj,Flat,2388,2,1,21,3.01,4,20,1,True,True,8,206.83
+Garkhadi,Apartment,1468,3,2,9,5.99,2,5,2,False,False,5,199.83
+Madhuban Colony,Bungalow,894,1,3,1,1.66,5,7,1,False,False,4,248.6
+Shivaji Nagar,Villa,1823,2,2,14,6.12,13,17,1,False,False,1,229.42
+Garkhadi,Apartment,1072,1,4,15,15.14,15,15,1,False,True,2,131.63
+Waluj,Apartment,2104,3,1,20,6.84,8,12,1,False,True,6,192.39
+Harsul,Bungalow,1836,3,3,4,15.76,2,2,1,True,False,7,359.08
+Shivaji Nagar,Bungalow,1733,2,4,1,10.12,13,14,2,True,True,7,464.52
+Waluj,Bungalow,1714,1,2,20,1.8,13,15,0,False,False,4,177.98
+MIDC,Flat,2288,5,2,1,15.38,15,15,1,False,True,5,282.77
+Shivaji Nagar,Apartment,1328,1,2,20,17.9,10,19,1,False,True,2,129.34
+Samarth Nagar,Bungalow,858,2,2,3,17.31,13,13,1,False,True,1,215.57
+CIDCO,Plot,924,4,2,21,11.52,5,17,0,False,True,6,162.56
+Waluj,Plot,1145,3,1,26,3.68,13,13,1,True,False,3,87.58
+Madhuban Colony,Villa,2274,4,1,19,13.4,10,19,2,False,False,3,293.57
+Kanchanwadi,Villa,1834,5,1,22,12.55,6,18,1,False,True,5,305.19
+Kanchanwadi,Plot,2129,3,4,17,6.36,14,14,1,True,True,0,180.74
+Cidco N-6,Flat,1593,3,1,1,13.24,10,10,1,True,False,1,206.98
+Aundh,Plot,1338,4,2,7,10.19,10,10,2,True,False,5,224.81
+CIDCO,Apartment,1449,2,3,27,16.29,8,13,1,False,True,3,157.68
+N-6,Apartment,1185,5,3,3,7.91,14,14,1,True,True,4,288.05
+Waluj,Flat,583,2,2,1,14.65,10,17,1,False,True,5,145.83
+N-6,Plot,699,4,1,17,10.63,3,13,1,True,True,5,142.45
+Cidco N-6,Plot,2592,3,2,24,18.18,1,5,1,False,False,3,165.35
+Aundh,Villa,1982,4,4,12,5.86,10,10,2,False,True,8,480.36
+CIDCO,Villa,1208,2,1,3,4.35,1,4,1,False,True,6,293.73
+Harsul,Plot,2202,3,4,23,13.16,1,16,1,True,True,2,196.19
+MIDC,Apartment,1352,4,2,14,12.21,14,14,0,False,True,1,161.96
+Kanchanwadi,Apartment,717,2,2,9,14.88,10,10,1,False,True,0,111.05
+MIDC,Flat,978,4,3,27,10.78,5,11,1,False,False,5,160.94
+CIDCO,Plot,999,2,1,19,8.2,3,11,1,False,True,3,106.29
+Aundh,Plot,1003,2,2,26,5.8,4,7,1,False,True,8,133.9
+MIDC,Apartment,1610,3,2,6,13.84,16,16,1,False,True,4,207.56
+Rahatani,Flat,1721,3,2,21,6.7,5,20,1,False,False,2,137.91
+Harsul,Flat,2206,2,2,21,13.96,16,16,1,False,True,1,161.61
+Kanchanwadi,Apartment,1569,4,1,17,4.84,3,4,2,False,True,6,238.42
+Harsul,Apartment,1487,3,4,15,12.62,5,13,1,False,True,4,212.22
+MIDC,Plot,790,2,2,21,5.56,6,18,1,True,True,2,113.11
+Waluj,Villa,585,2,2,2,5.99,8,8,1,False,False,6,180.08
+Waluj,Apartment,583,5,2,22,17.96,9,10,1,False,True,6,142.34
+Aundh,Apartment,2536,2,4,7,10.28,12,13,1,False,True,8,350.43
+Waluj,Flat,1362,1,3,6,4.05,6,13,1,False,True,6,189.72
+Garkhadi,Apartment,2392,3,2,18,4.24,14,14,1,True,True,2,224.16
+CIDCO,Plot,1021,1,2,5,10.28,13,20,1,False,True,4,163.33
+Harsul,Bungalow,2350,4,1,26,8.48,5,20,2,True,True,4,369.45
+Aundh,Villa,2277,3,1,12,8.05,4,4,1,False,True,6,347.92
+Kanchanwadi,Apartment,1146,3,3,1,16.42,4,4,1,True,True,0,199.52
+Cidco N-6,Bungalow,2558,3,3,22,10.51,8,17,1,True,True,1,390.06
+Panchakki,Bungalow,1372,4,1,19,16.41,14,14,1,False,False,8,263.52
+CIDCO,Bungalow,1261,3,2,11,3.31,14,20,1,False,True,5,368.67
+Aundh,Bungalow,1254,2,3,15,4.54,16,16,2,False,False,6,341.0
+Samarth Nagar,Apartment,1361,3,3,5,3.2,13,13,2,False,True,0,234.95
+Aundh,Apartment,793,4,2,19,8.9,3,10,1,True,True,6,237.11
+Jalna Road,Plot,2554,2,4,1,17.58,6,17,1,True,True,8,237.72
+CIDCO,Plot,2511,3,2,5,12.96,12,12,1,False,True,4,237.66
+Madhuban Colony,Bungalow,2080,3,2,23,13.46,3,19,1,False,False,5,279.46
+Samarth Nagar,Villa,1346,3,2,12,11.27,9,9,1,True,True,4,278.88
+Shivaji Nagar,Plot,1475,4,3,18,5.75,15,15,1,False,False,7,203.45
+Rahatani,Plot,532,3,2,12,12.27,8,9,2,True,True,8,129.26
+Samarth Nagar,Villa,1436,2,2,23,15.46,3,19,2,False,True,4,234.88
+Garkhadi,Flat,2463,3,2,7,16.34,7,9,1,True,True,2,222.69
+Shivaji Nagar,Apartment,2437,3,3,17,17.79,16,16,1,False,False,4,241.48
+Cidco N-6,Plot,1567,2,3,4,2.42,14,17,2,True,True,2,228.09
+Shivaji Nagar,Plot,2304,2,1,21,5.08,4,12,1,False,True,4,155.53
+Waluj,Plot,1825,2,2,6,8.62,12,13,2,True,True,2,171.7
+Aundh,Flat,829,3,3,17,8.85,13,13,1,False,True,0,152.24
+Waluj,Flat,2537,3,2,15,6.6,2,14,0,True,True,4,209.59
+Aundh,Apartment,2262,4,2,11,11.03,9,13,0,True,False,3,257.43
+Aundh,Plot,1134,5,2,10,12.94,16,16,2,True,True,2,224.81
+Aundh,Villa,2147,3,2,27,16.92,3,7,1,True,True,4,286.46
+Jalna Road,Villa,2242,4,4,23,11.48,15,15,1,False,True,3,331.33
+Garkhadi,Apartment,1282,2,1,2,17.43,16,19,0,False,True,1,110.81
+Kanchanwadi,Flat,765,3,4,9,5.4,10,16,1,True,False,0,169.15
+Madhuban Colony,Villa,2370,3,3,8,10.83,5,19,1,False,True,6,392.76
+Aundh,Plot,1688,4,2,7,15.18,15,15,1,True,True,0,192.04
+Cidco N-6,Flat,1828,2,2,22,17.18,16,16,0,False,True,3,165.93
+MIDC,Villa,1192,2,2,12,5.75,13,14,1,True,True,8,282.12
+Rahatani,Plot,1533,2,3,25,6.07,7,7,1,True,True,7,133.34
+Kanchanwadi,Bungalow,1189,2,1,17,1.88,4,11,1,False,True,3,197.65
+CIDCO,Bungalow,1309,2,2,25,9.97,12,16,1,True,True,2,231.15
+Cidco N-6,Bungalow,712,3,2,28,15.81,13,13,1,False,True,7,217.08
+CIDCO,Flat,2307,3,1,21,18.2,16,16,1,True,True,0,211.59
+MIDC,Plot,920,2,3,6,7.63,2,8,2,True,True,0,125.04
+Panchakki,Plot,910,2,2,1,11.38,16,16,1,True,True,1,149.8
+Madhuban Colony,Apartment,664,2,1,17,14.95,5,17,1,False,False,5,115.99
+Waluj,Flat,507,3,2,4,5.76,2,17,1,False,True,7,169.18
+N-6,Plot,1844,2,2,27,15.63,6,6,1,False,False,8,124.09
+CIDCO,Plot,1972,3,4,19,16.07,8,12,1,False,True,6,202.8
+Aundh,Bungalow,1051,3,2,20,6.97,4,18,1,True,False,2,262.58
+Harsul,Apartment,2408,2,1,20,15.72,16,18,1,False,True,3,189.64
+Shivaji Nagar,Apartment,1274,3,4,26,2.86,2,13,1,False,True,5,238.29
+CIDCO,Plot,1508,3,3,26,6.67,7,18,0,False,True,3,143.66
+Aundh,Flat,1152,3,2,23,3.29,12,16,1,False,True,2,181.66
+MIDC,Villa,1067,3,2,11,16.84,11,13,1,False,False,5,199.35
+Kanchanwadi,Plot,1296,2,2,23,5.82,15,16,2,True,True,4,155.89
+MIDC,Flat,1656,1,4,6,16.05,1,10,2,False,True,2,174.69
+Waluj,Villa,1059,2,2,18,5.75,9,11,0,True,False,1,130.75
+Cidco N-6,Bungalow,1128,3,4,22,11.3,4,11,0,False,True,0,232.3
+Madhuban Colony,Villa,2198,2,3,27,14.6,1,14,0,False,True,2,204.25
+Garkhadi,Flat,1047,1,3,12,18.01,3,9,1,False,True,5,115.57
+Kanchanwadi,Apartment,2055,2,2,13,14.66,5,6,1,True,True,3,199.61
+Garkhadi,Plot,1428,2,2,13,7.0,3,5,1,False,True,5,119.86
+Aundh,Apartment,1668,2,2,26,18.33,15,15,1,False,True,5,162.85
+Garkhadi,Apartment,880,3,2,19,17.25,10,10,1,False,True,7,131.21
+Harsul,Plot,1287,2,2,8,10.83,5,5,1,False,True,4,122.73
+Panchakki,Flat,1531,1,3,0,2.63,9,13,2,True,False,6,254.69
+Jalna Road,Plot,827,4,2,19,10.54,6,8,1,False,False,0,75.0
+Rahatani,Plot,1668,2,2,5,1.81,12,13,1,True,False,8,162.76
+CIDCO,Villa,2005,4,3,0,17.55,9,9,1,False,True,1,378.5
+MIDC,Plot,1351,2,2,13,18.0,11,16,1,True,True,8,155.61
+Harsul,Flat,1685,3,4,4,8.81,5,20,2,True,True,1,275.46
+Samarth Nagar,Flat,540,4,4,13,17.84,10,16,1,False,True,4,191.4
+Harsul,Apartment,958,2,3,19,11.99,8,9,1,True,True,7,176.72
+Samarth Nagar,Plot,2340,3,2,27,8.09,16,16,1,True,True,0,178.74
+Jalna Road,Flat,1250,4,1,14,16.24,16,16,2,False,True,0,170.46
+Samarth Nagar,Bungalow,1701,2,4,18,11.59,2,18,0,False,False,3,252.25
+Jalna Road,Apartment,2006,3,3,1,4.73,15,15,2,False,True,2,276.09
+Kanchanwadi,Apartment,2537,4,2,20,9.18,4,7,1,False,True,2,227.82
+Madhuban Colony,Bungalow,522,2,2,22,16.73,15,15,1,False,False,2,109.72
+Shivaji Nagar,Apartment,887,3,3,2,10.4,13,18,1,True,True,0,232.15
+Rahatani,Villa,1034,2,1,24,13.6,14,14,1,False,True,2,104.4
+N-6,Flat,434,3,2,14,9.96,16,19,2,False,True,3,181.8
+Waluj,Bungalow,2099,3,3,0,5.66,9,19,2,True,True,0,366.58
+CIDCO,Flat,552,3,3,9,7.13,3,3,0,False,True,4,172.01
+Garkhadi,Plot,1146,5,3,11,17.34,3,11,1,False,False,6,162.88
+Shivaji Nagar,Villa,2348,2,3,8,7.1,14,18,1,True,True,8,455.5
+Waluj,Plot,1596,3,3,8,10.43,12,12,1,False,True,7,166.39
+N-6,Plot,1373,3,4,0,3.51,15,15,1,True,True,6,244.35
+Madhuban Colony,Villa,1289,1,2,9,5.83,3,11,1,False,False,1,175.3
+Madhuban Colony,Bungalow,539,4,2,26,7.24,16,17,1,False,True,7,268.77
+MIDC,Villa,2314,4,2,23,2.45,10,20,1,True,True,3,330.67
+Madhuban Colony,Villa,691,5,2,0,7.27,13,19,2,False,True,1,338.43
+Cidco N-6,Villa,1708,3,2,2,9.95,8,13,1,False,True,4,344.4
+Madhuban Colony,Apartment,1247,4,2,0,15.08,5,8,1,False,False,4,214.58
+N-6,Apartment,2534,3,1,23,2.12,13,18,0,True,True,1,218.36
+Rahatani,Apartment,842,3,3,9,1.88,10,10,1,True,True,5,208.45
+Aundh,Apartment,1536,2,2,0,17.79,4,8,1,False,True,4,216.13
+N-6,Apartment,1695,3,2,14,2.36,1,17,2,True,True,1,257.18
+N-6,Plot,2246,3,2,26,4.87,3,16,1,True,False,7,185.2
+Panchakki,Bungalow,2347,2,2,27,16.73,9,13,1,False,True,5,272.33
+CIDCO,Apartment,2366,1,2,27,4.4,12,20,1,True,False,1,187.72
+Aundh,Apartment,1657,3,2,13,5.56,8,19,1,False,True,3,254.25
+Kanchanwadi,Bungalow,2203,3,2,22,5.51,3,20,2,True,True,5,393.2
+Samarth Nagar,Bungalow,1141,2,2,19,3.35,13,13,1,False,True,2,234.75
+Rahatani,Apartment,1020,3,2,9,8.13,15,15,1,False,True,4,183.68
+Rahatani,Bungalow,1830,5,2,19,18.27,13,13,2,True,False,0,248.63
+MIDC,Villa,869,4,3,7,8.84,13,13,1,True,True,3,284.71
+Waluj,Flat,1190,3,3,11,15.78,5,11,2,False,True,1,164.72
+N-6,Bungalow,2208,5,1,4,12.42,14,16,2,False,False,2,399.52
+Jalna Road,Plot,2263,2,2,13,11.78,16,16,1,True,False,5,154.05
+CIDCO,Plot,2399,3,1,15,17.85,3,6,1,False,False,4,157.49
+Shivaji Nagar,Plot,782,2,3,21,17.83,3,19,1,True,True,5,137.44
+CIDCO,Bungalow,2279,3,2,23,7.14,12,12,1,True,False,4,355.9
+Kanchanwadi,Villa,671,3,2,18,2.38,10,10,1,True,True,4,224.65
+Kanchanwadi,Villa,1547,4,1,3,11.76,5,16,1,True,False,3,292.17
+Cidco N-6,Plot,555,2,1,4,11.62,5,17,1,True,True,7,168.53
+N-6,Flat,1833,1,2,26,3.47,6,16,1,True,True,8,213.75
+Aundh,Bungalow,2363,2,2,13,1.7,15,15,1,False,True,0,323.38
+MIDC,Villa,2188,3,3,8,7.19,9,9,1,False,True,3,313.95
+Kanchanwadi,Flat,2549,2,3,5,6.83,1,2,2,True,True,1,268.49
+Madhuban Colony,Flat,1580,2,1,19,3.06,7,7,1,True,False,2,140.19
+Cidco N-6,Plot,1176,4,3,8,6.51,3,16,2,True,True,5,241.93
+Cidco N-6,Apartment,1555,4,2,10,18.43,9,10,1,True,False,3,228.85
+N-6,Bungalow,864,2,3,6,11.94,4,16,1,True,True,4,310.29
+CIDCO,Bungalow,1029,3,1,1,12.8,9,9,1,False,True,8,345.84
+Cidco N-6,Bungalow,2378,3,3,24,15.31,3,19,1,True,True,7,421.41
+MIDC,Villa,1785,3,2,20,18.45,3,13,1,False,True,7,257.28
+Panchakki,Flat,1143,3,4,21,4.75,13,13,1,True,True,7,257.42
+N-6,Apartment,1210,1,4,7,9.82,3,19,1,False,False,7,234.28
+CIDCO,Apartment,1809,1,3,1,8.39,7,18,1,False,False,2,233.82
+Harsul,Apartment,571,3,2,0,9.51,2,9,1,True,True,0,182.71
+Samarth Nagar,Apartment,2288,3,3,2,15.4,4,5,1,False,True,3,261.1
+Cidco N-6,Bungalow,1748,2,3,17,3.83,7,7,1,True,True,2,333.14
+N-6,Villa,1095,3,4,1,3.77,13,13,0,False,True,2,317.44
+Garkhadi,Plot,1582,2,3,24,9.59,5,8,1,True,True,3,135.92
+Kanchanwadi,Apartment,1157,3,3,2,12.16,10,13,1,False,True,8,265.44
+Kanchanwadi,Villa,2498,2,3,21,5.04,2,8,0,True,False,7,298.51
+N-6,Apartment,641,3,2,13,5.77,15,15,0,True,True,2,172.17
+Waluj,Plot,895,1,2,14,11.58,11,15,1,False,True,1,69.2
+Shivaji Nagar,Flat,2109,4,2,7,2.75,16,16,2,True,False,7,331.96
+Madhuban Colony,Flat,2294,3,3,8,4.94,5,5,1,True,True,7,299.06
+N-6,Villa,1320,4,3,25,15.01,6,20,2,False,True,8,351.25
+Harsul,Plot,2359,4,2,23,8.78,8,9,1,False,False,2,168.5
+Rahatani,Apartment,2131,5,1,15,13.97,2,15,1,False,False,1,178.22
+Harsul,Apartment,470,3,2,6,3.76,10,10,1,True,True,4,183.87
+Waluj,Plot,519,5,2,4,16.36,13,13,1,True,True,0,135.66
+Shivaji Nagar,Bungalow,1783,3,2,24,6.09,7,7,1,True,False,8,341.49
+Aundh,Villa,631,1,2,19,2.19,12,12,1,False,True,3,156.63
+Madhuban Colony,Flat,885,3,3,24,11.36,7,9,1,False,True,6,161.15
+Shivaji Nagar,Villa,1834,3,2,26,3.59,10,16,1,False,False,1,223.76
+Rahatani,Bungalow,777,1,4,9,17.79,3,5,1,True,True,2,186.74
+MIDC,Apartment,1620,2,3,4,9.56,14,16,1,True,True,0,210.82
+Harsul,Plot,1795,2,2,20,14.88,16,20,1,False,True,7,153.24
+N-6,Villa,1123,4,2,11,18.0,2,6,1,False,True,2,239.95
+Panchakki,Flat,1138,4,3,21,15.01,6,9,0,False,True,7,184.1
+N-6,Flat,562,3,4,4,7.84,6,19,1,False,True,7,262.62
+Waluj,Villa,1059,1,3,16,7.13,10,17,2,False,False,2,176.89
+Garkhadi,Bungalow,1807,3,3,28,2.18,4,11,0,False,True,5,234.62
+CIDCO,Plot,1219,3,2,24,6.22,1,4,1,False,True,1,132.35
+Jalna Road,Flat,2428,2,3,1,16.94,12,14,1,False,True,5,237.93
+Madhuban Colony,Villa,1681,5,3,2,5.17,15,15,2,True,False,6,453.32
+Jalna Road,Flat,772,2,2,27,10.43,11,11,2,False,True,0,95.35
+Rahatani,Villa,2117,2,2,18,14.34,5,8,1,True,True,0,206.48
+Panchakki,Plot,1664,3,3,7,1.96,1,6,1,False,False,7,186.59
+Aundh,Villa,2128,2,4,20,5.66,4,10,1,False,True,5,349.87
+Kanchanwadi,Bungalow,1476,3,2,22,15.41,12,18,1,True,True,0,220.32
+Waluj,Flat,1883,2,2,13,12.32,12,12,1,False,False,8,163.86
+Aundh,Flat,807,3,1,10,16.33,10,10,1,False,True,5,175.61
+CIDCO,Flat,2542,2,3,13,7.29,6,6,1,False,False,8,285.31
+Samarth Nagar,Plot,2599,3,3,25,3.44,15,15,0,True,True,5,205.32
+Madhuban Colony,Flat,2230,4,2,24,17.99,6,11,0,False,True,2,182.49
+Panchakki,Flat,1279,2,1,22,14.47,4,4,0,False,True,3,77.59
+Cidco N-6,Plot,662,3,4,1,2.63,1,5,1,False,True,3,176.56
+Madhuban Colony,Apartment,791,2,3,8,17.63,12,13,1,False,True,3,156.97
+Shivaji Nagar,Apartment,477,3,3,9,4.42,1,5,2,False,False,7,211.43
+Kanchanwadi,Flat,2220,3,1,26,7.53,13,15,1,True,True,5,206.55
+Shivaji Nagar,Plot,976,3,2,9,10.97,2,4,1,True,True,4,161.2
+Samarth Nagar,Bungalow,1345,3,2,27,8.78,3,17,2,True,True,7,346.53
+Jalna Road,Bungalow,2560,3,1,4,8.21,4,7,0,False,True,6,327.36
+Samarth Nagar,Bungalow,2464,2,3,18,11.59,13,13,1,False,True,7,375.05
+N-6,Bungalow,862,2,2,7,12.18,5,5,0,True,True,0,188.18
+Jalna Road,Plot,1759,2,3,3,14.42,16,16,1,False,True,4,172.88
+Cidco N-6,Plot,492,5,1,13,16.46,4,14,1,False,True,0,105.89
+MIDC,Villa,1092,3,1,22,8.11,4,20,1,False,True,7,222.48
+Samarth Nagar,Flat,2495,1,2,18,18.0,12,12,1,True,True,5,208.96
+Garkhadi,Plot,530,4,3,12,3.15,12,13,1,True,True,3,151.73
+Kanchanwadi,Apartment,688,4,1,5,1.84,11,11,1,False,True,6,206.17
+Garkhadi,Bungalow,511,5,2,12,6.98,4,17,0,False,True,8,283.19
+Aundh,Villa,1102,3,2,13,4.93,3,19,1,True,True,6,350.43
+Kanchanwadi,Apartment,808,3,2,18,15.12,16,16,1,False,True,4,152.79
+Panchakki,Bungalow,1703,2,2,19,10.26,6,6,1,False,True,7,271.01
+Samarth Nagar,Bungalow,1517,5,2,19,16.0,14,20,1,True,True,7,384.29
+N-6,Villa,2203,2,3,2,12.28,14,14,2,False,True,3,371.39
+Shivaji Nagar,Flat,1206,1,3,9,9.39,14,15,1,True,True,2,176.87
+Cidco N-6,Villa,1140,3,1,23,9.76,1,3,2,True,True,1,228.09
+Jalna Road,Villa,789,2,3,26,3.89,4,20,1,False,True,8,230.16
+Rahatani,Apartment,1395,3,3,10,7.1,13,13,2,True,True,3,235.28
+Waluj,Bungalow,1461,4,1,17,7.87,4,12,1,False,True,4,250.12
+Rahatani,Flat,1906,3,2,9,1.86,2,3,1,False,True,8,219.45
+Aundh,Villa,919,3,2,14,8.1,13,13,1,False,False,4,220.61
+Rahatani,Flat,2217,3,3,24,12.46,2,10,2,False,False,7,212.39
+Rahatani,Villa,2150,4,3,26,4.23,9,18,0,False,True,8,312.16
+Waluj,Apartment,633,3,2,14,14.95,5,5,1,False,True,1,86.92
+Harsul,Plot,952,4,3,25,17.47,15,17,2,True,True,5,177.76
+Harsul,Apartment,2117,2,2,12,17.56,8,8,2,False,True,3,219.03
+Waluj,Flat,1492,3,1,12,12.01,9,9,0,True,False,1,98.33
+MIDC,Bungalow,2278,4,2,7,13.63,7,10,1,False,True,3,332.51
+Samarth Nagar,Villa,1195,2,2,4,1.99,9,9,1,False,True,7,294.07
+Waluj,Flat,1744,5,2,6,13.63,14,14,0,False,True,3,196.62
+Madhuban Colony,Plot,606,1,2,12,6.64,13,13,1,False,True,2,84.15
+MIDC,Bungalow,1809,4,1,10,13.57,14,14,1,True,False,7,326.06
+Samarth Nagar,Villa,1896,5,2,28,5.97,9,18,1,False,True,7,371.92
+N-6,Plot,2222,1,1,7,4.61,16,16,1,False,True,7,178.52
+Madhuban Colony,Plot,2407,3,1,23,16.24,4,13,0,False,True,2,133.7
+Samarth Nagar,Villa,1289,3,4,16,14.54,6,15,2,True,True,1,321.42
+CIDCO,Villa,919,2,2,3,15.73,5,5,0,False,True,7,239.74
+Panchakki,Plot,443,2,1,19,17.67,11,20,1,False,False,4,61.47
+CIDCO,Apartment,1982,1,2,7,17.91,13,13,0,True,True,6,217.67
+Cidco N-6,Flat,913,2,3,23,15.21,10,10,1,True,True,3,155.74
+Rahatani,Bungalow,2371,2,3,2,14.36,12,12,1,False,True,5,338.2
+Aundh,Flat,1055,5,2,20,10.42,10,16,1,False,True,2,223.9
+Aundh,Villa,1438,3,2,1,10.87,2,18,0,False,True,4,307.97
+Kanchanwadi,Apartment,2482,1,3,14,4.55,6,14,0,True,True,5,240.53
+Waluj,Bungalow,1505,2,4,25,4.68,6,6,1,False,False,1,170.55
+CIDCO,Apartment,2037,1,1,15,9.32,13,17,1,False,True,6,228.85
+Shivaji Nagar,Flat,973,1,1,0,13.33,7,7,1,False,True,6,173.51
+Samarth Nagar,Plot,1201,1,3,4,9.56,1,5,1,True,True,7,171.24
+Samarth Nagar,Bungalow,1413,2,2,26,8.16,11,11,0,False,True,6,224.4
+Garkhadi,Plot,1611,1,2,16,11.55,16,16,1,False,True,5,120.34
+Panchakki,Bungalow,2358,1,3,20,7.39,14,14,1,False,True,7,334.92
+Harsul,Plot,1809,5,3,22,12.67,5,11,1,True,True,5,213.19
+Cidco N-6,Flat,1268,2,3,21,9.71,6,8,1,False,False,7,176.23
+Harsul,Plot,612,5,2,8,7.57,6,7,2,False,True,1,152.49
+Shivaji Nagar,Plot,1348,2,2,8,18.39,12,12,1,False,False,8,153.98
+Shivaji Nagar,Apartment,2213,4,4,24,3.39,4,5,2,True,True,1,306.5
+Rahatani,Villa,1063,3,3,24,10.1,4,6,1,True,True,3,191.32
+Jalna Road,Apartment,1424,4,2,9,10.09,3,10,1,False,True,3,197.65
+Cidco N-6,Plot,2147,4,1,13,8.53,14,16,2,False,True,0,202.83
+Cidco N-6,Apartment,2539,5,1,10,8.33,6,15,0,False,True,2,298.43
+CIDCO,Plot,1631,2,4,22,10.91,10,12,2,True,True,8,231.38
+N-6,Bungalow,2247,3,4,19,14.9,15,15,2,False,True,3,402.41
+Shivaji Nagar,Apartment,1790,2,3,28,3.64,10,10,0,False,True,2,147.67
+Rahatani,Plot,1479,2,3,23,8.69,4,4,2,True,True,1,105.38
+Aundh,Apartment,2258,2,3,14,7.26,8,20,1,False,True,8,318.84
+Harsul,Villa,1645,2,3,22,11.24,5,14,1,True,True,3,263.75
+Madhuban Colony,Bungalow,821,2,2,13,2.89,2,15,2,False,True,5,285.33
+Jalna Road,Plot,2545,4,3,18,9.98,14,16,1,False,True,6,228.4
+N-6,Plot,940,3,2,22,10.22,4,8,1,True,True,8,153.38
+Shivaji Nagar,Plot,2093,1,2,9,2.18,5,5,1,False,True,7,174.26
+N-6,Flat,2147,1,4,28,6.32,6,17,0,False,True,0,157.78
+Kanchanwadi,Villa,2272,4,3,15,15.69,5,6,1,False,True,7,342.09
+Garkhadi,Villa,785,4,3,13,8.08,13,13,1,False,False,4,223.85
+Samarth Nagar,Flat,521,3,3,22,6.75,4,19,0,False,True,0,133.6
+MIDC,Flat,2369,3,1,21,17.42,6,6,1,True,False,7,172.14
+MIDC,Plot,1732,2,1,27,17.38,11,15,1,True,True,6,111.65
+Shivaji Nagar,Apartment,1108,2,2,24,3.02,10,15,1,True,False,2,134.9
+CIDCO,Villa,2017,1,1,28,7.01,13,13,0,True,True,3,199.21
+Cidco N-6,Plot,1997,5,2,10,9.4,14,14,1,True,True,0,218.87
+Kanchanwadi,Apartment,1428,4,3,4,6.68,14,16,0,False,True,2,225.44
+N-6,Flat,2155,5,2,1,1.52,15,15,1,True,True,7,365.09
+Panchakki,Bungalow,1859,4,2,26,10.18,2,7,1,False,True,6,320.44
+Samarth Nagar,Flat,1564,4,2,16,17.78,11,12,1,False,True,4,200.31
+Madhuban Colony,Villa,1282,3,2,0,17.04,5,5,1,True,True,2,261.11
+Rahatani,Bungalow,2028,3,3,20,12.57,1,16,1,True,False,5,280.39
+Samarth Nagar,Apartment,931,3,4,14,1.66,1,10,1,False,True,4,234.51
+Harsul,Flat,2442,5,1,15,16.88,7,7,1,False,True,4,242.12
+Waluj,Flat,1213,3,2,21,11.75,6,6,1,False,True,3,136.32
+Garkhadi,Villa,1205,4,1,22,13.02,9,19,2,True,True,0,224.13
+Madhuban Colony,Bungalow,2086,2,3,14,9.92,2,9,0,False,True,5,278.99
+Harsul,Villa,755,4,3,23,5.34,14,14,2,True,True,1,271.0
+Shivaji Nagar,Apartment,2385,3,1,25,12.15,11,11,1,False,False,0,167.68
+MIDC,Flat,718,4,3,24,3.13,15,20,1,False,False,6,169.33
+Samarth Nagar,Apartment,942,1,3,1,6.63,14,14,0,True,True,6,206.91
+Kanchanwadi,Bungalow,1374,4,3,19,1.68,13,16,1,False,True,5,348.56
+Aundh,Apartment,2279,3,2,3,3.25,3,20,1,True,True,8,361.44
+Jalna Road,Bungalow,2241,2,1,1,2.53,10,20,1,False,False,4,328.09
+MIDC,Flat,1023,3,3,9,7.77,1,18,1,False,True,8,231.41
+MIDC,Apartment,2148,2,4,20,16.94,3,12,1,False,True,7,219.4
+Madhuban Colony,Plot,1794,3,2,5,3.28,2,17,1,True,True,3,204.1
+Harsul,Flat,2389,3,4,10,15.22,13,13,1,False,True,0,225.81
+CIDCO,Plot,891,2,2,20,11.46,12,12,2,True,True,3,154.13
+Garkhadi,Flat,1811,4,2,6,1.87,9,9,0,False,True,1,187.31
+Harsul,Villa,2288,2,3,21,4.41,14,14,0,False,True,3,258.05
+Jalna Road,Villa,1722,3,4,7,17.16,7,19,1,True,True,4,353.28
+Samarth Nagar,Plot,2422,2,1,15,14.95,3,7,1,False,True,8,173.46
+MIDC,Bungalow,1153,2,2,22,9.72,16,17,1,True,False,0,147.04
+Rahatani,Flat,2271,4,2,9,8.73,13,20,1,False,True,1,210.64
+Shivaji Nagar,Villa,2240,3,2,1,9.41,11,15,1,False,True,7,411.02
+Jalna Road,Apartment,1155,3,2,2,7.6,3,11,2,False,True,4,238.52
+Shivaji Nagar,Apartment,712,2,2,10,4.84,11,11,1,False,True,4,163.46
+Kanchanwadi,Flat,1489,1,2,26,7.39,13,14,2,False,True,8,200.45
+N-6,Bungalow,1352,2,3,15,5.47,15,16,1,True,False,6,325.71
+Garkhadi,Bungalow,1278,3,3,0,7.87,5,11,2,True,False,5,325.48
+Jalna Road,Bungalow,2072,4,3,9,7.04,1,20,1,False,True,5,408.36
+Cidco N-6,Plot,2021,5,2,12,2.58,13,13,1,True,False,4,229.53
+Shivaji Nagar,Plot,1147,1,3,15,1.96,7,7,2,True,True,4,171.04
+Shivaji Nagar,Bungalow,655,2,1,10,16.12,14,14,1,True,True,7,256.64
+Jalna Road,Flat,952,4,2,26,13.56,16,16,1,False,True,8,189.74
+Waluj,Villa,1246,1,1,2,15.52,8,18,1,False,True,7,207.74
+Garkhadi,Apartment,1599,3,4,11,13.41,10,14,1,False,True,3,194.91
+Kanchanwadi,Bungalow,2295,2,3,22,11.17,13,13,1,False,True,8,335.2
+Rahatani,Apartment,1309,4,2,24,10.9,12,12,1,False,False,6,155.44
+Panchakki,Flat,2492,1,1,20,13.31,15,15,1,True,True,0,153.06
+Shivaji Nagar,Flat,1759,3,2,14,2.66,8,16,1,False,False,2,219.63
+Kanchanwadi,Apartment,1145,2,2,12,4.36,1,10,1,True,True,0,172.56
+MIDC,Flat,2230,3,3,25,10.39,4,14,1,False,True,0,184.79
+Cidco N-6,Flat,1442,2,2,2,1.77,1,2,1,True,True,3,249.61
+Shivaji Nagar,Flat,1104,1,2,26,7.06,7,8,2,True,True,3,141.76
+Madhuban Colony,Villa,1131,1,3,0,8.12,15,15,0,False,True,5,234.81
+Rahatani,Flat,2103,2,2,3,13.61,6,10,2,False,False,6,210.62
+Cidco N-6,Flat,1780,2,3,22,6.91,16,16,1,False,True,6,239.64
+Garkhadi,Flat,2482,3,4,7,1.86,4,11,1,False,True,1,234.16
+Madhuban Colony,Bungalow,1634,2,2,20,2.14,15,15,1,True,False,0,228.18
+Jalna Road,Villa,517,2,3,10,5.62,2,9,2,False,True,6,249.52
+N-6,Bungalow,444,1,2,6,2.39,5,8,1,True,True,3,209.99
+Shivaji Nagar,Bungalow,2333,2,3,7,8.71,8,11,1,False,True,4,394.93
+Waluj,Apartment,1892,2,1,14,8.69,14,14,2,False,True,6,189.25
+Shivaji Nagar,Villa,1045,3,1,12,9.38,15,15,1,False,True,2,231.05
+Harsul,Flat,1196,1,3,23,13.83,16,16,2,False,False,5,142.26
+Panchakki,Plot,711,2,1,3,8.04,6,8,1,False,False,5,112.21
+Waluj,Villa,656,3,4,23,5.7,16,16,2,True,True,0,217.23
+Aundh,Flat,1490,3,4,4,5.82,6,6,0,True,True,6,279.97
+Kanchanwadi,Apartment,2543,4,3,5,15.61,9,11,1,False,False,4,277.65
+Cidco N-6,Apartment,867,3,3,11,15.34,9,9,2,True,True,2,231.34
+CIDCO,Apartment,706,4,2,13,12.63,14,14,1,True,True,7,239.11
+Shivaji Nagar,Bungalow,1290,2,1,5,15.26,7,10,2,False,True,1,255.72
+N-6,Apartment,1620,1,1,2,7.32,8,17,1,False,True,4,212.07
+CIDCO,Plot,591,1,2,0,7.89,9,17,1,True,True,5,167.75
+Madhuban Colony,Villa,1401,5,3,12,11.88,12,12,2,True,False,6,380.68
+Rahatani,Flat,525,3,3,8,17.67,8,13,1,False,False,8,150.64
+Harsul,Apartment,1739,1,2,1,17.98,11,16,1,False,True,1,167.73
+Rahatani,Bungalow,831,3,2,6,13.6,2,6,1,True,False,8,255.45
+Waluj,Flat,2247,5,2,17,5.6,7,7,1,False,True,6,249.6
+CIDCO,Flat,1757,4,3,7,13.73,16,16,1,False,True,7,303.0
+Garkhadi,Villa,1336,5,3,19,2.6,11,14,2,False,True,8,365.06
+Jalna Road,Flat,1335,2,2,3,3.02,7,7,1,True,True,6,223.85
+CIDCO,Villa,673,3,2,12,18.16,11,13,1,False,True,3,201.4
+CIDCO,Plot,2306,2,3,9,15.73,16,16,1,True,True,0,200.93
+Panchakki,Plot,925,2,3,18,9.63,7,17,1,False,True,5,129.53
+Garkhadi,Flat,1341,3,1,27,14.69,16,16,1,False,False,2,111.27
+MIDC,Bungalow,1802,3,2,11,14.38,13,13,1,True,True,3,294.12
+MIDC,Bungalow,818,2,3,18,16.22,2,11,1,True,True,7,223.97
+N-6,Flat,1313,4,2,20,1.66,4,6,1,False,True,2,207.09
+Shivaji Nagar,Villa,2360,2,1,16,12.55,14,14,1,True,True,3,292.82
+Panchakki,Plot,1126,3,2,22,18.35,3,16,2,False,True,7,152.85
+Shivaji Nagar,Apartment,758,2,3,16,5.32,16,16,1,True,True,6,216.25
+Aundh,Bungalow,1642,3,1,2,13.63,6,14,2,True,True,8,448.65
+MIDC,Bungalow,681,3,2,22,15.42,4,8,2,False,True,2,153.38
+Waluj,Villa,923,1,2,20,4.24,9,9,0,True,True,8,159.57
+Aundh,Apartment,1437,2,4,16,16.88,10,19,1,False,True,8,266.68
+Madhuban Colony,Plot,2511,2,1,26,2.26,2,8,1,False,True,2,142.98
+Harsul,Plot,1890,2,3,13,2.76,9,10,1,False,True,1,171.24
+Aundh,Bungalow,1006,3,1,23,6.08,7,13,1,False,True,2,206.4
+N-6,Villa,2196,2,4,7,2.82,4,19,0,False,True,1,333.29
+Madhuban Colony,Villa,1019,4,2,0,3.17,8,14,2,False,True,8,399.04
+Panchakki,Plot,2425,1,2,18,16.21,9,9,2,True,False,6,159.56
+Cidco N-6,Plot,2069,3,1,0,13.17,5,6,1,False,True,5,210.54
+Harsul,Plot,2133,3,2,11,15.07,10,10,2,False,True,3,176.53
+Samarth Nagar,Apartment,1671,2,2,2,12.29,3,9,2,True,True,4,256.97
+Waluj,Apartment,2156,3,4,4,9.65,4,14,0,True,False,0,206.07
+Garkhadi,Plot,1833,2,3,26,18.49,2,16,2,False,False,8,152.02
+N-6,Apartment,1923,4,2,1,8.69,13,13,1,True,False,3,287.81
+Samarth Nagar,Apartment,1608,2,2,6,1.54,13,13,2,False,False,8,274.81
+CIDCO,Bungalow,2419,1,1,14,7.09,12,12,0,False,True,5,278.22
+Jalna Road,Bungalow,1229,1,2,4,8.48,16,16,1,False,True,6,262.58
+Madhuban Colony,Bungalow,1166,3,2,14,12.66,15,15,1,False,True,3,239.02
+Panchakki,Apartment,967,2,3,28,2.04,7,17,2,False,True,7,212.22
+Cidco N-6,Flat,1750,4,3,12,10.03,13,13,0,True,True,2,251.63
+CIDCO,Flat,633,3,2,19,14.04,14,17,1,False,False,3,137.05
+Garkhadi,Plot,1185,2,3,27,5.98,8,15,1,False,False,8,122.19
+Harsul,Plot,1029,2,1,1,6.16,7,7,1,False,True,0,107.29
+MIDC,Villa,1367,2,2,1,10.17,2,11,0,True,False,6,226.35
+Rahatani,Apartment,1164,1,1,23,6.97,10,17,1,False,True,4,121.02
+Madhuban Colony,Villa,1666,1,3,21,10.88,5,12,1,False,True,8,263.56
+Harsul,Villa,1280,3,1,3,3.72,4,4,1,False,True,3,243.32
+Waluj,Apartment,726,5,3,9,13.83,7,19,1,True,True,8,241.56
+Rahatani,Plot,1842,4,2,22,3.5,14,14,1,False,False,0,113.08
+Panchakki,Flat,1606,1,2,25,18.03,7,14,1,False,True,1,98.45
+Cidco N-6,Plot,1993,3,2,19,6.12,6,6,1,True,True,8,218.92
+Garkhadi,Plot,1480,2,2,22,6.06,4,7,1,False,True,2,113.55
+Panchakki,Flat,1527,4,1,7,18.32,7,19,0,False,True,5,202.6
+Garkhadi,Plot,1501,3,2,19,6.51,2,2,2,True,False,2,116.82
+CIDCO,Plot,855,3,3,20,5.87,7,16,1,True,True,6,176.82
+Harsul,Bungalow,1929,2,2,15,4.59,6,7,1,False,True,4,269.68
+N-6,Flat,2034,3,2,4,2.72,8,16,2,False,True,8,319.54
+Cidco N-6,Apartment,828,2,1,26,1.73,2,6,1,True,True,0,118.73
+CIDCO,Apartment,1806,4,1,4,9.67,15,15,1,False,True,8,319.56
+Aundh,Plot,924,1,1,17,6.54,14,14,0,True,True,6,102.43
+Aundh,Villa,1345,5,3,21,16.53,4,17,1,True,True,4,345.48
+Kanchanwadi,Villa,904,2,4,2,16.72,5,7,1,True,True,6,276.34
+Aundh,Villa,1595,2,1,15,12.75,9,9,1,False,False,2,173.99
+Jalna Road,Bungalow,2379,4,1,13,17.81,9,9,0,False,True,6,299.13
+Waluj,Bungalow,2391,3,2,25,12.32,5,9,1,False,True,7,276.38
+Samarth Nagar,Flat,1995,1,3,16,11.32,8,8,1,True,False,0,153.69
+Waluj,Flat,871,1,2,27,15.94,5,11,1,False,True,6,78.77
+Samarth Nagar,Flat,648,4,1,22,13.47,13,13,1,False,True,1,125.44
+Shivaji Nagar,Bungalow,1067,1,2,2,5.67,1,20,2,True,False,7,355.63
+Garkhadi,Plot,1646,3,3,14,14.78,1,11,0,True,True,2,131.52
+CIDCO,Bungalow,2155,3,3,17,13.59,9,20,1,False,True,2,361.08
+Shivaji Nagar,Plot,1966,5,1,6,8.31,2,9,1,False,False,1,192.55
+Waluj,Bungalow,1702,3,2,12,4.3,12,15,1,True,True,5,289.36
+Panchakki,Flat,856,1,2,24,16.96,7,19,1,False,True,1,98.89
+Kanchanwadi,Apartment,2401,1,2,9,1.64,12,12,2,False,True,6,271.58
+N-6,Apartment,1777,2,3,3,10.04,5,5,1,True,True,0,215.02
+N-6,Bungalow,742,4,1,22,5.44,7,7,1,True,False,8,277.68
+Kanchanwadi,Plot,1818,3,1,9,7.63,14,14,2,False,True,3,192.06
+Kanchanwadi,Apartment,1044,3,4,3,15.18,5,11,1,False,False,1,178.9
+Waluj,Villa,1115,5,1,8,11.3,12,12,0,False,True,7,258.42
+Cidco N-6,Bungalow,995,5,4,15,2.17,10,14,1,False,True,7,443.57
+Samarth Nagar,Plot,1704,2,3,16,9.15,2,3,1,True,False,0,114.95
+Shivaji Nagar,Villa,1959,2,2,2,5.29,15,15,1,False,True,7,366.33
+N-6,Apartment,2045,4,2,10,2.6,11,17,1,False,True,7,301.77
+N-6,Bungalow,1016,3,2,1,18.29,13,13,2,True,True,7,366.6
+Harsul,Apartment,2152,2,3,2,3.91,9,14,0,False,True,6,265.0
+Aundh,Villa,1173,4,1,28,8.79,10,10,1,False,True,8,273.6
+N-6,Bungalow,1872,4,2,26,1.67,7,7,1,False,True,5,319.85
+Rahatani,Bungalow,1024,3,2,25,17.99,14,14,1,True,True,2,175.67
+Aundh,Plot,819,1,3,6,8.64,6,14,1,True,True,0,127.68
+Madhuban Colony,Apartment,1656,4,2,27,3.62,16,16,1,True,False,6,229.11
+Cidco N-6,Villa,884,5,2,11,4.51,6,19,1,True,True,6,400.68
+Garkhadi,Plot,826,5,3,3,3.02,1,15,0,False,True,8,175.0
+Waluj,Plot,553,3,3,6,5.29,15,19,1,True,True,1,127.96
+Cidco N-6,Bungalow,2111,4,3,25,14.1,1,13,1,False,True,4,360.77
+Rahatani,Bungalow,1409,1,4,1,1.76,5,13,2,False,True,5,316.56
+Kanchanwadi,Bungalow,1410,3,2,19,12.46,2,20,1,False,True,2,244.37
+Madhuban Colony,Plot,1068,3,1,25,3.65,4,20,1,False,True,4,137.55
+N-6,Villa,1254,1,1,0,12.19,5,5,1,False,False,6,191.22
+Garkhadi,Flat,2278,3,3,5,5.58,8,11,1,False,True,6,264.24
+Aundh,Apartment,1546,1,1,0,12.35,4,5,1,False,True,4,175.97
+N-6,Apartment,736,3,2,26,5.04,4,17,1,True,True,1,145.93
+Jalna Road,Bungalow,1704,3,2,5,4.56,1,7,1,False,False,1,274.44
+Madhuban Colony,Bungalow,440,2,3,3,4.78,1,19,0,False,True,5,243.28
+Harsul,Apartment,1761,2,1,22,17.48,9,10,1,False,True,8,176.51
+Waluj,Bungalow,2206,3,2,6,5.75,7,10,2,True,False,4,318.72
+Harsul,Bungalow,2195,4,2,23,6.12,11,11,1,False,True,5,357.23
+Samarth Nagar,Apartment,2260,2,1,16,5.8,14,14,1,False,False,8,225.22
+CIDCO,Apartment,1156,4,2,5,7.58,3,8,1,True,False,1,207.39
+Garkhadi,Apartment,1767,2,2,10,16.78,3,14,1,True,True,8,205.08
+Kanchanwadi,Apartment,2147,3,2,26,6.94,7,7,2,False,False,6,203.09
+Waluj,Flat,1758,3,2,0,6.35,1,16,1,False,True,8,252.22
+CIDCO,Villa,486,1,1,25,8.56,10,10,1,True,True,5,140.96
+CIDCO,Bungalow,1642,3,2,27,12.4,4,13,2,True,True,0,275.91
+Madhuban Colony,Bungalow,1347,2,2,28,15.31,1,3,1,False,True,4,152.05
+Madhuban Colony,Plot,1974,2,1,4,11.42,4,6,1,True,True,6,183.12
+Aundh,Apartment,2557,3,2,21,9.83,9,12,1,False,True,4,264.91
+Madhuban Colony,Plot,1412,3,3,6,13.31,3,17,0,True,True,6,178.18
+Shivaji Nagar,Villa,1274,4,3,16,16.09,10,16,1,False,True,2,272.0
+Madhuban Colony,Bungalow,2273,4,2,24,8.3,3,10,1,False,False,1,261.69
+Rahatani,Apartment,871,2,4,5,6.03,16,18,1,True,False,1,163.43
+Harsul,Flat,2045,3,2,1,9.0,12,12,0,True,False,3,216.83
+Jalna Road,Flat,1550,3,2,13,3.36,2,9,2,True,True,0,208.86
+Harsul,Apartment,2599,1,2,19,13.39,13,14,1,True,False,4,195.86
+N-6,Flat,1843,3,3,9,13.98,4,7,1,False,True,4,246.0
+Garkhadi,Flat,1117,2,1,5,7.15,15,15,2,False,True,0,137.83
+Panchakki,Apartment,1119,3,3,19,7.49,16,20,0,False,True,0,167.77
+Kanchanwadi,Villa,1355,3,1,4,14.68,4,11,2,True,True,5,320.39
+Panchakki,Bungalow,1458,2,1,11,6.62,11,18,1,False,False,7,266.64
+Aundh,Plot,504,2,2,7,12.71,5,13,1,True,True,6,146.01
+Garkhadi,Apartment,1213,5,2,3,17.91,15,18,1,False,True,5,220.14
+Jalna Road,Villa,1686,2,2,22,7.34,4,15,1,False,False,5,207.58
+CIDCO,Bungalow,1022,3,1,9,12.1,6,11,1,True,True,7,316.16
+Panchakki,Plot,925,1,2,13,7.49,1,3,1,True,True,8,143.1
+Cidco N-6,Plot,1055,5,3,4,18.43,7,15,1,True,True,7,256.18
+Harsul,Bungalow,2150,2,4,28,5.94,10,11,1,False,False,2,260.76
+Harsul,Villa,975,2,2,9,2.96,15,19,1,False,False,1,186.85
+Waluj,Villa,2483,5,3,14,7.52,15,15,2,False,False,0,327.48
+Jalna Road,Apartment,995,3,2,7,11.37,12,12,1,False,False,0,143.13
+Jalna Road,Flat,2070,3,2,24,16.37,15,15,0,True,False,1,137.39
+Shivaji Nagar,Villa,2392,3,3,3,14.09,2,8,1,False,False,2,324.32
+Aundh,Flat,1652,3,3,0,15.2,7,7,0,True,False,8,251.06
+Harsul,Apartment,2360,1,2,12,2.45,4,11,1,False,False,8,223.64
+Kanchanwadi,Bungalow,924,3,3,5,3.91,8,8,1,False,True,7,323.6
+Aundh,Apartment,2439,2,2,12,13.36,4,16,1,False,True,7,267.27
+Jalna Road,Apartment,1660,1,3,21,12.04,2,13,2,False,True,4,164.01
+N-6,Villa,2470,4,2,11,16.84,13,18,0,False,True,5,355.19
+Samarth Nagar,Flat,1560,4,3,12,2.66,16,16,2,False,True,8,328.29
+MIDC,Villa,950,3,2,18,7.42,13,13,0,False,True,1,159.1
+Waluj,Bungalow,1745,4,4,25,17.09,8,8,2,True,False,6,308.3
+CIDCO,Plot,1445,1,3,2,9.01,12,12,2,True,True,6,210.67
+Aundh,Plot,1238,2,2,21,6.36,7,7,1,False,False,1,95.87
+Aundh,Apartment,1253,1,1,0,7.61,14,20,1,True,True,8,254.37
+Samarth Nagar,Flat,2360,3,2,28,11.0,5,5,1,False,False,1,146.74
+MIDC,Villa,833,1,2,19,10.69,1,9,2,True,False,6,179.03
+Shivaji Nagar,Flat,1599,1,2,27,10.3,10,14,1,False,False,7,162.6
+Panchakki,Apartment,552,2,2,10,16.6,2,6,1,False,True,0,88.46
+Shivaji Nagar,Plot,564,2,1,13,11.67,3,19,1,True,True,1,90.02
+MIDC,Flat,1854,3,2,27,16.4,8,8,2,True,False,3,160.41
+Samarth Nagar,Bungalow,494,3,1,24,7.91,5,15,1,False,True,1,158.67
+Rahatani,Villa,1860,2,2,1,5.55,3,20,0,True,False,8,294.4
+Cidco N-6,Apartment,1443,4,1,4,8.96,10,10,1,False,False,4,218.26
+Jalna Road,Bungalow,921,3,1,17,5.0,12,12,1,True,True,8,272.9
+Aundh,Flat,2577,4,2,17,10.06,2,13,2,False,True,4,295.9
+Rahatani,Flat,2553,2,3,6,3.59,5,5,2,False,True,7,275.74
+CIDCO,Bungalow,558,2,2,9,15.56,3,3,1,False,True,6,215.08
+CIDCO,Flat,1262,2,3,17,2.39,10,10,1,True,True,5,247.88
+Rahatani,Villa,1306,4,2,26,12.07,14,14,2,False,False,4,218.47
+MIDC,Bungalow,2156,3,2,16,5.92,13,16,1,False,True,0,265.88
+Aundh,Villa,770,5,3,9,7.24,13,13,1,True,True,0,312.49
+Kanchanwadi,Villa,1503,4,2,0,8.98,15,15,2,False,False,3,326.2
+Kanchanwadi,Apartment,1552,4,2,2,8.99,9,10,1,False,True,2,220.56
+Kanchanwadi,Apartment,1373,1,1,21,10.11,15,20,1,False,True,4,149.94
+CIDCO,Villa,603,3,2,2,10.12,4,18,0,True,True,6,292.45
+Jalna Road,Villa,1006,1,3,11,7.19,14,14,1,False,True,2,190.22
+Panchakki,Flat,524,1,2,10,10.18,12,12,1,False,True,2,107.55
+Aundh,Apartment,736,5,4,18,10.06,14,19,1,False,True,0,227.46
+Aundh,Plot,2551,3,2,26,11.28,8,12,1,False,True,7,199.74
+Shivaji Nagar,Flat,2242,3,4,11,2.85,3,13,1,False,True,6,310.56
+Samarth Nagar,Flat,1423,4,2,18,12.82,9,11,1,True,True,8,265.68
+Kanchanwadi,Bungalow,1231,4,3,0,4.34,14,14,1,False,True,1,332.19
+CIDCO,Bungalow,518,3,4,4,10.25,13,15,1,True,True,4,350.42
+Rahatani,Villa,861,5,1,23,17.15,15,15,1,False,True,7,217.28
+Garkhadi,Flat,2506,1,4,18,11.58,15,15,1,True,True,4,228.86
+Shivaji Nagar,Flat,1637,3,1,16,16.75,14,14,1,True,True,2,174.17
+Garkhadi,Flat,2183,3,2,19,6.84,12,12,1,True,True,3,216.31
+Panchakki,Villa,854,5,3,4,3.13,6,6,1,True,False,8,385.75
+CIDCO,Bungalow,525,2,2,18,8.75,15,18,1,False,False,1,149.24
+Jalna Road,Bungalow,1497,1,1,8,13.94,4,13,2,False,True,1,201.61
+MIDC,Villa,1550,3,3,21,14.71,11,11,1,False,False,5,205.49
+MIDC,Apartment,452,2,2,27,17.53,7,10,1,False,True,7,89.94
+Harsul,Apartment,2534,4,3,0,8.88,16,19,1,False,True,4,332.52
+Aundh,Plot,1381,3,2,21,17.72,10,10,2,False,True,6,168.54
+MIDC,Bungalow,1630,1,1,28,16.75,10,15,2,True,True,1,152.46
+Madhuban Colony,Apartment,1843,3,3,24,16.5,16,16,1,True,True,3,223.86
+Cidco N-6,Bungalow,669,3,2,21,6.9,13,16,1,True,True,7,314.65
+Madhuban Colony,Apartment,1683,3,2,28,4.33,7,7,2,False,True,8,216.41
+Garkhadi,Apartment,1973,1,3,11,14.54,3,3,1,True,True,2,173.65
+Jalna Road,Flat,1608,4,4,10,8.53,8,8,0,True,False,1,202.05
+Cidco N-6,Bungalow,593,2,2,7,12.24,8,8,1,True,False,6,233.57
+Garkhadi,Villa,767,1,2,22,14.46,14,14,0,False,True,2,66.25
+Kanchanwadi,Bungalow,1215,4,3,25,7.0,1,11,1,True,True,7,327.74
+Jalna Road,Apartment,1330,5,2,15,6.34,8,14,0,False,True,5,224.47
+Garkhadi,Apartment,2272,2,4,12,14.61,15,15,1,True,True,2,230.16
+Shivaji Nagar,Apartment,1113,2,4,18,5.75,5,14,1,False,True,3,187.27
+Waluj,Villa,2106,2,2,4,2.12,14,14,1,True,True,7,324.93
+Madhuban Colony,Flat,1738,3,2,17,16.1,3,5,1,True,True,0,155.86
+Garkhadi,Apartment,1100,2,3,3,2.16,14,17,1,False,True,8,223.55
+CIDCO,Villa,901,3,2,28,13.0,11,13,1,True,True,3,221.25
+Garkhadi,Villa,2547,3,2,6,17.42,5,7,1,False,True,6,295.39
+Waluj,Apartment,442,2,2,22,3.1,15,15,0,False,True,1,70.0
+MIDC,Flat,1832,3,4,8,6.33,14,20,1,True,False,4,249.51
+Aundh,Flat,737,3,1,6,6.26,9,20,0,False,True,6,191.61
+Cidco N-6,Plot,1555,5,3,19,12.86,16,16,1,False,False,1,188.57
+Kanchanwadi,Flat,1007,2,3,10,2.82,2,6,1,False,True,5,181.63
+Cidco N-6,Apartment,1406,3,2,12,13.51,12,12,2,True,True,3,262.77
+Aundh,Villa,1005,4,2,15,13.32,9,9,1,False,True,0,231.39
+Samarth Nagar,Bungalow,1837,3,2,17,16.4,7,14,1,False,False,3,254.16
+MIDC,Flat,442,3,2,11,17.07,1,10,0,True,True,0,110.09
+Garkhadi,Villa,1543,3,4,26,2.02,16,16,1,False,False,8,284.48
+CIDCO,Villa,538,3,3,22,14.02,5,5,1,False,True,0,144.51
+Samarth Nagar,Plot,1556,5,2,19,14.04,11,12,2,True,False,5,198.44
+Aundh,Bungalow,2125,4,3,2,4.78,5,10,0,False,True,3,428.57
+Jalna Road,Flat,433,2,2,3,7.3,3,20,2,True,False,2,172.63
+N-6,Villa,502,4,3,6,12.35,15,15,2,False,True,3,310.4
+Garkhadi,Flat,1691,1,3,5,6.24,11,15,1,True,False,2,188.99
+Panchakki,Bungalow,1503,1,2,11,7.43,15,15,0,False,True,8,277.29
+Garkhadi,Bungalow,1840,3,3,9,5.03,9,9,1,True,True,4,315.7
+Shivaji Nagar,Plot,1183,3,2,10,7.83,13,20,2,True,True,5,221.5
+CIDCO,Flat,2146,3,2,28,3.2,12,12,1,False,False,7,246.98
+Waluj,Plot,2201,3,2,7,5.79,12,12,1,True,True,3,181.9
+Rahatani,Plot,861,3,3,18,8.31,1,7,1,False,False,8,112.27
+Kanchanwadi,Flat,952,3,3,1,18.0,10,10,2,False,True,0,190.26
+Harsul,Flat,1654,2,2,27,4.96,3,9,1,False,False,0,111.03
+Madhuban Colony,Apartment,2348,3,2,6,17.02,13,16,1,False,True,2,233.91
+Rahatani,Flat,2057,4,4,26,12.97,14,14,1,True,True,0,188.37
+Kanchanwadi,Flat,1383,2,2,26,1.53,13,13,1,True,True,3,162.6
+Shivaji Nagar,Villa,1993,3,2,9,6.79,16,16,1,False,True,6,377.38
+Samarth Nagar,Apartment,2324,4,2,23,3.22,13,13,1,True,True,7,289.07
+Aundh,Bungalow,2150,4,2,8,14.12,4,16,1,False,True,8,470.6
+Shivaji Nagar,Flat,2156,3,2,21,2.86,1,12,2,False,True,8,302.98
+Garkhadi,Bungalow,2201,1,2,3,16.25,15,15,0,False,True,6,255.84
+Panchakki,Apartment,1514,2,2,0,9.1,10,10,1,True,True,6,245.04
+Shivaji Nagar,Plot,807,2,1,15,8.83,9,13,2,False,True,8,154.64
+CIDCO,Apartment,1757,2,1,23,12.34,4,14,1,False,True,4,173.89
+CIDCO,Flat,1472,3,3,2,15.73,14,14,1,False,False,8,272.3
+Cidco N-6,Flat,620,2,2,24,17.4,9,9,1,False,True,2,94.91
+Panchakki,Apartment,2087,2,3,21,3.71,9,16,1,False,True,3,218.21
+Garkhadi,Villa,1325,1,2,22,11.86,15,20,1,False,True,7,206.53
+CIDCO,Villa,1815,2,3,4,9.35,16,16,1,True,True,6,392.48
+Samarth Nagar,Plot,741,3,2,11,2.91,12,12,1,True,True,0,127.23
+Kanchanwadi,Flat,1860,3,2,24,1.9,10,19,1,False,True,8,231.86
+Kanchanwadi,Apartment,817,2,2,3,11.2,6,7,1,False,False,8,169.83
+Cidco N-6,Flat,2132,4,2,24,7.67,4,12,1,False,True,6,269.66
+Waluj,Villa,2260,2,3,12,6.4,11,16,1,False,True,6,310.03
+Jalna Road,Flat,538,3,1,19,10.06,3,20,1,False,True,3,115.3
+Aundh,Bungalow,792,5,1,19,16.52,13,19,1,True,False,7,300.56
+Samarth Nagar,Flat,1137,3,3,6,6.99,10,10,2,True,True,3,259.45
+Waluj,Flat,1144,5,2,3,15.16,11,11,1,False,True,0,176.86
+Jalna Road,Plot,2345,4,1,13,17.78,4,19,1,False,False,0,137.96
+Jalna Road,Apartment,1908,2,4,20,12.54,14,14,0,False,False,1,153.73
+Madhuban Colony,Bungalow,1811,2,2,15,5.07,4,12,1,True,False,7,323.73
+Cidco N-6,Villa,1822,2,2,25,9.16,9,20,1,True,True,8,334.3
+Harsul,Villa,1905,3,2,22,4.19,10,17,1,False,True,2,258.75
+Panchakki,Bungalow,1473,3,1,6,11.41,5,20,0,True,True,8,345.99
+Kanchanwadi,Flat,1829,3,2,16,6.84,12,14,2,False,True,8,261.75
+Waluj,Bungalow,478,3,1,7,6.76,8,8,1,False,False,3,146.09
+Waluj,Plot,469,4,3,25,14.89,8,8,1,True,True,5,109.76
+Panchakki,Plot,745,5,1,18,10.39,8,10,1,True,False,3,122.56
+Garkhadi,Bungalow,1146,1,3,17,6.22,7,7,2,True,True,3,217.57
+Kanchanwadi,Plot,2374,3,2,25,2.37,3,8,1,False,True,1,155.35
+Harsul,Plot,2415,2,1,13,16.14,4,16,1,True,False,7,188.52
+Panchakki,Bungalow,1528,3,1,16,9.72,10,11,1,False,True,8,308.21
+Aundh,Bungalow,876,5,4,15,1.61,16,17,1,True,True,4,418.09
+Samarth Nagar,Bungalow,1822,3,2,5,4.79,4,9,1,False,True,8,400.65
+Aundh,Villa,1281,3,1,5,4.76,13,13,2,False,True,8,388.27
+Aundh,Plot,2127,4,2,8,9.52,10,13,1,True,True,5,243.42
+Jalna Road,Plot,2031,4,1,12,2.44,14,14,1,True,True,4,183.71
+Garkhadi,Flat,1274,3,2,26,7.85,11,15,1,True,True,3,164.34
+Kanchanwadi,Plot,2222,4,1,7,4.23,16,20,1,False,True,6,229.14
+Rahatani,Bungalow,1443,2,3,12,2.51,2,12,1,True,False,1,227.33
+Rahatani,Apartment,1749,5,3,26,4.08,5,20,1,True,True,3,228.57
+MIDC,Villa,2595,4,3,4,14.63,3,12,2,True,False,3,364.42
+Waluj,Flat,2307,2,2,22,5.9,1,6,0,True,True,7,189.76
+Samarth Nagar,Plot,666,4,2,0,11.12,2,18,2,True,True,4,207.85
+Aundh,Apartment,729,3,4,24,3.41,6,18,2,True,False,3,229.41
+Cidco N-6,Bungalow,1554,3,4,23,4.09,11,11,1,False,True,6,385.62
+Jalna Road,Plot,1623,1,3,0,1.65,11,15,1,False,True,5,181.13
+Aundh,Flat,1872,4,3,18,4.09,5,8,1,True,True,0,260.95
+MIDC,Villa,703,2,2,7,12.69,7,11,1,False,True,3,182.32
+CIDCO,Flat,2220,2,4,0,9.05,7,14,0,False,True,6,310.51
+Shivaji Nagar,Apartment,1137,3,2,16,3.57,7,7,2,False,True,5,222.98
+Harsul,Apartment,2496,2,2,3,17.56,1,2,1,False,False,1,177.91
+Panchakki,Apartment,2198,5,3,7,18.5,3,14,2,True,False,5,312.16
+Samarth Nagar,Flat,1146,3,1,4,3.88,16,16,0,False,False,4,170.96
+Jalna Road,Flat,2137,2,4,4,14.11,6,13,2,True,True,7,289.59
+Jalna Road,Villa,1506,3,1,0,7.14,16,16,1,True,True,8,345.45
+Kanchanwadi,Plot,1115,2,1,28,5.29,14,14,0,False,False,8,88.42
+Samarth Nagar,Plot,422,2,2,28,5.87,11,19,1,False,True,7,111.33
+Samarth Nagar,Plot,1223,2,2,25,17.52,8,8,1,False,True,1,72.74
+Panchakki,Flat,1653,2,4,21,11.54,9,9,1,True,True,0,190.54
+Cidco N-6,Bungalow,616,4,4,0,3.93,2,9,1,True,True,7,462.16
+Harsul,Plot,2081,3,2,19,5.97,15,15,1,False,True,5,176.63
+Rahatani,Flat,1465,2,3,24,10.83,4,12,1,True,False,6,158.34
+MIDC,Flat,807,2,2,3,3.54,10,10,2,True,True,1,190.31
+MIDC,Flat,2048,4,4,16,4.81,8,8,1,False,True,2,234.22
+MIDC,Plot,612,4,2,7,13.29,6,13,1,False,True,3,138.09
+Cidco N-6,Flat,2156,4,2,12,6.54,14,17,1,True,False,0,247.71
+Garkhadi,Plot,1696,2,3,19,17.81,2,15,1,False,True,3,117.24
+N-6,Bungalow,2021,3,2,11,2.7,9,9,2,True,True,2,382.78
+N-6,Villa,1761,1,1,9,10.41,16,16,1,True,True,7,288.21
+Rahatani,Villa,1534,5,1,26,16.65,4,16,1,True,True,7,268.95
+Harsul,Plot,842,1,3,19,16.21,8,17,2,False,True,1,109.58
+Panchakki,Villa,1450,3,2,21,15.72,12,12,0,False,True,7,226.65
+Jalna Road,Villa,845,5,3,15,11.03,13,18,2,False,True,1,287.39
+Cidco N-6,Apartment,808,1,3,11,11.36,14,14,1,True,True,7,222.87
+Kanchanwadi,Plot,572,5,3,20,14.15,14,14,1,True,True,5,150.65
+Rahatani,Bungalow,536,3,3,8,7.6,12,13,2,True,True,0,233.77
+Garkhadi,Villa,1077,2,3,17,12.52,13,13,1,True,True,1,180.14
+Kanchanwadi,Plot,1352,2,2,23,3.04,13,13,1,False,False,3,100.99
+Garkhadi,Bungalow,1856,2,2,11,14.33,6,12,0,True,True,8,283.84
+MIDC,Villa,1148,2,3,6,3.09,13,13,1,True,True,2,269.52
+Shivaji Nagar,Villa,756,2,2,26,2.19,5,10,0,True,True,3,157.45
+Harsul,Bungalow,1304,2,2,0,16.08,16,16,1,False,True,6,292.26
+MIDC,Plot,2056,3,4,12,14.2,12,12,1,True,False,3,165.26
+Madhuban Colony,Apartment,970,2,3,22,5.7,5,5,2,False,True,7,194.01
+Shivaji Nagar,Plot,1353,3,3,20,18.1,8,16,1,False,True,7,171.16
+Jalna Road,Apartment,1121,1,2,20,2.48,12,17,2,True,True,1,173.15
+Panchakki,Plot,1452,5,3,22,11.66,14,14,2,True,True,8,243.38
+Panchakki,Villa,1372,3,3,13,3.95,11,11,2,True,False,1,302.7
+Shivaji Nagar,Plot,680,3,3,23,4.81,6,7,0,False,True,5,106.98
+Jalna Road,Plot,2006,4,2,15,3.85,11,11,0,True,True,4,182.71
+N-6,Villa,2064,2,2,20,12.26,11,16,1,False,True,0,244.9
+CIDCO,Villa,811,2,4,16,1.71,11,14,1,False,True,5,307.65
+N-6,Flat,2460,2,2,11,3.15,5,13,1,False,True,2,242.08
+Samarth Nagar,Bungalow,544,3,4,28,17.79,4,11,2,True,True,8,286.4
+Shivaji Nagar,Bungalow,1211,3,4,10,17.44,13,16,2,False,True,3,345.43
+Harsul,Bungalow,1191,4,1,1,17.08,16,20,0,False,True,5,303.35
+Kanchanwadi,Plot,2598,3,3,20,4.92,11,11,1,True,False,6,205.03
+Jalna Road,Apartment,2428,1,1,17,9.73,13,13,1,False,True,0,151.53
+CIDCO,Flat,785,2,2,28,11.21,6,12,1,False,True,4,120.19
+Madhuban Colony,Plot,634,4,3,13,14.06,6,18,1,False,False,1,119.71
+N-6,Flat,1731,1,2,6,11.21,1,3,2,True,True,4,203.56
+Harsul,Villa,1145,5,3,11,17.1,13,13,1,False,True,4,315.57
+Jalna Road,Plot,1688,2,3,23,17.03,14,14,1,True,True,3,144.53
+Waluj,Villa,462,3,2,22,14.54,5,9,0,True,True,7,138.97
+MIDC,Villa,1105,5,2,21,13.66,13,13,1,True,True,1,237.83
+Jalna Road,Flat,774,3,2,4,10.31,2,17,1,True,True,6,204.51
+Cidco N-6,Apartment,1410,3,2,23,3.93,2,18,1,True,True,5,232.11
+CIDCO,Flat,1818,4,2,5,7.45,7,7,1,True,True,1,264.5
+Aundh,Flat,1795,3,2,27,8.99,8,18,1,True,True,5,223.07
+Aundh,Apartment,2099,3,1,23,4.39,11,13,0,False,True,0,167.36
+Kanchanwadi,Apartment,2007,4,1,7,14.46,2,20,1,True,False,7,278.55
+Aundh,Bungalow,1576,3,2,23,5.54,16,16,1,False,True,2,282.68
+Rahatani,Villa,1336,2,3,5,17.87,13,13,2,True,True,4,253.67
+Waluj,Bungalow,1349,5,1,20,7.5,13,15,2,False,True,6,294.46
+Madhuban Colony,Villa,2053,2,2,7,5.19,7,20,1,False,True,5,348.2
+MIDC,Bungalow,1955,3,2,4,9.49,15,15,2,False,False,6,331.21
+Harsul,Villa,1061,3,4,13,4.57,15,15,1,True,True,4,333.19
+Aundh,Plot,1058,3,2,25,4.86,14,14,1,False,True,7,154.54
+Rahatani,Plot,2593,3,3,21,3.15,3,4,0,False,False,5,157.25
+Madhuban Colony,Villa,1251,4,4,9,15.79,12,12,1,False,True,2,289.38
+Shivaji Nagar,Plot,1074,4,1,13,3.51,14,14,1,False,True,4,172.67
+Rahatani,Flat,884,3,1,14,3.15,2,6,2,False,True,0,130.26
+Samarth Nagar,Villa,2226,3,2,28,1.84,16,20,1,True,True,5,336.78
+N-6,Plot,1649,3,4,3,18.38,7,12,1,False,False,5,193.86
+Cidco N-6,Bungalow,485,3,2,5,7.71,9,9,1,False,False,0,193.76
+Rahatani,Flat,633,3,3,8,9.13,14,14,0,False,False,7,154.19
+Madhuban Colony,Plot,548,2,4,19,1.68,1,11,1,False,True,0,113.51
+Panchakki,Bungalow,1794,2,2,25,8.72,11,11,2,False,True,7,304.66
+Shivaji Nagar,Bungalow,767,4,4,27,10.15,4,4,2,False,True,1,245.16
+Shivaji Nagar,Flat,1390,4,3,0,13.79,11,11,1,False,False,7,273.51
+Madhuban Colony,Apartment,919,1,1,23,17.25,6,6,1,True,True,3,75.24
+Garkhadi,Apartment,2004,2,2,15,15.4,16,16,1,False,True,0,148.22
+MIDC,Apartment,745,2,2,4,16.43,7,7,1,True,True,5,164.48
+Harsul,Flat,2036,3,2,19,8.51,10,10,1,False,True,8,223.69
+Rahatani,Villa,1572,4,1,2,9.9,2,15,0,False,True,0,231.96
+Aundh,Apartment,1724,3,4,11,13.37,3,20,1,False,True,7,300.6
+Panchakki,Bungalow,1703,3,3,7,11.48,2,13,1,False,True,6,372.03
+Rahatani,Bungalow,2272,2,3,12,8.63,1,6,1,True,False,2,256.86
+CIDCO,Bungalow,1127,2,4,6,3.11,13,17,1,True,True,6,411.24
+Samarth Nagar,Plot,1557,2,2,23,9.99,14,14,1,False,True,1,102.94
+Madhuban Colony,Bungalow,1605,2,2,15,15.16,14,17,0,True,True,4,257.83
+Jalna Road,Plot,919,3,2,10,13.82,5,13,1,False,True,5,133.53
+Harsul,Villa,1376,4,4,20,17.07,16,16,1,False,True,3,293.92
+Madhuban Colony,Plot,1357,3,3,26,15.43,16,20,1,True,True,1,133.46
+N-6,Plot,1737,1,2,19,16.81,9,9,1,False,False,4,107.97
+Madhuban Colony,Apartment,2360,2,3,10,7.55,16,19,1,True,True,5,291.0
+MIDC,Flat,1190,5,2,3,6.53,2,8,1,False,True,6,234.68
+Samarth Nagar,Apartment,1641,2,1,0,1.99,14,14,1,False,False,7,241.44
+MIDC,Flat,2239,4,1,8,9.25,7,16,1,False,True,0,196.55
+Samarth Nagar,Villa,2374,2,2,23,7.88,1,15,1,True,True,0,274.98
+Madhuban Colony,Plot,581,4,1,22,13.63,16,16,2,True,True,2,139.59
+Harsul,Apartment,1895,5,2,13,7.34,3,17,1,True,True,6,308.88
+MIDC,Apartment,1268,3,1,27,5.93,8,8,1,False,True,3,125.47
+CIDCO,Flat,1372,5,4,4,10.01,11,14,1,False,True,4,319.73
+Aundh,Bungalow,698,1,2,6,5.4,16,16,1,True,False,8,297.91
+N-6,Bungalow,1291,2,1,20,14.15,10,10,1,False,True,3,190.67
+Panchakki,Villa,1221,2,2,3,12.56,15,15,1,False,True,6,274.96
+Shivaji Nagar,Apartment,2007,4,3,27,4.99,10,10,2,False,True,0,245.84
+Harsul,Plot,1453,2,1,0,5.18,6,12,1,False,True,5,162.78
+Jalna Road,Plot,1096,5,2,19,6.35,8,8,1,False,False,0,128.89
+Panchakki,Apartment,1662,3,3,5,3.15,12,12,1,False,True,5,261.21
+Jalna Road,Apartment,1638,4,4,9,3.91,15,15,1,False,False,0,237.11
+Rahatani,Bungalow,1135,1,1,7,9.24,9,10,0,False,True,2,124.41
+Jalna Road,Bungalow,542,1,2,14,8.51,1,20,2,False,False,4,185.69
+Garkhadi,Bungalow,1250,4,1,8,17.87,7,9,1,False,False,0,182.93
+Samarth Nagar,Bungalow,2421,4,3,23,2.3,12,12,1,False,True,2,376.1
+Rahatani,Villa,1016,2,3,13,4.46,13,13,1,True,True,7,262.5
+Jalna Road,Villa,2188,1,2,4,7.16,12,16,1,False,True,0,248.4
+Rahatani,Flat,1819,3,3,5,15.97,5,8,2,True,False,1,208.81
+MIDC,Apartment,2548,1,1,17,12.8,6,9,1,False,True,5,178.35
+Cidco N-6,Villa,2037,3,3,7,11.31,14,14,1,False,True,3,376.2
+Rahatani,Plot,861,3,4,22,17.65,8,14,1,True,True,3,104.83
+CIDCO,Villa,915,2,3,21,2.71,9,16,2,False,True,6,293.14
+Kanchanwadi,Villa,1825,2,2,13,12.03,16,20,0,False,True,5,249.27
+Panchakki,Bungalow,1991,4,3,13,13.21,12,17,2,True,False,1,374.94
+MIDC,Apartment,759,2,3,20,17.18,15,15,1,True,False,0,90.51
+MIDC,Bungalow,1307,3,1,21,3.68,1,18,1,False,True,6,261.98
+MIDC,Apartment,1457,3,3,15,4.46,15,15,2,True,True,6,241.39
+N-6,Apartment,1235,3,2,12,14.69,6,14,0,True,True,7,207.5
+Waluj,Apartment,835,2,1,19,11.07,15,17,1,False,True,8,146.5
+Madhuban Colony,Plot,855,2,1,13,10.97,14,14,0,True,False,5,95.25
+MIDC,Flat,983,2,1,18,4.68,7,16,1,False,True,7,140.41
+Cidco N-6,Flat,2112,1,1,6,4.01,5,14,0,True,False,1,180.79
+Panchakki,Plot,2593,1,4,4,6.93,8,17,2,True,True,7,261.7
+N-6,Bungalow,710,2,1,16,3.97,3,17,1,False,True,3,205.16
+Jalna Road,Villa,1343,4,2,24,8.84,11,14,0,False,False,6,212.37
+Samarth Nagar,Flat,941,3,4,16,16.61,6,9,1,True,False,6,200.65
+Jalna Road,Apartment,767,3,3,24,12.4,12,12,1,False,False,5,129.05
+MIDC,Plot,1759,4,3,15,10.19,13,20,1,False,True,2,169.18
+Shivaji Nagar,Bungalow,1822,3,3,2,5.78,9,10,2,False,True,5,454.37
+Kanchanwadi,Flat,1847,5,2,10,10.3,14,14,1,False,True,2,253.62
+Garkhadi,Villa,1198,3,2,17,10.9,7,16,1,True,True,4,236.31
+Harsul,Plot,1801,2,3,15,7.87,13,17,1,False,True,5,164.24
+Kanchanwadi,Apartment,1454,2,2,17,18.23,1,4,1,False,False,7,158.0
+MIDC,Plot,1554,3,2,8,2.37,14,17,1,False,True,1,142.07
+Shivaji Nagar,Villa,643,1,1,3,10.82,9,9,1,False,True,3,152.01
+Aundh,Plot,665,1,2,19,13.73,10,15,1,True,True,4,118.22
+Madhuban Colony,Flat,1041,1,2,24,5.24,13,13,1,True,True,4,150.91
+Shivaji Nagar,Apartment,1428,4,2,14,11.86,6,9,1,True,True,6,258.27
+Kanchanwadi,Bungalow,2247,2,1,2,8.45,15,16,1,False,False,6,314.04
+Cidco N-6,Villa,1260,4,2,25,16.38,11,12,0,False,True,7,256.52
+Madhuban Colony,Flat,736,3,3,12,4.36,13,13,1,True,True,4,221.04
+Jalna Road,Plot,2343,5,3,18,5.65,3,16,1,True,True,5,234.39
+Waluj,Bungalow,2244,4,1,8,7.42,9,13,2,True,True,3,356.97
+Aundh,Plot,2594,4,3,12,7.7,8,8,1,True,True,8,269.99
+Shivaji Nagar,Plot,1465,3,2,27,8.91,6,9,1,True,True,1,135.29
+Kanchanwadi,Flat,1600,3,4,28,4.35,1,8,1,True,False,4,206.69
+N-6,Plot,928,4,2,11,13.79,5,19,2,True,True,2,189.94
+MIDC,Apartment,2471,3,1,4,4.34,16,16,2,True,True,5,290.73
+Panchakki,Bungalow,1426,3,3,22,5.72,2,4,2,True,True,8,381.15
+Aundh,Bungalow,2074,4,2,20,17.54,12,20,1,False,False,8,389.56
+N-6,Plot,2466,2,1,2,11.7,12,12,0,False,True,4,172.39
+Madhuban Colony,Bungalow,1233,4,2,24,12.35,5,16,2,False,True,4,288.81
+N-6,Apartment,1350,4,2,12,9.43,15,15,2,False,True,0,217.13
+N-6,Apartment,1630,2,2,12,16.58,14,14,1,True,True,7,219.1
+Samarth Nagar,Bungalow,697,2,2,16,4.32,4,6,1,False,True,8,240.57
+MIDC,Villa,518,3,2,19,9.32,11,11,1,False,True,7,204.15
+Jalna Road,Plot,568,3,2,23,11.13,3,6,2,True,True,7,141.37
+Aundh,Villa,1009,2,4,2,11.99,9,14,1,True,True,2,303.89
+Kanchanwadi,Flat,2130,4,4,13,10.8,9,9,0,True,False,4,251.1
+Cidco N-6,Apartment,1317,3,4,21,9.89,3,16,2,True,True,5,296.28
+Panchakki,Plot,1774,3,2,4,12.85,9,9,1,True,True,5,212.29
+Panchakki,Bungalow,2077,1,2,25,16.17,4,6,1,False,True,3,195.54
+N-6,Apartment,2491,2,3,13,11.13,10,10,1,False,False,1,217.97
+Rahatani,Apartment,2204,2,2,13,9.54,1,12,2,True,True,7,252.3
+Jalna Road,Plot,1296,2,3,9,5.64,6,12,1,True,True,1,136.05
+Shivaji Nagar,Apartment,1034,3,2,2,17.38,5,5,0,True,True,5,202.68
+Rahatani,Villa,778,1,4,10,3.2,3,3,1,False,True,2,183.06
+Samarth Nagar,Bungalow,860,2,2,26,10.44,10,10,0,False,True,8,175.76
+Kanchanwadi,Flat,1582,1,3,21,4.27,16,16,1,False,True,6,188.25
+Rahatani,Flat,1686,3,2,14,4.03,5,5,0,False,True,1,157.03
+N-6,Flat,720,2,2,10,11.35,16,16,1,False,True,8,199.95
+Panchakki,Flat,2358,3,2,12,4.76,3,3,0,False,True,2,219.19
+Waluj,Bungalow,1745,3,3,23,17.93,14,14,2,False,False,2,200.32
+Cidco N-6,Flat,1446,2,2,10,4.02,5,9,1,False,True,3,212.08
+Jalna Road,Apartment,457,3,3,25,11.95,11,11,0,False,False,3,75.44
+Madhuban Colony,Plot,1540,3,4,18,11.91,7,15,1,False,True,8,190.16
+Cidco N-6,Bungalow,602,2,1,18,12.16,3,17,2,True,True,3,243.5
+Samarth Nagar,Plot,1332,3,2,20,15.99,8,20,1,True,True,0,125.17
+Samarth Nagar,Bungalow,1398,2,2,2,15.14,9,19,2,False,True,8,388.67
+Garkhadi,Villa,629,3,2,17,12.74,10,10,2,False,True,5,189.04
+Aundh,Flat,478,3,1,20,5.68,16,16,0,False,True,2,114.7
+Aundh,Villa,2122,2,2,23,4.29,4,11,1,False,True,1,243.28
+N-6,Apartment,433,5,1,24,15.01,9,9,0,False,True,8,151.13
+Shivaji Nagar,Bungalow,1559,4,2,2,7.51,13,13,1,True,True,1,394.48
+N-6,Flat,1821,2,3,17,4.8,12,12,1,True,False,1,204.41
+Cidco N-6,Bungalow,1289,2,3,15,14.65,3,9,2,False,False,8,325.51
+Jalna Road,Villa,1930,2,1,14,4.7,12,12,2,False,True,6,300.84
+CIDCO,Villa,2318,1,3,19,10.35,4,20,1,False,False,5,292.89
+Cidco N-6,Apartment,1718,2,2,13,6.49,4,4,2,False,False,4,220.96
+N-6,Villa,1812,4,4,16,7.68,16,16,1,True,True,4,392.64
+Garkhadi,Apartment,982,5,3,27,3.2,4,5,2,False,True,1,165.83
+Harsul,Plot,742,2,2,26,14.43,3,19,2,False,True,8,135.24
+Shivaji Nagar,Bungalow,586,2,3,2,12.68,9,9,1,True,False,0,195.63
+Waluj,Apartment,2341,4,2,3,5.99,8,8,1,True,False,1,225.21
+CIDCO,Bungalow,1314,3,1,23,17.77,8,15,0,False,True,3,186.22
+Harsul,Apartment,2180,2,3,6,15.53,10,13,1,False,True,4,230.87
+Kanchanwadi,Apartment,2141,2,3,0,18.12,13,20,1,True,True,2,264.19
+Kanchanwadi,Apartment,1439,2,1,7,14.16,3,14,1,True,False,0,144.94
+Garkhadi,Apartment,476,2,2,14,3.95,4,13,1,True,True,4,141.26
+Harsul,Flat,1266,2,2,21,16.09,8,17,1,True,True,0,131.24
+N-6,Apartment,664,4,2,6,8.53,10,10,1,True,False,7,237.21
+MIDC,Apartment,2281,2,3,14,4.92,9,17,2,True,True,7,294.75
+CIDCO,Flat,2410,2,4,17,10.16,5,5,1,True,True,1,247.44
+Aundh,Plot,1690,4,1,18,17.77,4,9,2,True,True,8,222.85
+Kanchanwadi,Plot,1169,3,4,0,4.03,1,12,1,False,True,5,187.16
+Harsul,Flat,864,3,3,13,5.77,9,20,1,True,False,5,195.57
+Waluj,Plot,1223,4,2,27,7.21,16,16,1,False,True,8,127.54
+Shivaji Nagar,Apartment,981,2,3,6,9.44,3,5,1,False,True,2,168.5
+Harsul,Flat,1939,1,2,18,8.46,9,20,2,False,True,3,201.2
+Shivaji Nagar,Villa,1407,1,3,17,4.34,1,17,2,True,True,5,309.92
+MIDC,Plot,1359,5,2,13,13.34,12,16,1,True,True,0,160.1
+Harsul,Flat,1062,2,1,5,4.83,7,8,1,False,True,3,162.58
+CIDCO,Apartment,1256,2,3,24,6.59,14,14,1,False,True,6,194.67
+Madhuban Colony,Apartment,1137,3,4,3,2.94,6,8,0,True,True,2,221.04
+MIDC,Plot,2594,5,4,28,17.85,11,16,1,False,True,3,204.6
+Jalna Road,Flat,2243,2,2,6,17.25,1,8,1,True,True,1,207.93
+Shivaji Nagar,Flat,640,2,3,27,3.42,16,16,2,False,True,2,143.06
+N-6,Plot,1369,4,2,1,10.14,3,9,1,True,True,1,181.1
+Madhuban Colony,Plot,977,4,1,15,15.95,7,7,2,True,True,8,162.95
+Waluj,Apartment,2149,3,2,23,14.42,15,15,1,False,True,0,158.06
+Cidco N-6,Apartment,519,4,3,2,6.98,3,4,1,False,False,7,245.5
+MIDC,Villa,654,4,3,19,1.94,5,13,1,False,False,8,256.43
+Cidco N-6,Villa,1488,2,2,4,11.71,16,16,1,False,True,2,292.85
+Panchakki,Plot,593,2,2,16,8.89,1,3,1,True,True,3,99.88
+Aundh,Villa,783,2,2,16,4.05,13,20,1,True,False,8,271.23
+Madhuban Colony,Villa,620,2,3,25,11.31,2,19,1,False,True,3,163.12
+Kanchanwadi,Plot,2304,3,3,0,14.63,6,6,0,True,True,1,194.59
+Panchakki,Plot,928,4,4,23,1.58,9,9,1,False,False,3,148.52
+Jalna Road,Flat,2584,3,2,7,4.13,3,6,1,False,True,2,241.1
+Aundh,Villa,2089,2,1,28,8.64,5,13,1,False,True,1,201.66
+Cidco N-6,Villa,756,3,1,12,6.46,13,13,1,False,False,0,157.48
+Cidco N-6,Flat,1931,2,3,9,4.76,1,4,1,True,False,4,244.69
+Samarth Nagar,Plot,2489,4,1,7,13.92,12,12,1,False,True,4,204.46
+N-6,Bungalow,672,3,2,9,13.18,2,11,1,False,True,5,246.59
+MIDC,Villa,1710,4,1,23,5.27,5,5,0,False,True,7,239.11
+Cidco N-6,Apartment,617,3,2,18,3.05,7,17,1,True,True,3,185.91
+Jalna Road,Apartment,734,5,4,19,14.44,16,16,2,True,False,6,248.21
+Garkhadi,Plot,454,1,2,26,1.95,1,20,0,False,True,2,63.72
+MIDC,Apartment,1421,3,2,20,13.45,9,11,2,False,False,6,186.33
+Rahatani,Plot,1295,2,3,11,3.78,2,4,1,True,True,8,163.11
+Kanchanwadi,Villa,865,3,2,12,10.51,11,11,1,False,True,2,213.44
+N-6,Flat,2491,2,2,8,7.2,14,14,0,False,True,4,227.69
+MIDC,Bungalow,595,4,3,24,14.96,8,17,2,False,False,0,177.14
+Shivaji Nagar,Apartment,947,3,3,1,17.55,2,18,2,True,True,1,254.25
+Cidco N-6,Apartment,2002,2,2,10,17.49,7,7,2,False,True,5,241.87
+Samarth Nagar,Bungalow,2505,3,2,3,9.75,16,16,1,False,True,3,418.71
+Samarth Nagar,Villa,1609,4,1,7,6.67,1,18,2,False,True,3,350.11
+Aundh,Plot,2585,2,1,7,12.47,4,4,0,True,True,0,158.4
+CIDCO,Plot,1928,5,2,2,15.16,10,20,1,True,False,4,251.46
+N-6,Bungalow,2143,4,2,12,16.28,10,19,1,False,True,7,399.78
+MIDC,Villa,1014,3,2,12,12.33,8,8,1,True,True,8,271.88
+Kanchanwadi,Plot,1216,5,4,3,4.64,8,11,1,False,True,8,256.04
+CIDCO,Bungalow,514,5,2,12,12.38,15,15,2,True,True,3,353.37
+Garkhadi,Flat,2549,3,2,21,11.74,12,12,2,False,True,8,251.33
+Samarth Nagar,Villa,432,4,4,28,12.78,5,20,1,True,True,2,235.91
+Cidco N-6,Villa,1020,3,2,25,10.86,13,13,1,True,False,0,175.63
+Cidco N-6,Bungalow,822,3,3,4,14.53,11,20,1,False,True,3,328.93
+Jalna Road,Plot,1030,2,3,9,15.95,9,9,2,False,True,3,119.77
+Aundh,Plot,2198,3,4,12,2.56,2,5,2,False,True,1,215.25
+Harsul,Plot,1791,4,3,0,2.31,3,14,1,False,True,4,233.14
+Shivaji Nagar,Villa,642,3,3,27,12.2,7,20,2,False,True,0,207.75
+Harsul,Villa,1526,1,2,14,11.68,13,13,0,False,False,6,187.47
+Jalna Road,Flat,981,2,2,2,14.18,16,17,2,False,False,1,161.79
+Panchakki,Apartment,2047,5,3,8,2.64,7,8,1,True,False,5,312.23
+Rahatani,Flat,1249,2,4,3,9.44,3,16,0,False,False,2,156.69
+Shivaji Nagar,Plot,1089,1,1,24,8.67,11,11,1,False,False,6,72.35
+Harsul,Bungalow,724,4,2,9,6.0,2,7,2,True,True,6,338.84
+CIDCO,Apartment,2186,2,4,7,9.18,9,9,1,False,False,7,301.03
+Waluj,Plot,1117,4,1,26,4.25,3,17,2,False,False,1,106.26
+Panchakki,Plot,2139,2,2,23,15.61,15,15,1,False,True,8,163.29
+Shivaji Nagar,Plot,1145,3,4,13,2.0,8,20,1,False,True,8,232.01
+Jalna Road,Bungalow,907,3,3,12,16.14,16,16,2,False,False,0,208.83
+CIDCO,Bungalow,1008,1,3,5,5.31,12,12,1,True,True,5,315.2
+Madhuban Colony,Plot,2252,5,3,12,11.18,3,18,1,False,True,2,216.71
+Jalna Road,Bungalow,581,3,2,21,6.06,14,19,1,False,True,2,183.08
+Rahatani,Apartment,1775,4,4,22,13.9,14,14,1,True,True,5,237.96
+Kanchanwadi,Plot,690,3,2,14,12.14,15,15,1,False,True,2,104.63
+MIDC,Bungalow,2253,2,2,24,18.03,6,6,2,False,True,1,228.47
+Shivaji Nagar,Bungalow,2447,3,2,17,4.05,14,18,1,False,False,2,336.46
+Kanchanwadi,Flat,2443,5,1,20,10.55,1,14,1,False,False,5,224.28
+Panchakki,Apartment,1896,4,2,23,12.03,15,20,0,False,True,8,234.4
+Garkhadi,Villa,1954,2,2,16,8.18,13,13,1,False,True,2,223.4
+Aundh,Flat,1522,4,3,7,16.23,7,19,2,False,False,5,277.43
+Panchakki,Apartment,1762,2,3,23,18.32,16,16,2,True,True,2,203.39
+Kanchanwadi,Flat,1330,2,3,21,7.79,8,18,0,False,True,0,144.86
+Waluj,Plot,1496,5,4,17,7.01,11,17,1,True,True,0,161.11
+Aundh,Plot,911,4,4,26,11.31,4,17,1,True,True,5,190.39
+Panchakki,Apartment,772,4,2,9,3.0,10,16,0,False,True,3,201.94
+Madhuban Colony,Plot,1298,4,2,27,17.66,4,9,1,False,True,0,115.21
+Panchakki,Flat,866,2,3,2,2.1,12,12,1,False,False,1,175.9
+MIDC,Bungalow,666,3,3,24,9.63,9,13,1,False,True,5,205.02
+Rahatani,Flat,1775,3,4,24,8.78,2,12,2,False,True,7,226.01
+Panchakki,Villa,1106,2,3,16,7.23,9,19,1,False,True,5,276.42
+Madhuban Colony,Plot,1599,2,1,19,16.98,3,15,2,True,False,0,118.92
+CIDCO,Flat,1676,2,2,20,16.43,3,9,1,False,False,1,138.29
+Samarth Nagar,Villa,703,2,2,15,2.07,7,15,1,True,True,4,236.04
+MIDC,Plot,1989,2,3,22,9.84,16,16,1,False,False,4,137.04
+N-6,Apartment,951,2,2,23,13.46,12,12,1,False,True,2,124.51
+Cidco N-6,Apartment,967,2,1,6,11.81,1,11,1,True,True,1,166.17
+Jalna Road,Villa,2425,2,3,14,7.37,6,17,1,False,True,2,310.01
+Rahatani,Villa,2386,3,2,11,11.05,9,17,1,True,True,0,270.44
+Kanchanwadi,Apartment,2512,4,3,23,9.21,8,8,1,False,True,7,289.72
+Aundh,Bungalow,1139,1,3,6,9.03,7,20,1,False,False,0,217.89
+N-6,Flat,1296,4,4,3,13.96,11,20,0,True,True,2,251.84
+N-6,Villa,1909,3,2,18,16.05,7,12,1,True,True,7,336.09
+Waluj,Bungalow,1316,2,2,7,17.51,11,11,2,False,False,7,237.76
+Garkhadi,Apartment,1159,4,3,27,16.13,15,15,1,True,True,0,142.78
+Aundh,Plot,2339,4,4,23,3.41,16,16,1,False,False,8,244.43
+N-6,Apartment,823,2,2,23,14.94,2,19,1,True,True,8,184.24
+Cidco N-6,Bungalow,2544,3,3,14,7.44,7,13,1,True,True,8,500.24
+CIDCO,Apartment,1247,1,4,7,17.18,3,20,2,False,True,1,213.19
+Samarth Nagar,Flat,1280,4,2,27,3.09,5,20,1,False,False,5,202.46
+Shivaji Nagar,Villa,1234,3,3,23,10.19,2,8,2,False,False,1,207.37
+Kanchanwadi,Bungalow,800,3,1,12,2.32,5,6,0,True,False,7,220.99
+Cidco N-6,Flat,639,1,3,21,3.02,4,14,1,True,True,1,145.55
+CIDCO,Bungalow,977,3,3,16,14.42,8,8,2,False,True,4,306.25
+Jalna Road,Bungalow,1801,2,1,5,9.24,10,18,0,False,True,1,218.05
+CIDCO,Plot,2037,3,1,10,16.12,11,11,1,True,True,3,193.4
+Madhuban Colony,Villa,1978,4,1,23,14.01,1,8,1,False,True,7,294.22
+Cidco N-6,Apartment,1357,5,1,8,4.74,12,19,1,True,True,2,274.94
+CIDCO,Villa,726,4,3,0,3.89,16,16,1,True,True,3,383.74
+Panchakki,Apartment,1101,3,1,23,13.77,3,15,1,False,True,2,121.2
+Panchakki,Plot,858,2,2,27,4.2,1,9,1,False,True,0,66.31
+Kanchanwadi,Villa,2081,5,2,24,12.38,12,15,2,True,True,7,395.74
+Cidco N-6,Villa,1943,2,3,7,5.77,4,6,2,True,True,1,349.32
+CIDCO,Apartment,2526,2,2,25,16.99,14,19,1,False,True,1,202.77
+Jalna Road,Plot,594,3,2,25,13.85,12,16,0,False,False,1,65.87
+Garkhadi,Apartment,2318,1,2,13,9.2,8,8,1,True,True,0,173.12
+Panchakki,Villa,2593,5,2,6,15.12,6,6,1,True,True,2,393.06
+Samarth Nagar,Plot,1875,3,3,19,5.81,1,8,1,True,True,3,189.4
+N-6,Bungalow,1461,4,4,13,15.49,3,13,1,False,False,7,349.07
+CIDCO,Villa,2070,2,1,10,12.16,1,4,1,True,True,7,322.31
+Panchakki,Apartment,500,4,2,7,10.75,3,20,1,False,True,4,208.54
+Madhuban Colony,Flat,689,2,1,8,11.88,2,20,1,False,False,6,153.17
+MIDC,Bungalow,1336,3,2,18,8.96,4,15,1,False,True,6,276.06
+Shivaji Nagar,Flat,1305,3,4,15,9.66,9,9,1,True,True,2,217.91
+Garkhadi,Plot,1604,3,4,19,9.08,1,4,1,False,True,6,165.45
+Aundh,Flat,527,2,1,14,15.44,6,6,0,True,True,0,74.62
+Aundh,Villa,809,4,4,17,17.54,3,9,1,False,True,8,321.37
+Rahatani,Plot,2257,4,4,2,18.09,1,19,1,False,True,8,211.42
+Samarth Nagar,Apartment,2054,4,2,4,4.23,4,16,2,False,True,3,315.12
+Waluj,Plot,1951,3,1,5,2.55,1,10,1,True,True,1,161.89
+N-6,Flat,1977,3,2,12,3.06,3,7,1,False,False,4,229.96
+Kanchanwadi,Bungalow,2487,2,3,12,11.34,16,16,1,False,True,1,313.04
+Cidco N-6,Apartment,2154,1,2,15,16.79,8,8,1,False,False,8,205.69
+Madhuban Colony,Bungalow,1870,1,4,18,15.06,13,13,1,True,True,6,323.08
+Panchakki,Plot,1961,2,2,8,17.4,14,14,1,False,True,7,167.53
+MIDC,Villa,838,2,1,11,11.36,8,15,1,False,True,3,156.45
+Jalna Road,Plot,2475,2,1,13,3.84,9,14,1,False,False,7,175.65
+Shivaji Nagar,Bungalow,510,3,1,9,2.76,4,20,2,False,True,2,289.84
+Samarth Nagar,Flat,2088,1,2,23,8.43,1,12,1,True,False,5,182.38
+Shivaji Nagar,Bungalow,1781,4,3,5,7.63,9,11,1,True,True,6,454.11
+CIDCO,Flat,1604,2,3,13,8.34,3,17,1,False,False,1,199.69
+N-6,Villa,591,3,4,23,1.55,13,16,2,True,True,7,335.53
+MIDC,Apartment,1347,4,3,12,12.15,9,19,1,False,True,3,217.21
+Kanchanwadi,Bungalow,2223,2,2,18,6.81,3,12,1,True,True,0,265.4
+Kanchanwadi,Flat,1159,1,3,15,18.41,8,14,2,True,True,7,184.99
+Aundh,Apartment,1350,4,2,24,10.94,13,13,1,True,False,2,175.7
+Kanchanwadi,Villa,1762,2,1,15,1.63,1,20,1,True,True,4,278.13
+Panchakki,Bungalow,1956,3,2,28,14.09,14,15,1,True,False,4,257.25
+Samarth Nagar,Villa,1709,3,2,24,9.03,1,20,1,False,False,3,230.99
+MIDC,Plot,538,3,2,25,7.78,13,14,1,False,True,6,101.76
+Panchakki,Apartment,864,2,2,19,7.4,2,2,1,False,True,2,105.65
+N-6,Villa,1161,5,3,13,17.89,16,17,1,True,True,1,310.5
+Shivaji Nagar,Apartment,1144,2,4,2,7.83,9,19,1,False,False,0,209.86
+MIDC,Apartment,863,3,2,12,9.68,16,19,1,False,True,5,175.33
+Cidco N-6,Apartment,1539,3,4,13,14.97,6,15,0,False,False,0,170.6
+Panchakki,Flat,2380,2,2,22,11.51,13,19,0,False,False,2,157.1
+Panchakki,Plot,1136,2,1,17,13.31,8,18,1,True,False,4,99.88
+Aundh,Bungalow,1462,2,2,20,9.44,5,8,2,True,True,3,282.77
+Garkhadi,Bungalow,1589,4,3,23,13.93,16,16,1,False,True,3,253.19
+Panchakki,Flat,2424,2,2,26,10.94,13,13,2,False,True,0,195.07
+CIDCO,Apartment,2005,5,3,8,7.09,7,7,1,False,False,5,320.13
+MIDC,Flat,1512,3,2,27,5.4,10,10,0,False,True,1,120.32
+Garkhadi,Bungalow,2224,3,2,28,2.64,14,14,2,True,True,5,321.65
+Jalna Road,Apartment,2597,2,2,11,13.2,16,16,1,False,True,5,230.71
+Kanchanwadi,Apartment,1022,3,4,16,12.74,13,20,1,False,True,2,204.45
+Cidco N-6,Plot,669,2,4,15,11.34,5,17,0,False,True,4,129.25
+CIDCO,Apartment,1981,3,1,4,16.88,8,20,1,False,True,1,225.57
+Shivaji Nagar,Plot,2467,1,4,5,17.54,7,7,1,False,True,8,232.58
+N-6,Flat,916,1,1,5,5.41,1,2,0,False,True,6,120.47
+Rahatani,Apartment,2500,4,2,27,10.99,16,16,1,False,False,3,182.32
+Cidco N-6,Apartment,1602,1,3,28,10.9,11,11,1,True,True,0,156.04
+Panchakki,Bungalow,986,2,2,27,18.2,11,11,0,True,False,0,78.43
+Cidco N-6,Bungalow,1167,1,3,8,17.54,13,16,2,True,False,0,241.17
+Rahatani,Bungalow,2148,2,1,28,12.5,12,12,2,False,True,3,225.22
+CIDCO,Bungalow,1746,1,3,18,6.07,16,16,1,True,False,3,288.71
+MIDC,Flat,1625,3,2,23,11.15,13,13,1,False,True,3,160.06
+MIDC,Plot,2550,4,2,15,10.5,16,16,1,True,True,2,188.25
+Samarth Nagar,Apartment,2281,4,1,19,5.52,1,4,1,False,False,5,222.56
+Aundh,Plot,1185,2,2,2,10.91,1,20,1,True,True,7,202.02
+MIDC,Villa,902,3,2,22,3.03,5,17,1,False,False,1,160.46
+Cidco N-6,Plot,1012,2,3,18,8.35,5,15,1,True,True,7,175.62
+Kanchanwadi,Apartment,2260,1,3,28,5.99,12,12,2,True,True,4,217.94
+Samarth Nagar,Apartment,1726,3,2,0,15.86,5,6,2,True,False,0,232.86
+CIDCO,Apartment,2055,2,3,10,8.47,2,16,1,False,True,7,312.51
+MIDC,Flat,1763,4,4,8,1.59,3,17,1,False,False,2,227.93
+Panchakki,Bungalow,1404,1,4,2,8.12,12,12,1,True,True,8,391.61
+Cidco N-6,Apartment,794,1,2,0,11.88,15,15,2,False,True,6,208.25
+Rahatani,Apartment,1905,2,3,25,8.99,5,8,0,False,False,5,138.52
+CIDCO,Bungalow,1470,4,3,20,2.97,10,19,1,False,True,2,373.75
+MIDC,Bungalow,2112,3,2,27,16.08,12,12,1,True,True,1,230.65
+Garkhadi,Apartment,2528,5,4,6,15.18,3,8,2,False,True,4,295.79
+N-6,Villa,2071,2,2,14,16.67,7,13,1,False,False,3,231.62
+Rahatani,Flat,2143,3,2,8,18.14,14,14,1,False,True,3,206.16
+Panchakki,Villa,2481,2,2,5,6.9,8,14,2,False,True,4,377.21
+N-6,Plot,614,2,1,26,9.05,9,9,1,False,True,1,53.81
+Jalna Road,Flat,1263,3,3,0,11.6,11,12,0,False,True,0,177.94
+Kanchanwadi,Apartment,1376,1,1,3,9.37,13,13,1,False,True,4,173.92
+Waluj,Bungalow,641,3,1,20,1.9,12,12,1,False,True,1,152.66
+CIDCO,Apartment,973,2,4,25,15.0,12,12,0,False,False,0,78.77
+Shivaji Nagar,Villa,1298,4,4,28,7.4,9,16,1,False,True,4,294.46
+Samarth Nagar,Bungalow,829,4,3,27,3.7,2,13,1,False,True,0,241.43
+Aundh,Apartment,617,1,2,21,12.07,10,10,1,False,True,4,101.14
+CIDCO,Flat,2174,1,3,24,6.33,3,19,1,False,True,3,232.28
+Madhuban Colony,Plot,1133,5,2,24,14.25,12,20,1,True,True,0,133.09
+Waluj,Plot,473,3,2,13,17.53,2,4,1,False,True,0,72.47
+Rahatani,Flat,2381,3,3,4,13.68,7,8,1,True,True,5,257.71
+CIDCO,Apartment,2028,3,2,27,15.89,11,12,0,True,True,0,156.19
+Harsul,Bungalow,1702,2,4,5,6.36,15,19,1,False,True,2,336.83
+Harsul,Villa,1775,4,1,23,14.89,2,15,2,True,True,8,340.79
+Jalna Road,Plot,1457,2,1,28,3.48,13,14,1,False,True,0,80.89
+Aundh,Villa,2289,2,3,18,10.96,15,15,2,False,True,6,375.33
+Jalna Road,Apartment,1365,5,2,21,15.17,6,6,2,True,True,8,242.35
+Panchakki,Bungalow,2317,4,3,4,1.52,15,15,0,True,True,8,488.53
+Harsul,Bungalow,1109,1,3,23,12.72,3,13,2,False,True,7,254.33
+Aundh,Villa,806,3,3,16,8.92,12,12,1,True,True,5,295.86
+Waluj,Bungalow,1105,3,1,17,10.28,2,12,2,False,False,3,169.15
+Jalna Road,Plot,1053,3,2,28,4.43,9,12,2,True,True,1,141.4
+N-6,Flat,2372,2,1,17,5.13,10,19,1,False,False,2,198.64
+N-6,Apartment,1452,1,2,8,12.63,5,18,1,True,False,5,194.7
+Garkhadi,Flat,461,3,3,23,1.72,2,8,2,True,True,2,143.82
+N-6,Flat,2217,3,3,4,13.32,4,9,1,True,False,2,252.04
+Jalna Road,Villa,612,2,2,0,13.1,2,13,1,False,False,7,213.58
+Madhuban Colony,Bungalow,813,3,2,24,2.71,1,7,2,True,True,1,231.56
+Jalna Road,Plot,587,4,1,23,17.75,7,7,2,True,True,8,145.18
+Shivaji Nagar,Plot,2005,2,1,2,15.12,7,7,1,True,True,6,192.89
+Madhuban Colony,Bungalow,2030,3,3,28,2.19,8,14,2,True,True,6,390.33
+CIDCO,Villa,1595,4,3,9,12.65,15,15,1,True,True,3,391.78
+Kanchanwadi,Bungalow,1828,1,3,12,4.34,7,7,2,True,True,1,286.2
+N-6,Villa,1306,4,3,26,14.06,11,11,1,True,True,8,328.01
+CIDCO,Plot,2439,5,2,21,12.0,14,14,1,False,False,1,200.22
+Kanchanwadi,Bungalow,1499,2,2,25,5.57,5,11,2,False,True,5,269.76
+Madhuban Colony,Plot,1386,2,2,6,17.64,2,9,0,False,True,8,143.33
+CIDCO,Villa,1513,2,2,23,8.14,9,17,1,False,True,4,262.28
+Rahatani,Villa,1236,2,2,11,11.09,9,14,1,False,False,6,210.18
+Shivaji Nagar,Bungalow,1274,4,1,5,7.34,12,12,1,False,True,4,333.48
+Samarth Nagar,Villa,1179,4,2,10,14.87,12,20,1,True,True,1,300.03
+Harsul,Apartment,2276,4,2,7,7.76,4,10,1,True,False,0,255.48
+Panchakki,Plot,1220,2,4,13,15.38,10,12,2,True,False,7,184.42
+Harsul,Bungalow,1345,1,4,28,1.81,4,17,2,False,False,2,239.89
+Shivaji Nagar,Villa,2249,1,4,8,6.91,7,13,2,False,True,2,357.8
+Rahatani,Plot,2306,2,3,20,16.63,16,16,0,True,False,0,113.82
+Jalna Road,Villa,1024,2,2,14,3.74,14,14,1,True,True,0,189.83
+Rahatani,Apartment,611,5,3,11,15.36,15,19,0,False,True,8,202.66
+CIDCO,Apartment,523,5,2,21,4.53,5,5,1,True,True,3,195.42
+CIDCO,Plot,1653,2,2,25,3.6,7,14,1,False,True,2,154.31
+Harsul,Apartment,1231,2,2,22,4.12,13,13,2,True,True,7,228.95
+Madhuban Colony,Flat,1949,5,2,28,16.12,7,9,1,True,True,7,237.87
+Kanchanwadi,Flat,2558,3,1,9,7.68,16,16,1,True,True,6,268.12
+Madhuban Colony,Apartment,2343,2,4,17,18.09,2,18,1,False,False,1,206.22
+Cidco N-6,Flat,1238,2,1,15,3.62,13,13,1,False,False,8,184.68
+MIDC,Plot,1169,3,4,15,12.83,14,14,1,True,True,3,148.31
+Cidco N-6,Villa,956,2,4,6,18.2,5,6,2,False,True,1,267.03
+Panchakki,Villa,1050,2,4,27,14.09,5,7,1,False,True,6,205.43
+Rahatani,Plot,1802,2,3,28,8.12,16,16,0,False,True,4,109.22
+Cidco N-6,Bungalow,1549,1,2,15,12.87,8,19,2,False,True,5,298.19
+Rahatani,Apartment,1320,4,1,21,2.47,10,14,1,False,True,5,173.94
+Madhuban Colony,Villa,2370,1,2,18,2.74,6,6,1,False,True,1,220.71
+Cidco N-6,Villa,1771,3,1,21,3.05,13,20,2,False,True,7,365.6
+N-6,Apartment,2374,4,3,0,5.81,14,14,1,True,False,7,345.61
+Garkhadi,Apartment,1033,2,4,18,5.64,14,14,1,False,True,0,144.69
+MIDC,Bungalow,1303,1,2,28,9.73,3,7,1,False,True,0,104.4
+Madhuban Colony,Plot,2592,3,2,17,8.65,8,8,2,False,False,4,179.28
+Kanchanwadi,Apartment,1985,2,2,16,12.93,11,11,1,True,True,1,179.53
+CIDCO,Villa,2411,4,2,9,11.07,15,15,1,False,True,6,449.58
+Waluj,Bungalow,1674,2,3,13,9.94,10,20,1,False,True,1,233.34
+Harsul,Bungalow,1843,3,4,8,16.08,2,2,1,True,True,7,373.57
+Kanchanwadi,Bungalow,1535,3,3,14,9.0,4,20,1,True,True,3,329.81
+CIDCO,Villa,2328,3,1,11,3.37,6,16,1,True,True,1,374.81
+Kanchanwadi,Villa,2568,3,2,18,14.48,13,13,2,True,True,4,367.35
+Cidco N-6,Villa,1616,4,2,8,14.85,10,10,1,False,True,3,333.11
+Samarth Nagar,Villa,1549,3,2,18,16.48,14,14,0,False,False,8,229.76
+Harsul,Apartment,1764,3,1,23,9.61,7,20,1,False,False,8,203.18
+Rahatani,Villa,828,2,1,0,18.46,15,15,0,True,False,0,115.58
+Panchakki,Plot,1844,2,3,25,8.52,11,17,2,True,False,0,139.82
+CIDCO,Villa,1559,3,3,12,17.29,5,9,1,False,True,5,302.45
+Cidco N-6,Apartment,1255,3,2,27,8.19,12,18,1,True,True,5,221.66
+Samarth Nagar,Bungalow,429,3,2,25,2.84,7,7,1,True,True,4,219.01
+Jalna Road,Bungalow,1326,1,2,17,10.86,2,8,1,True,False,2,175.63
+Garkhadi,Flat,557,4,2,14,6.48,9,15,1,True,True,7,201.04
+Jalna Road,Plot,2043,4,2,0,2.06,11,11,1,True,False,0,180.8
+Cidco N-6,Apartment,2415,3,2,14,5.98,2,11,1,True,True,8,340.35
+Samarth Nagar,Villa,612,2,3,19,17.55,14,14,1,False,True,2,149.23
+N-6,Plot,1047,3,2,4,1.78,11,14,1,True,True,0,160.01
+Harsul,Flat,1458,2,2,23,13.27,14,16,1,False,True,6,158.71
+Waluj,Plot,1842,4,2,28,14.22,6,10,1,True,True,2,138.59
+Garkhadi,Plot,1478,4,1,0,5.19,5,5,1,True,True,0,138.16
+Garkhadi,Flat,1089,3,1,1,16.48,2,16,2,False,False,4,170.95
+MIDC,Bungalow,836,4,2,20,13.25,11,11,1,False,False,2,182.06
+CIDCO,Bungalow,1893,3,2,27,17.15,5,17,1,True,False,1,240.78
+Madhuban Colony,Plot,584,4,2,22,7.34,13,19,1,True,True,2,148.77
+Waluj,Flat,1188,3,3,2,15.01,4,6,0,False,True,7,189.74
+CIDCO,Flat,1839,5,2,25,17.11,2,4,1,True,False,4,226.7
+Cidco N-6,Flat,1038,2,2,19,11.99,12,12,1,False,False,1,111.67
+N-6,Flat,1002,4,4,23,5.83,8,19,1,True,True,4,237.04
+Shivaji Nagar,Bungalow,1141,2,2,25,5.93,13,13,2,False,True,8,308.72
+Harsul,Villa,1625,2,3,26,1.81,16,18,1,False,True,7,276.57
+N-6,Apartment,1952,3,2,16,13.13,3,12,1,False,True,2,203.88
+Aundh,Flat,1075,5,2,10,8.54,9,9,1,False,True,2,217.33
+Madhuban Colony,Plot,1049,1,1,12,7.44,3,6,2,True,True,2,103.79
+Panchakki,Apartment,712,2,3,24,8.48,2,6,1,True,True,6,156.68
+Harsul,Bungalow,1051,3,1,19,13.79,6,6,1,True,True,8,240.65
+Aundh,Plot,1811,1,2,3,5.29,2,3,1,False,False,2,125.47
+Aundh,Apartment,1144,4,1,26,4.44,3,13,1,False,False,1,149.5
+MIDC,Flat,2203,3,2,12,6.57,1,5,1,True,True,8,251.61
+Jalna Road,Villa,1671,4,3,21,1.52,13,13,1,False,False,7,316.62
+Waluj,Flat,1704,3,3,12,12.34,10,14,1,False,True,6,208.91
+Harsul,Villa,1158,1,1,13,15.25,6,6,1,True,True,0,123.57
+Kanchanwadi,Villa,2598,2,4,9,13.96,4,4,1,False,True,6,353.85
+Kanchanwadi,Plot,1557,3,2,20,4.24,7,7,1,True,True,6,167.31
+CIDCO,Flat,428,1,2,6,14.22,11,11,1,True,True,5,162.31
+Madhuban Colony,Flat,1526,2,2,7,10.85,1,13,1,True,True,2,202.2
+Kanchanwadi,Plot,675,1,2,22,8.85,15,15,2,False,True,8,137.52
+Harsul,Plot,1998,3,4,6,5.15,16,16,2,True,True,1,243.18
+MIDC,Bungalow,1145,2,1,13,10.89,4,4,2,True,True,2,194.84
+Harsul,Plot,1044,1,2,16,13.93,8,13,2,False,True,1,99.31
+Madhuban Colony,Apartment,2083,5,2,12,3.11,2,15,1,False,False,2,242.13
+Rahatani,Plot,2560,1,3,8,5.71,3,6,1,False,True,7,187.66
+Garkhadi,Apartment,1863,5,2,27,10.57,8,19,1,True,True,0,211.07
+Samarth Nagar,Flat,2020,2,3,26,8.29,13,13,1,True,False,2,178.77
+Harsul,Villa,2497,3,4,5,7.34,8,10,1,False,True,7,432.16
+Rahatani,Flat,512,3,3,4,14.5,14,15,1,False,True,7,180.6
+Jalna Road,Bungalow,508,3,2,19,9.27,16,16,1,False,False,4,172.36
+Shivaji Nagar,Plot,1212,4,3,27,6.64,14,16,1,False,True,5,164.96
+Garkhadi,Plot,857,5,2,18,10.57,9,11,1,False,True,8,163.04
+Rahatani,Apartment,1758,5,1,28,18.27,6,14,1,False,True,4,166.89
+Rahatani,Apartment,494,4,1,17,15.67,12,18,0,True,True,8,152.81
+Harsul,Apartment,1771,3,3,17,10.87,16,16,2,False,True,5,250.42
+Samarth Nagar,Flat,479,2,4,25,7.8,1,3,0,True,True,6,147.97
+Jalna Road,Apartment,1877,3,1,11,8.09,4,19,1,False,False,8,231.5
+Rahatani,Villa,2189,3,1,24,9.66,1,5,1,True,False,0,158.38
+Aundh,Flat,2171,2,3,1,5.43,10,11,2,True,True,0,290.71
+Panchakki,Villa,2148,3,4,26,17.08,6,11,2,True,False,2,288.34
+Rahatani,Villa,2206,4,1,13,14.56,6,7,1,True,True,4,271.66
+CIDCO,Villa,2463,2,4,9,10.7,11,13,1,False,True,1,377.49
+Samarth Nagar,Flat,1342,2,2,2,17.98,10,12,1,True,True,0,161.91
+Harsul,Bungalow,943,3,4,27,2.66,16,16,2,False,True,7,332.45
+Jalna Road,Villa,1429,3,2,22,12.98,11,11,1,False,True,5,214.3
+Samarth Nagar,Villa,835,2,4,10,9.82,3,16,0,True,True,0,217.06
+Kanchanwadi,Apartment,1478,3,2,15,5.42,12,12,1,True,True,8,255.43
+Samarth Nagar,Villa,879,4,3,3,7.56,10,20,1,True,False,3,312.4
+Harsul,Bungalow,2511,3,2,3,10.51,14,14,2,True,True,8,496.31
+N-6,Bungalow,573,3,2,28,4.48,3,13,1,False,True,0,149.48
+MIDC,Bungalow,1173,2,1,5,3.58,10,15,1,False,False,3,208.13
+Cidco N-6,Plot,624,1,2,3,7.56,16,16,1,False,True,7,152.83
+Jalna Road,Flat,2048,3,1,9,5.32,13,13,1,False,False,6,209.14
+Rahatani,Villa,635,3,2,25,1.99,2,5,0,False,True,3,126.99
+MIDC,Flat,1814,2,3,17,11.61,10,11,1,True,True,8,227.83
+Panchakki,Plot,2295,3,2,17,16.98,12,17,1,False,True,8,192.44
+MIDC,Apartment,630,2,1,23,11.42,3,6,1,False,True,7,115.99
+Waluj,Apartment,1764,4,2,8,17.23,4,10,1,True,True,2,195.77
+Jalna Road,Plot,849,1,3,20,2.0,11,15,2,True,True,3,137.07
+Waluj,Plot,746,2,4,18,1.69,1,20,1,True,True,7,154.15
+Madhuban Colony,Villa,1025,3,2,13,11.45,8,13,0,False,True,8,250.55
+CIDCO,Bungalow,468,4,3,6,3.65,13,13,1,True,True,1,321.89
+Samarth Nagar,Plot,934,4,4,9,3.78,11,13,1,False,True,0,180.68
+Madhuban Colony,Plot,833,4,3,1,6.32,2,6,1,False,True,1,173.53
+Rahatani,Plot,2452,2,3,4,17.06,3,8,1,False,True,3,149.89
+Harsul,Plot,667,3,3,17,6.97,14,14,1,False,True,3,118.37
+Madhuban Colony,Bungalow,1958,2,2,5,7.57,4,5,1,True,False,0,267.08
+Samarth Nagar,Plot,1402,3,2,0,16.04,14,14,1,True,True,2,178.41
+Jalna Road,Villa,1470,1,3,13,2.8,4,16,2,True,False,5,282.15
+Samarth Nagar,Villa,2097,4,1,11,17.88,2,8,1,False,True,3,275.69
+N-6,Bungalow,2139,2,1,27,10.15,4,10,1,False,True,8,294.3
+Harsul,Plot,1718,4,4,18,8.5,2,15,1,True,False,0,174.94
+N-6,Plot,1559,5,2,24,6.08,11,13,0,False,False,5,159.63
+Rahatani,Bungalow,976,4,1,8,16.6,1,15,2,False,False,1,208.4
+Samarth Nagar,Villa,563,2,4,18,10.07,3,18,1,False,True,5,252.25
+Harsul,Flat,1298,2,3,14,1.74,9,9,1,True,True,1,200.24
+Madhuban Colony,Flat,2519,4,3,0,4.67,5,14,1,True,True,0,324.26
+Shivaji Nagar,Flat,1372,4,3,23,12.59,15,16,1,True,True,0,191.59
+Garkhadi,Bungalow,1534,1,2,8,7.81,8,19,1,True,True,4,248.92
+Aundh,Flat,1010,4,2,14,1.98,16,16,1,False,False,6,221.64
+N-6,Villa,740,5,3,25,3.95,10,10,1,False,True,3,256.81
+Shivaji Nagar,Apartment,631,1,2,16,8.84,13,13,0,True,True,7,153.39
+N-6,Apartment,1040,4,1,10,14.75,8,14,2,True,True,5,232.92
+MIDC,Plot,547,1,2,19,6.82,2,5,1,True,False,0,33.79
+Waluj,Flat,2310,1,3,1,12.62,6,7,0,True,False,0,157.09
+Waluj,Apartment,2016,3,2,0,15.17,9,12,2,False,True,6,248.42
+Waluj,Apartment,1104,3,4,2,9.56,1,16,1,True,True,2,219.47
+Cidco N-6,Villa,1620,4,4,4,4.62,5,5,1,True,True,3,434.78
+Panchakki,Apartment,1001,5,4,21,13.92,9,11,1,False,False,2,187.76
+CIDCO,Flat,1168,3,3,10,3.1,5,17,1,False,True,4,261.15
+CIDCO,Flat,1527,5,3,11,11.43,12,12,1,True,True,1,274.46
+Rahatani,Plot,792,2,2,28,8.38,10,19,2,True,True,8,135.51
+N-6,Flat,2318,2,1,0,10.0,9,11,1,True,True,7,293.82
+MIDC,Apartment,868,3,2,19,15.89,5,5,1,True,True,8,179.01
+Cidco N-6,Flat,2029,3,3,4,15.67,11,11,1,True,True,7,331.66
+CIDCO,Plot,1066,1,2,16,8.47,9,15,1,False,True,1,121.2
+Harsul,Bungalow,1027,4,2,10,1.53,7,8,0,True,True,6,311.82
+Panchakki,Bungalow,2277,2,1,0,1.56,3,5,1,True,True,1,340.04
+Cidco N-6,Flat,1382,2,2,14,14.12,15,15,1,False,True,4,190.54
+Samarth Nagar,Apartment,2161,3,2,7,2.19,1,20,1,False,True,1,276.76
+Garkhadi,Flat,2245,1,1,28,2.95,3,19,1,False,True,2,146.74
+Cidco N-6,Villa,1034,5,2,8,15.18,1,4,1,True,True,6,349.2
+Waluj,Villa,1956,5,3,8,6.32,9,14,1,True,True,0,320.2
+Panchakki,Apartment,990,3,2,2,13.21,5,6,1,False,True,4,208.93
+N-6,Bungalow,996,1,2,28,2.69,9,12,2,False,False,5,193.14
+Harsul,Bungalow,1696,2,4,11,18.43,1,2,1,True,True,8,353.21
+MIDC,Villa,859,3,3,2,12.18,11,13,1,True,False,6,254.85
+CIDCO,Apartment,2323,3,2,8,8.75,1,3,0,False,True,7,263.03
+Shivaji Nagar,Flat,1241,5,1,23,18.33,14,14,1,True,True,4,216.92
+Garkhadi,Villa,467,3,2,24,7.03,9,11,1,True,False,2,143.57
+Waluj,Bungalow,1316,4,2,26,17.93,4,4,1,True,True,3,208.72
+Panchakki,Bungalow,1029,2,2,13,2.91,14,19,1,False,False,2,230.84
+Aundh,Flat,2034,3,1,12,15.9,13,13,2,False,False,2,200.69
+Shivaji Nagar,Plot,2230,4,2,17,9.01,9,11,1,False,True,0,184.1
+Madhuban Colony,Apartment,569,2,4,25,10.17,16,16,2,True,True,4,193.53
+Panchakki,Apartment,1678,3,3,24,7.93,5,5,1,True,True,4,219.57
+Cidco N-6,Villa,1090,2,2,5,1.79,13,13,2,False,True,1,279.44
+Garkhadi,Plot,2439,4,2,2,10.53,15,15,0,False,True,3,178.01
+Kanchanwadi,Villa,2469,4,2,5,13.81,9,20,2,False,False,6,394.43
+Cidco N-6,Apartment,1842,4,3,1,4.59,6,13,1,False,True,2,304.03
+CIDCO,Apartment,2064,1,3,16,8.71,8,17,1,False,True,8,266.95
+CIDCO,Flat,1088,1,3,3,11.61,2,4,0,True,False,3,144.62
+Rahatani,Bungalow,898,2,3,15,14.21,15,19,1,False,True,6,234.89
+N-6,Villa,628,3,2,18,12.52,15,18,1,True,True,1,191.49
+Waluj,Villa,1335,2,1,3,1.88,6,19,1,False,True,0,200.87
+Cidco N-6,Bungalow,650,3,2,13,3.3,1,19,1,True,True,2,284.35
+Harsul,Plot,1993,2,2,3,10.6,16,16,2,True,False,8,227.63
+Rahatani,Apartment,1165,4,2,21,13.79,12,13,1,False,True,2,148.99
+Aundh,Villa,1215,4,1,28,8.22,6,7,2,True,True,6,299.6
+Cidco N-6,Bungalow,1863,4,2,21,9.53,13,16,1,True,True,1,342.58
+Samarth Nagar,Villa,1001,1,1,3,15.76,10,10,1,True,False,3,160.85
+CIDCO,Plot,1476,4,1,27,5.1,4,19,2,False,True,4,185.81
+Harsul,Apartment,461,2,1,13,11.71,3,3,1,True,True,5,136.76
+Jalna Road,Bungalow,1913,4,3,12,13.37,13,13,1,False,True,5,346.6
+MIDC,Apartment,802,1,1,3,16.47,9,17,1,False,True,8,160.29
+Kanchanwadi,Bungalow,920,2,2,10,6.96,4,6,1,True,True,7,270.02
+Shivaji Nagar,Flat,1379,3,3,15,10.11,11,13,1,True,False,0,192.47
+Cidco N-6,Plot,2311,2,3,0,4.11,10,15,1,False,True,4,241.88
+Waluj,Bungalow,998,1,1,3,1.96,7,7,2,False,True,4,218.44
+Waluj,Plot,1361,3,3,6,3.16,11,11,2,False,False,7,164.91
+Shivaji Nagar,Villa,2481,4,3,21,4.58,2,7,1,True,False,6,400.2
+Jalna Road,Flat,2266,2,2,9,18.45,15,15,1,True,True,6,239.96
+N-6,Bungalow,696,4,3,10,5.04,13,17,1,True,True,3,356.13
+Jalna Road,Plot,2366,3,2,21,13.3,9,18,2,False,True,3,168.71
+Garkhadi,Villa,1937,4,2,11,14.9,5,17,1,True,True,5,316.7
+Waluj,Bungalow,1474,4,2,21,12.66,11,15,1,False,True,7,267.65
+Madhuban Colony,Villa,1463,2,3,18,13.48,1,9,2,False,True,2,236.03
+Samarth Nagar,Bungalow,953,3,2,1,13.5,6,6,1,True,True,7,344.26
+Aundh,Bungalow,2164,3,4,3,8.69,2,11,1,False,True,4,442.67
+MIDC,Bungalow,1373,1,1,3,15.7,1,8,1,False,True,2,180.36
+Kanchanwadi,Plot,476,1,4,8,4.63,13,13,1,True,True,0,129.32
+Waluj,Bungalow,499,5,3,2,8.3,7,16,2,True,True,0,311.87
+Panchakki,Plot,1232,2,2,14,4.62,9,14,1,False,False,7,137.44
+Panchakki,Bungalow,2194,5,4,0,10.68,2,14,1,True,True,5,530.74
+Kanchanwadi,Plot,1751,1,3,23,11.78,5,16,1,False,True,8,163.65

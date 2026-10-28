@@ -1,0 +1,36 @@
+SAMBHAJINAGAR_LOCATIONS = [
+    {"id": "cidco-n-1", "name": "CIDCO N-1", "latitude": 19.8614, "longitude": 75.3066},
+    {"id": "cidco-n-2", "name": "CIDCO N-2", "latitude": 19.8698, "longitude": 75.3211},
+    {"id": "cidco-n-3", "name": "CIDCO N-3", "latitude": 19.8838, "longitude": 75.3264},
+    {"id": "cidco-n-4", "name": "CIDCO N-4", "latitude": 19.8645, "longitude": 75.3498},
+    {"id": "cidco-n-5", "name": "CIDCO N-5", "latitude": 19.8761, "longitude": 75.3315},
+    {"id": "cidco-n-6", "name": "CIDCO N-6", "latitude": 19.8897, "longitude": 75.3565},
+    {"id": "cidco-n-7", "name": "CIDCO N-7", "latitude": 19.8962, "longitude": 75.3408},
+    {"id": "cidco-n-8", "name": "CIDCO N-8", "latitude": 19.9054, "longitude": 75.3459},
+    {"id": "cidco-n-9", "name": "CIDCO N-9", "latitude": 19.9012, "longitude": 75.3671},
+    {"id": "cidco-n-10", "name": "CIDCO N-10", "latitude": 19.9142, "longitude": 75.3722},
+    {"id": "garkheda", "name": "Garkheda", "latitude": 19.8799, "longitude": 75.3892},
+    {"id": "beed-bypass", "name": "Beed Bypass", "latitude": 19.8894, "longitude": 75.2807},
+    {"id": "kranti-chowk", "name": "Kranti Chowk", "latitude": 19.8760, "longitude": 75.3450},
+    {"id": "chikalthana", "name": "Chikalthana", "latitude": 19.8572, "longitude": 75.3880},
+    {"id": "waluj", "name": "Waluj", "latitude": 19.8225, "longitude": 75.7669},
+    {"id": "osmanpura", "name": "Osmanpura", "latitude": 19.8884, "longitude": 75.3349},
+    {"id": "satara-parisar", "name": "Satara Parisar", "latitude": 19.9190, "longitude": 75.3305},
+    {"id": "town-centre", "name": "Town Centre", "latitude": 19.8752, "longitude": 75.3389},
+    {"id": "railway-station-area", "name": "Railway Station Area", "latitude": 19.9001, "longitude": 75.3126},
+    {"id": "jalna-road", "name": "Jalna Road", "latitude": 19.9342, "longitude": 75.3516},
+    {"id": "harsool-road", "name": "Harsool Road", "latitude": 19.8581, "longitude": 75.3916},
+    {"id": "kanchanwadi", "name": "Kanchanwadi", "latitude": 19.8648, "longitude": 75.2983},
+    {"id": "nakshatrawadi", "name": "Nakshatrawadi", "latitude": 19.9096, "longitude": 75.3325},
+    {"id": "paithan-road", "name": "Paithan Road", "latitude": 19.9380, "longitude": 75.3185},
+    {"id": "itkheda", "name": "Itkheda", "latitude": 19.8388, "longitude": 75.3817},
+    {"id": "deolai", "name": "Deolai", "latitude": 19.8294, "longitude": 75.3337},
+    {"id": "mukundwadi", "name": "Mukundwadi", "latitude": 19.8921, "longitude": 75.3112},
+    {"id": "shahnoorwadi", "name": "Shahnoorwadi", "latitude": 19.9055, "longitude": 75.2833},
+    {"id": "shahanurwadi", "name": "Shahanurwadi", "latitude": 19.9158, "longitude": 75.2928},
+    {"id": "beed-bypass", "name": "Beed Bypass", "latitude": 19.8894, "longitude": 75.2807},
+]
+
+LOCALITY_COORDS = {entry["name"]: (entry["latitude"], entry["longitude"]) for entry in SAMBHAJINAGAR_LOCATIONS}
+LOCALITY_NAMES = [entry["name"] for entry in SAMBHAJINAGAR_LOCATIONS]
+LOCALITIES = sorted(dict.fromkeys(LOCALITY_NAMES))
