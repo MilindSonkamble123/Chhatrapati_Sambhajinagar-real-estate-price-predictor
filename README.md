@@ -49,3 +49,19 @@ Then open `http://localhost:8000`.
 The SQLite database is local to the container unless persistent storage is
 configured. The included Azure template is a starting point; set a real
 container image in `infra/main.parameters.json` before deploying.
+## About
+
+Real Estate Price Predictor is a Streamlit web application that estimates property prices for Chhatrapati Sambhajinagar using a machine learning model trained on local real-estate data. It provides user authentication, property price prediction, and property history tracking, with an Azure Container Apps deployment template included.
+
+### Features
+- Property price prediction using a trained RandomForest model
+- User registration and login with secure password hashing
+- Property history storage in SQLite
+- Data visualization and market exploration
+- Docker and Azure deployment support
+
+### Tech Stack
+- Python 3.10+
+- Streamlit
+- scikit-learn, pandas, numpy, joblib
+- SQLite
