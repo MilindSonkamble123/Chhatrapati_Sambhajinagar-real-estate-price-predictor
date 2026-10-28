@@ -11,7 +11,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-DATASET_PATH = PROJECT_ROOT / "data" / "real_data1.csv"
+DATASET_PATH = PROJECT_ROOT / "dataset" / "real_data1.csv"
 MODEL_PATH = PROJECT_ROOT / "models" / "real_estate_model.pkl"
 TARGET = "Price_INR"
 FEATURES = [

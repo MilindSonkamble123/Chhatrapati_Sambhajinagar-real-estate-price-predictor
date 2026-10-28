@@ -13,10 +13,10 @@ import pandas as pd
 import streamlit as st
 import streamlit.components.v1 as components
 
-from location_config import LOCALITY_COORDS, LOCALITIES, SAMBHAJINAGAR_LOCATIONS
+import sys; sys.path.insert(0, str(Path(__file__).resolve().parent / "backend"))\nfrom location_config import LOCALITY_COORDS, LOCALITIES, SAMBHAJINAGAR_LOCATIONS
 
-PROJECT_ROOT = Path(__file__).resolve().parents[1]
-DATASET_PATH = PROJECT_ROOT / "data" / "real_data1.csv"
+PROJECT_ROOT = Path(__file__).resolve().parent
+DATASET_PATH = PROJECT_ROOT / "dataset" / "real_data1.csv"
 MODEL_PATH = PROJECT_ROOT / "models" / "real_estate_model.pkl"
 DB_PATH = PROJECT_ROOT / "data" / "real_estate_app.db"
 LOGO_PATH = PROJECT_ROOT / "assets" / "csn-real-estate-logo.png"

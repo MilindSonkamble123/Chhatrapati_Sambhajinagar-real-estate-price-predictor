@@ -6,7 +6,7 @@ import sys
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent
-APP_PATH = PROJECT_ROOT / "src" / "app.py"
+APP_PATH = PROJECT_ROOT / "app.py"
 
 PREFERRED_PORTS = [8501, 8502, 8503, 8504, 8505, 8506, 8507, 8508, 8510, 9000, 9001, 9002, 9003, 9004, 9005, 9010]
 

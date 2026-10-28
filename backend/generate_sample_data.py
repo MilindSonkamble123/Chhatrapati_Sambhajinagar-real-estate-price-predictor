@@ -5,7 +5,7 @@ import pandas as pd
 
 random.seed(42)
 
-DATA_DIR = Path(__file__).resolve().parents[1] / "data"
+DATA_DIR = Path(__file__).resolve().parents[1] / "dataset"
 OUTPUT_FILE = DATA_DIR / "real_estate_chhatrapati_sambhajinagar.csv"
 
 locality_factors = {
